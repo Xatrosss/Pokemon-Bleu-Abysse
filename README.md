@@ -270,7 +270,7 @@ L’objectif est de rendre le comportement des dresseurs plus humain et de diver
 Correction des attaque de Nidoking qui planté au lvl 50.,
 
 ---------------------------------------------------------
-**- modification 17/05/25 :
+###- modification 17/05/25 :
 Correction des LVL de certains dresseur de la zone du chenal 19 a 21 qui n'était pas bien adapté à la zone.
 
 </details>
