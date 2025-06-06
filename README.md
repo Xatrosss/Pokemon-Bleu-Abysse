@@ -46,7 +46,7 @@ Quelques ajouts importants :
 - 🧠 IA améliorée : attaques inutiles ou inefficaces évitées, comportements plus humains.
 - 🛠️ Rééquilibrages de niveau, attaques, Pokémon.
 - 🎁 Ajout de PNJ utiles (modification DV, vente Évoli, etc.).
-- 🧪 Ajout de **30 nouvelles attaques** (pas encore toutes attribuées).
+- 🧪 Ajout de **30 nouvelles attaques** (Non attribuées pour gardé la compatibilité).
 - 🐍 Remplacement de la Grotte de Mewtwo par une version plus difficile (Pokémon Vert Japonais).
 
 ---
