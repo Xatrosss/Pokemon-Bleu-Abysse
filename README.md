@@ -173,7 +173,7 @@ Et pour ceux qui aime le tout cuit, voilà comment finir le jeu...
 </details>
 
 <details>
-##  <summary> ## 📘 Mise à jours </summary>
+##  <summary> 📘 Mise à jours </summary>
 
 Dernière modification 28/07/24 :
  
