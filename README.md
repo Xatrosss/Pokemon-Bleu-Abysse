@@ -62,9 +62,9 @@ Oui, voici les **quelques points définitifs** :
 ---
 
 ### Je n’ai pas de couleurs dans mon jeu, est-ce normal ?
-Oui, selon votre émulateur :
-- Sur **console Game Boy**, les graphismes sont en **nuances de bleu**.
-- Sur **RomStation**, l’émulateur est par défaut en **noir et blanc** : modifiez les options pour les couleurs (voir le [tuto émulation](#)).
+- Sur **émulateur** OUI, à vous de modifier les options appropriées.
+- Sur **console Game Boy** NON, les graphismes sont en **nuances de bleu**.
+- Sur **RomStation** OUI, l’émulateur est par défaut en **noir et blanc** : modifiez les options pour les couleurs).
   
 ---
 
