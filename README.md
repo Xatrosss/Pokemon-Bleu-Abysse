@@ -7,8 +7,8 @@ Bienvenue dans le monde de **Pokémon : Bleu Abysse**, une aventure exigeante et
 > **Statut** : Jeu Terminé  
 > **Langue** : Français  
 > **Base** : Pokémon Rouge (TTP Anniversary Red)  
-> **Plateforme : Game Boy  
-> **Développeur : **Xatros**  
+> **Plateforme** : Game Boy  
+> **Développeur** : **Xatros**  
 
 ---
 
