@@ -4,7 +4,7 @@ Bienvenue dans le monde de **Pokémon : Bleu Abysse**, une aventure exigeante et
 
 ## 👾 À propos du projet
 
-> **Statut** : Développement du Jeu Terminé
+> **Statut** : Développement du Jeu Terminé  
 > **Langue** : Français  
 > **Plateforme** : Game Boy  
 > **Développeur** : **Xatros**  
