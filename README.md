@@ -176,9 +176,9 @@ Et pour ceux qui aime le tout cuit, voilà comment finir le jeu...
 <details>
  <summary> - Mise à jours </summary>
 
+---------------------------------------------------------
 ### - modification 28/07/24 :
- 
-TOUT les dresseur utilisais des guérisons : Correction seul ceux des arènes et ligues le font maintenant les autre dresseurs retrouve leurs caractéristiques d'origines.
+- TOUT les dresseur utilisais des guérisons : Correction seul ceux des arènes et ligues le font maintenant les autre dresseurs retrouve leurs caractéristiques d'origines.
 
 ---------------------------------------------------------
 ### - modification 08/09/24 :
