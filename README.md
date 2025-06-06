@@ -178,89 +178,89 @@ Et pour ceux qui aime le tout cuit, voilà comment finir le jeu...
 
 ### - modification 28/07/24 :
  
-TOUT les dresseur utilisais des guérisons : Correction seul ceux des arènes et ligues le font maintenant les autre dresseurs retrouve leurs caractéristiques d'origines.,
+TOUT les dresseur utilisais des guérisons : Correction seul ceux des arènes et ligues le font maintenant les autre dresseurs retrouve leurs caractéristiques d'origines.
 
 ---------------------------------------------------------
 ### - modification 08/09/24 :
-Correction du texte du PNJ de la pension pokémon. Le signe $ du prix ne s'affiché pas et il y avait un retour à la ligne après le nom du pokémon a mettre en pension.,
-Suppression des Super Ball et Ultra Ball des objet caché dans la nature remplacement par des Poké Ball classique.,
+- Correction du texte du PNJ de la pension pokémon. Le signe $ du prix ne s'affiché pas et il y avait un retour à la ligne après le nom du pokémon a mettre en pension.
+- Suppression des Super Ball et Ultra Ball des objet caché dans la nature remplacement par des Poké Ball classique.
 
 ---------------------------------------------------------
 ### - modification 09/09/24 :
-Correction de la CT donné par le champion "Pierre" il donné la CT09 au lieu de la CT34.,
-Réajustement des niveau vers le bas des pokémon sur le Chenal 21. Cela donnai accès a des pokémon HL trop rapidement avec Surf.,
-Correction du Texte (ajout de l'espace) du 2eme badge cascade dans les discours des PNJ. de BadgeCascade à Badge Cascade,
-Retrais de Electek du Parc Safari cela rend sont obtention un peut plus compliqué,
+- Correction de la CT donné par le champion "Pierre" il donné la CT09 au lieu de la CT34.
+- Réajustement des niveau vers le bas des pokémon sur le Chenal 21. Cela donnai accès a des pokémon HL trop rapidement avec Surf.
+- Correction du Texte (ajout de l'espace) du 2eme badge cascade dans les discours des PNJ. de BadgeCascade à Badge Cascade.
+- Retrais de Electek du Parc Safari cela rend sont obtention un peut plus compliqué.
 
 ---------------------------------------------------------
 ### - modification 22/09/24 :
 
-Modification des niveaux des Pokemon de la 2eme ligue : Augmentation des lvl.,
-Correction des Pokemon légendaire qui n'apprenais pas d'attaques a cause de leurs niveau de base trop élevé.,
-Modification de la tente de combat pour que le challenge soit plus dur et augmentation de la récompense.,
-Ajout de texte à certains PNJs pour qu'il donne des infos sur les pokémon rare des zone à plusieurs étage.,
+- Modification des niveaux des Pokemon de la 2eme ligue : Augmentation des lvl.
+- Correction des Pokemon légendaire qui n'apprenais pas d'attaques a cause de leurs niveau de base trop élevé.
+- Modification de la tente de combat pour que le challenge soit plus dur et augmentation de la récompense.
+- Ajout de texte à certains PNJs pour qu'il donne des infos sur les pokémon rare des zone à plusieurs étage.
  
 ---------------------------------------------------------
 ### - modification 26/09/24 :
-Modification de la liste d'attaque ce certain pokémon qui ne pouvais pas apprendre certaine attaque - Exemple : taupiqueur - Cs Coupe,
-(16 Pokémon modifier pour être similaire au attaque de pokémon rouge et bleu qui sont différente de la version jaune.) 
+- Modification de la liste d'attaque ce certain pokémon qui ne pouvais pas apprendre certaine attaque - Exemple : taupiqueur - Cs Coupe.
+(16 Pokémon modifier pour être similaire au attaque de pokémon rouge et bleu qui sont différente de la version jaune.).
 
 ---------------------------------------------------------
 ### - modification 14/10/24 :
-Modification du texte du Prof Chen lors de la fin de la première ligue pour qu'il rappel au joueur que le jeu n'est pas encore terminé.,
-Modification et correction du texte de la dernière image lors de la 2eme fin du jeu.,
+- Modification du texte du Prof Chen lors de la fin de la première ligue pour qu'il rappel au joueur que le jeu n'est pas encore terminé.
+- Modification et correction du texte de la dernière image lors de la 2eme fin du jeu.
 
 ---------------------------------------------------------
 ### - modification 24/10/24 : 
 
-Correction des chiffre des boite 10 11 et 12,
-Ajout dans le mémoire du jeu de 30 nouvelle attaque mais non attribuer à vos pokémon,
+- Correction des chiffre des boite 10 11 et 12.
+- Ajout dans le mémoire du jeu de 30 nouvelle attaque mais non attribuer à vos pokémon.
 
 ---------------------------------------------------------
 ### - modification 03/11/24 :  (version RomStation)
-Attribution de la touche B pour le Sprinte. Double la vitesse de déplacement à pied et en vélo.,
-Ajout de la mécanique qui permet de lancé une attaque quand le pokemon est endormis pour son réveil comme dans la 2G.,
-Ajout d'un PNJ qui permet de modifier les stats d'un pokémon de sont équipe pour lui donné un DV parfait en échange d'un objet.,
-Ajout d'un PNJ dans le parc safari qui vend Evoli contre de l'argent (beaucoup d'argent),
-Suppression du PNJ qui vent le Magicarpe dans le centre pokémon du mont Célénite (oui il est partit au parc safari !),
-Correction du bug qui bloqué le jeu si 300 PokéBall était acheter d'un coup.,
+- Attribution de la touche B pour le Sprinte. Double la vitesse de déplacement à pied et en vélo.
+- Ajout de la mécanique qui permet de lancé une attaque quand le pokemon est endormis pour son réveil comme dans la 2G.
+- Ajout d'un PNJ qui permet de modifier les stats d'un pokémon de sont équipe pour lui donné un DV parfait en échange d'un objet.
+- Ajout d'un PNJ dans le parc safari qui vend Evoli contre de l'argent (beaucoup d'argent),
+- Suppression du PNJ qui vent le Magicarpe dans le centre pokémon du mont Célénite (oui il est partit au parc safari !).
+- Correction du bug qui bloqué le jeu si 300 PokéBall était acheter d'un coup.
 
 ---------------------------------------------------------
 ### - modification 06/11/24 :
-Retrais des texte inutile de Joëlle qui parle beaucoup trop pour faire le soin de l'équipe.,
-Fin de correction du bug des Pokéball de la dernière maj il y avait un oubli avec les objet ramassé.,
+- Retrais des texte inutile de Joëlle qui parle beaucoup trop pour faire le soin de l'équipe.
+- Fin de correction du bug des Pokéball de la dernière maj il y avait un oubli avec les objet ramassé.
 
 ---------------------------------------------------------
 ### - modification 31/03/25 :
-Ptéra peut désormais apprendre Éboulement.,
-Dracaufeu et Dracolosse peuvent apprendre Vol.,
-Les Pokémon du Badge Roche ont été rééquilibrés, car ils étaient trop forts avec les nouvelles attaques.,
-L'IA a été modifiée pour ne plus utiliser d'attaques inutiles ou inefficaces. (il est beaucoup plus fort),
-La Grotte de Mewtwo a été remplacée par la version plus difficile de la Grotte présente dans la version japonaise Pokémon Vert.,
-Le niveau de certains dresseurs comme les match retour des champions d'arène et la seconde  ligue, a été augmenté pour offrir un vrai challenge.,
-Des modifications et ajouts d'attaques ont été effectués sur tous les Pokémon du jeu, afin d'ajouter des attaques après le niveau 50 et mieux correspondre à cette version, tout en gardant au maximum les attaques de base des Pokémon.,
+- Ptéra peut désormais apprendre Éboulement.,
+- Dracaufeu et Dracolosse peuvent apprendre Vol.,
+- Les Pokémon du Badge Roche ont été rééquilibrés, car ils étaient trop forts avec les nouvelles attaques.
+- L'IA a été modifiée pour ne plus utiliser d'attaques inutiles ou inefficaces. (il est beaucoup plus fort)
+- La Grotte de Mewtwo a été remplacée par la version plus difficile de la Grotte présente dans la version japonaise Pokémon Vert.
+- Le niveau de certains dresseurs comme les match retour des champions d'arène et la seconde  ligue, a été augmenté pour offrir un vrai challenge.
+- Des modifications et ajouts d'attaques ont été effectués sur tous les Pokémon du jeu, afin d'ajouter des attaques après le niveau 50 et mieux correspondre à cette version, tout en gardant au maximum les attaques de base des Pokémon.
  
 ---------------------------------------------------------
 ### - modification 15/04/25 :
-Correction du bug qui empêche d'utilisé les pierre d'évolution,
+- Correction du bug qui empêche d'utilisé les pierre d'évolution.
  
 ---------------------------------------------------------
 ### - modification 22/04/25 :
-Correction du bug qui causé aucun dégât sur les Coup Critique avec des pokémon supérieur au niveau 127.
+- Correction du bug qui causé aucun dégât sur les Coup Critique avec des pokémon supérieur au niveau 127.
 
 ---------------------------------------------------------
 ### - modification 30/04/25 :
-Correction du PNJ qui s'est invité dans la grotte final du jeu. il n'avait rien à faire ici et à été retirer.
+- Correction du PNJ qui s'est invité dans la grotte final du jeu. il n'avait rien à faire ici et à été retirer.
 
 ---------------------------------------------------------
 ### - modification 06/05/25 :
 Correction de l'IA :
 
-Modification du comportement des attaques de changement d'état :,
-Le spam des attaques comme l'endormissement rend les combats ennuyeux, voire bloqués. De même, utiliser une attaque de paralysie sur un type immunisé rend le match trop simple. Ces attaques ont désormais 1 chance sur 3 d’être choisies par l’IA, afin de limiter leur abus.
+Modification du comportement des attaques de changement d'état :
+- Le spam des attaques comme l'endormissement rend les combats ennuyeux, voire bloqués. De même, utiliser une attaque de paralysie sur un type immunisé rend le match trop simple. Ces attaques ont désormais 1 chance sur 3 d’être choisies par l’IA, afin de limiter leur abus.
 
-Révision de la logique pour les attaques de dégâts :,
-L'IA se contentait auparavant de choisir en boucle l’attaque la plus efficace. Désormais, les dresseurs ont 1 chance sur 3 de lancer une attaque différente de l'attaque la plus puissante qu'ils ont a disposition contre votre pokémon, tant qu’elle n’est pas inefficace (sauf si c’est la seule disponible).
+Révision de la logique pour les attaques de dégâts :
+- L'IA se contentait auparavant de choisir en boucle l’attaque la plus efficace. Désormais, les dresseurs ont 1 chance sur 3 de lancer une attaque différente de l'attaque la plus puissante qu'ils ont a disposition contre votre pokémon, tant qu’elle n’est pas inefficace (sauf si c’est la seule disponible).
 
 Ces choix aléatoires sont totalement indépendants : un dresseur peut changer d’attaque à chaque tour, ou lancer la même plusieurs fois de suite.
 L’objectif est de rendre le comportement des dresseurs plus humain et de diversifier un peu plus les combats. 
