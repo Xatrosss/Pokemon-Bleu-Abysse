@@ -53,72 +53,77 @@ Quelques ajouts importants :
 
 ## ❓ FAQ / Infos utiles
 
-### Est-ce que je dois savoir quelque chose avant de commencer ?
-Oui, voici les **quelques points définitifs** :
-- Vous ne pouvez **plus remonter sur le SS Anne** une fois parti (comme la version original).
-- Les **5 Pokémon légendaires** sont **uniques** : si vous les ratez, vous ne pourrez plus compléter le Pokédex.
-- Une fois la **seconde ligue débloquée**, il est **impossible de refaire la première**.
+### "Est-ce que je dois savoir quelque chose avant de commencer ?"
+Non, pas spécialement, il y a très peu d'actions qui sont définitives. En voici la liste :
+- Vous ne pouvez pas remonter à bord du SS Anne une fois qu'il est parti (bateau).,
+- Vous ne pouvez plus obtenir les 151 Pokémon si vous ratez la capture contre un des 5 légendaires, donc il ne sera plus possible de finir le jeu.,
+- Vous ne pouvez plus recombattre la 1ère ligue une fois que vous avez déclenché la 2ème.
 
 ---
 
-### Je n’ai pas de couleurs dans mon jeu, est-ce normal ?
-- Sur **émulateur** OUI, à vous de modifier les options appropriées.
-- Sur **console Game Boy** NON, les graphismes sont en **nuances de bleu**.
-- Sur **RomStation** OUI, l’émulateur est par défaut en **noir et blanc** : modifiez les options pour les couleurs).
+### "Je n'ai pas de couleur dans mon jeu, est-ce normal ?"
+- Cela vient de votre émulateur, qui ne prend pas en charge les couleurs de cette version ou de la configuration de votre émulateur.
+- Sur RomStation, l'émulateur utilisé est en noir et blanc de base mais modifiant les paramètres vous pouvez aussi avoir les couleurs.
+- Sur la console, il n'y a pas de couleur, ce sont des nuances de bleu. Les couleurs sont créées par l'émulateur. Le jeu de base est sorti sur Game Boy sans couleurs.
   
 ---
 
-### Comment capturer les Pokémon ?
-- **Combattez tous les dresseurs** : cela remplit le Pokédex avec tous les Pokémon vus.
-- Vous pourrez ensuite consulter **leurs zones de capture dans le Pokédex**.
+### "Est-ce que je peux capturer tous les Pokemon & Starters ?"
+- OUI ! Tous les Pokémon sont capturables/obtenables autant de fois que vous le souhaitez, sauf les 5 légendaires qui sont uniques.
 
 ---
 
-### Je cherche un Pokémon rare dans une grotte ou bâtiment à étages.
-- Des **panneaux ou PNJ donnent des indices** sur l’étage ou la zone concernée.
+### "Comment savoir si j'ai bien débloqué la 2ème ligue pour avoir la vraie fin du jeu ?"
+- Le premier Pokémon du premier dresseur du Conseil des 4 est niveau 100.
 
 ---
 
-### À quoi sert la Capsule Évo + ?
-- Un **PNJ dans la boutique** où vous l’achetez vous explique tout.
+### "Comment faire pour savoir à quel endroit capturer les Pokémon ?"
+- Si vous combattez tous les dresseurs du jeu, vous verrez TOUS les Pokémon et pourrez consulter leurs zones de capture dans le Pokédex.
 
 ---
 
-### Comment savoir si j’ai débloqué la 2e ligue (et la vraie fin) ?
-- Le **premier Pokémon du premier membre du Conseil 4 est niveau 100**.
+### "Je ne trouve pas le Pokémon que je cherche car il est dans une grotte/bâtiment avec plein d'étages."
+- Pour les Pokémon les plus rares, qui sont uniques par étage ou zone, il y a une indication sur un panneau ou un PNJ dans la zone qui donne un indice.
 
 ---
 
-### Peut-on capturer tous les Pokémon et starters ?
-- Oui, **tous sont capturables autant de fois que voulu**, **sauf les 5 légendaires**.
+### "Je ne trouve pas Evoli dans le Parc Safari et c'est grand comment savoir si je cherche au bon endroit ?"
+- Dans le Parc Safari il y a un panneau dans chacune des 4 zones qui indique le Pokémon le plus rare de la zone.
 
 ---
 
-### Je n’ai plus d’argent et tous les dresseurs ont été battus, que faire ?
-- **Relevez la Ligue Pokémon** : même une défaite vous rapporte de l’argent.
-- Le **1er combat rapporte 9900$**, et vous gardez **la moitié en cas de défaite**.
+### "Je n'arrive pas à capturer Évoli. Existe-t-il un autre moyen de l'obtenir ?"
+- Un PNJ peut vous le vendre dans le Parc Safari.
 
 ---
 
-### Où sont les 50 CT de Céladopole ?
-- Dans le **grand magasin**, prenez l’ascenseur à gauche et allez au **sous-sol** (pas accessible via les escaliers).
+### "À quoi sert la Capsule Evo + ?"
+- Il y a un PNJ qui donne toutes les indications dans le point de vente de cet objet.
 
 ---
 
-### Je ne trouve pas Évoli au Parc Safari.
-- Chaque **zone du Parc Safari** contient un **panneau** indiquant le Pokémon le plus rare.
-- Il est aussi **achetable (cher) auprès d’un PNJ** dans le Parc Safari.
+### "Je ne trouve pas l'endroit où sont à vendre les 50CT à Celadopole, où sont-elles ?"
+- Les CT se trouvent dans le grand magasin vers la gauche de la ville, au rez-de-chaussée. Prenez à gauche pour prendre l'ascenseur et descendez au sous-sol (les escaliers n'y mènent pas).
 
 ---
 
-### Peut-on faire des combats ou échanges ?
-- **Oui**, entre deux ROM Bleu abysse ou avec les version officiel via émulateur compatible link ou câble Link sur console.
-- ⚠️ Les **sauvegardes ne sont pas compatibles avec les versions officielles**.
+### "Je n'ai plus d'argent pour acheter des objets et j'ai déjà combattu tous les dresseurs, que faire ?"
+- Il y a la ligue Pokémon. Même si vous ne gagnez que le premier combat, qui rapporte 9900$, vous garderez la moitié de vos gains après une défaite.,
+- Si vous ne parvenez pas à battre le premier dresseur, allez vous entraîner contre les Pokémon sauvages de votre niveau.
 
 ---
 
-### Comment savoir les attaques que mon Pokémon va apprendre ?
-- Consultez le **fichier Excel** fourni avec la ROM pour les détails par Pokémon.
+### "Puis-je faire des combats ou des échanges avec cette version ?"
+- Oui, elle est compatible avec elle-même via un émulateur prenant en charge le lien entre deux ROM ou un câble Link sur deux consoles. Elle fonctionne aussi avec les versions officielles.
+### "Puis-je utiliser ma sauvegarde de cette version sur une version officielle ?"
+- Non, les modifications du système sont trop importantes. Cela ne fonctionnera probablement pas ou risque de provoquer des crashs.
+
+---
+
+## "Certaine attaque de Pokémon ont été modifier comment savoir quels attaque mon Pokémon va apprendre ?"
+- Tout est détaillé dans ce fichier Excel trouvez simplement votre Pokémon dans la liste.,
+https://docs.google.com/spreadsheets/d/1EnUo1twgRT_2shenmQN2t-jB0VB_47CGKzTy9DzzDw0/edit?gid=812920465#gid=812920465 
 
 ---
 
