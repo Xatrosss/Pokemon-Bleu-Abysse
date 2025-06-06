@@ -121,7 +121,7 @@ Non, pas spécialement, il y a très peu d'actions qui sont définitives. En voi
 
 ---
 
-## "Certaine attaque de Pokémon ont été modifier comment savoir quels attaque mon Pokémon va apprendre ?"
+### "Certaine attaque de Pokémon ont été modifier comment savoir quels attaque mon Pokémon va apprendre ?"
 - Tout est détaillé dans ce fichier Excel trouvez simplement votre Pokémon dans la liste.,
 https://docs.google.com/spreadsheets/d/1EnUo1twgRT_2shenmQN2t-jB0VB_47CGKzTy9DzzDw0/edit?gid=812920465#gid=812920465 
 
