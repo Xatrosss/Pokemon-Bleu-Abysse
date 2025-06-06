@@ -296,4 +296,4 @@ Liens utiles
 
 - Fichier des attaques modifiées (Excel)
 
-Créateur : Xatros - Dernière mise à jour : 17/05/2025
+Créateur : Xatros
