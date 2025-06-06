@@ -123,8 +123,9 @@ https://docs.google.com/spreadsheets/d/1EnUo1twgRT_2shenmQN2t-jB0VB_47CGKzTy9Dzz
 
 ---
 
+## Mise à jour / Spoiler
 <details>
-  <summary> ## 📘 Voir les informations complètes du projet </summary>
+  <summary> - Voir les informations complètes du projet </summary>
 
 - L'histoire du jeu est celle d'origine de Pokémon Bleu.,
 - Ceci est une version difficile de Pokémon Bleu basée sur Pokémon TTP.,
@@ -173,7 +174,7 @@ Et pour ceux qui aime le tout cuit, voilà comment finir le jeu...
 </details>
 
 <details>
-##  <summary> ## - Mise à jours </summary>
+ <summary> - Mise à jours </summary>
 
 Dernière modification 28/07/24 :
  
