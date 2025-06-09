@@ -1850,9 +1850,9 @@ Créateur : Xatros
 
 </details>
 <details>
-  <summary><strong>078 - Galopa (Rapidash)</strong></summary>
+  <summary><strong>078 - Galopa</strong></summary>
 
-  ### Galopa (Rapidash)
+  ### Galopa
 
   | Niveau | Attaque         | Remarque  |
   |--------|-----------------|-----------|
@@ -1869,9 +1869,9 @@ Créateur : Xatros
 
 </details>
 <details>
-  <summary><strong>079 - Ramoloss (Slowpoke)</strong></summary>
+  <summary><strong>079 - Ramoloss</strong></summary>
 
-  ### Ramoloss (Slowpoke)
+  ### Ramoloss
 
   | Niveau | Attaque       | Remarque  |
   |--------|---------------|-----------|
@@ -1888,9 +1888,9 @@ Créateur : Xatros
 
 </details>
 <details>
-  <summary><strong>080 - Flagadoss (Slowbro)</strong></summary>
+  <summary><strong>080 - Flagadoss</strong></summary>
 
-  ### Flagadoss (Slowbro)
+  ### Flagadoss
 
   | Niveau | Attaque       | Remarque  |
   |--------|---------------|-----------|
@@ -1908,9 +1908,9 @@ Créateur : Xatros
 
 </details>
 <details>
-  <summary><strong>081 - Magnéti (Magnemite)</strong></summary>
+  <summary><strong>081 - Magnéti</strong></summary>
 
-  ### Magnéti (Magnemite)
+  ### Magnéti
 
   | Niveau | Attaque         | Remarque  |
   |--------|-----------------|-----------|
@@ -1927,9 +1927,9 @@ Créateur : Xatros
 
 </details>
 <details>
-  <summary><strong>082 - Magnéton (Magneton)</strong></summary>
+  <summary><strong>082 - Magnéton</strong></summary>
 
-  ### Magnéton (Magneton)
+  ### Magnéton
 
   | Niveau | Attaque         | Remarque  |
   |--------|-----------------|-----------|
@@ -1946,9 +1946,9 @@ Créateur : Xatros
 
 </details>
 <details>
-  <summary><strong>083 - Canarticho (Farfetch’d)</strong></summary>
+  <summary><strong>083 - Canarticho</strong></summary>
 
-  ### Canarticho (Farfetch’d)
+  ### Canarticho
 
   | Niveau | Attaque        | Remarque  |
   |--------|----------------|-----------|
@@ -2188,9 +2188,9 @@ Créateur : Xatros
 
 </details>
 <details>
-  <summary><strong>096 - Soporifik (Drowzee)</strong></summary>
+  <summary><strong>096 - Soporifik</strong></summary>
 
-  ### Soporifik (Drowzee)
+  ### Soporifik
 
   | Niveau | Attaque       | Remarque  |
   |--------|---------------|-----------|
@@ -2209,9 +2209,9 @@ Créateur : Xatros
 
 </details>
 <details>
-  <summary><strong>097 - Hypnomade (Hypno)</strong></summary>
+  <summary><strong>097 - Hypnomade</strong></summary>
 
-  ### Hypnomade (Hypno)
+  ### Hypnomade
 
   | Niveau | Attaque       | Remarque  |
   |--------|---------------|-----------|
@@ -2506,7 +2506,7 @@ Créateur : Xatros
 
 </details>
 <details>
-  <summary><strong>112 - Rhinoféros (Rhydon)</strong></summary>
+  <summary><strong>112 - Rhinoféros</strong></summary>
 
   ### Rhinoféros
 
@@ -2524,7 +2524,7 @@ Créateur : Xatros
 
 </details>
 <details>
-  <summary><strong>113 - Leveinard (Chansey)</strong></summary>
+  <summary><strong>113 - Leveinard</strong></summary>
 
   ### Leveinard
 
@@ -2547,7 +2547,7 @@ Créateur : Xatros
 
 </details>
 <details>
-  <summary><strong>114 - Saquedeneu (Tangela)</strong></summary>
+  <summary><strong>114 - Saquedeneu</strong></summary>
 
   ### Saquedeneu
   
@@ -2568,7 +2568,7 @@ Créateur : Xatros
 
 </details>
 <details>
-  <summary><strong>115 - Kangourex (Kangaskhan)</strong></summary>
+  <summary><strong>115 - Kangourex</strong></summary>
 
   ### Kangourex
 
@@ -2587,7 +2587,7 @@ Créateur : Xatros
 
 </details>
 <details>
-  <summary><strong>116 - Hypotrempe (Horsea)</strong></summary>
+  <summary><strong>116 - Hypotrempe</strong></summary>
 
   ### Hypotrempe
 
@@ -2605,7 +2605,7 @@ Créateur : Xatros
 
 </details>
 <details>
-  <summary><strong>117 - Hypocéan (Seadra)</strong></summary>
+  <summary><strong>117 - Hypocéan</strong></summary>
 
   ### Hypocéan
 
@@ -2623,7 +2623,7 @@ Créateur : Xatros
 
 </details>
 <details>
-  <summary><strong>118 - Poissirène (Goldeen)</strong></summary>
+  <summary><strong>118 - Poissirène</strong></summary>
 
   ### Poissirène
 
@@ -2643,7 +2643,7 @@ Créateur : Xatros
 
 </details>
 <details>
-  <summary><strong>119 - Poissoroy (Seaking)</strong></summary>
+  <summary><strong>119 - Poissoroy</strong></summary>
 
   ### Poissoroy
 
@@ -2663,7 +2663,7 @@ Créateur : Xatros
 
 </details>
 <details>
-  <summary><strong>120 - Stari (Staryu)</strong></summary>
+  <summary><strong>120 - Stari</strong></summary>
 
   ### Stari
 
