@@ -369,7 +369,7 @@ Créateur : Xatros
   | 95   | Plaquage        | Nouvelle   |
   | 140  | Tranch'Herbe    | Hors jeu   |
   | 141  | Poudre Dodo     | Hors jeu   |
-  | 142  | MEGAFOUET       | Hors jeu   |
+  | 142  | MégaFouet       | Hors jeu   |
 
 </details>
 <details>
@@ -441,7 +441,7 @@ Créateur : Xatros
   | 96       | Séisme           | Nouvelle    |
   | 140      | Intimidation     | Hors jeu    |
   | 141      | Tranche          | Hors jeu    |
-  | 142      | BOUTEFEU         | Hors jeu    |
+  | 142      | BouteFeu         | Hors jeu    |
 
 </details>
 <details>
@@ -511,9 +511,9 @@ Créateur : Xatros
   | 72   | Poing-Glace   | Nouvelle  |
   | 82   | Mania         | Nouvelle  |
   | 92   | Blizzard      | Nouvelle  |
-  | lvl 140 | Toxik      | Hors jeu  |
-  | lvl 141 | Hydrocanon | Hors jeu  |
-  | lvl 142 | Exploforce | Hors jeu  |
+  | 140  | Toxik         | Hors jeu  |
+  | 141  | Hydrocanon    | Hors jeu  |
+  | 142  | Exploforce    | Hors jeu  |
 
 </details>
 <details>
@@ -596,7 +596,7 @@ Créateur : Xatros
 
   | Niv. | Attaque       | Remarque  |
   |------|---------------|-----------|
-  | -    | Furie         | Inchangée |
+  | 12   | Furie         | Inchangée |
   | 16   | Affûtage      | Inchangée |
   | 20   | Double-Dard   | Inchangée |
   | 25   | Frénésie      | Inchangée |
@@ -699,7 +699,7 @@ Créateur : Xatros
 
   | Niv. | Attaque       | Remarque  |
   |------|---------------|-----------|
-  | -    | Charge        | Inchangée |
+  | 1    | Charge        | Inchangée |
   | 1    | Mimi-Queue    | Inchangée |
   | 1    | Vive-Attaque  | Inchangée |
   | 1    | Croc de Mort  | Inchangée |
@@ -811,7 +811,7 @@ Créateur : Xatros
   | 33   | Hâte          | Inchangée |
   | 41   | Fatal-Foudre  | Inchangée |
   | 55   | Poing-Éclair  | Nouvelle  |
-  | 70   | Plaquage     | Nouvelle  |
+  | 70   | Plaquage      | Nouvelle  |
   | 85   | Frappe Atlas  | Nouvelle  |
 
 </details>
@@ -832,11 +832,11 @@ Créateur : Xatros
   | 33   | Hâte          | Inchangée  |
   | 41   | Fatal-Foudre  | Inchangée  |
   | 55   | Poing-Éclair  | Nouvelle   |
-  | 70   | Plaquage     | Nouvelle   |
+  | 70   | Plaquage      | Nouvelle   |
   | 85   | Frappe Atlas  | Nouvelle   |
-  | lvl 140 | Surf       | Hors jeu   |
-  | lvl 141 | Ultralaser | Hors jeu   |
-  | lvl 142 | ELEC'TACLE | Hors jeu   |
+  | 140  | Surf          | Hors jeu   |
+  | 141  | Ultralaser    | Hors jeu   |
+  | 142  | Elec'Tacle    | Hors jeu   |
 
 </details>
 <details>
@@ -851,12 +851,12 @@ Créateur : Xatros
   | 1    | Griffe        | Inchangée |
   | 1    | Jet de Sable  | Inchangée |
   | 1    | Tranche       | Inchangée |
-  | 24   | Dard-Venin   | Inchangée |
-  | 31   | Météores     | Inchangée |
-  | 38   | Combo-Griffe | Inchangée |
-  | 50   | Balayage     | Nouvelle  |
-  | 62   | Éboulement   | Nouvelle  |
-  | 74   | Séisme       | Nouvelle  |
+  | 24   | Dard-Venin    | Inchangée |
+  | 31   | Météores      | Inchangée |
+  | 38   | Combo-Griffe  | Inchangée |
+  | 50   | Balayage      | Nouvelle  |
+  | 62   | Éboulement    | Nouvelle  |
+  | 74   | Séisme        | Nouvelle  |
 
 </details>
 <details>
@@ -1023,7 +1023,7 @@ Créateur : Xatros
   | 1    | Écras'Face    | Inchangée |
   | 1    | Rugissement   | Inchangée |
   | 1    | Vive-Attaque  | Nouvelle  |
-  | 13   | Berceuse      | Inchangée |
+  | 1    | Berceuse      | Inchangée |
   | 18   | Torgnoles    | Inchangée |
   | 24   | Lilliput      | Inchangée |
   | 31   | Métronome     | Inchangée |
@@ -1045,7 +1045,7 @@ Créateur : Xatros
   | 1    | Écras'Face    | Inchangée |
   | 1    | Rugissement   | Inchangée |
   | 1    | Vive-Attaque  | Nouvelle  |
-  | 13   | Berceuse      | Inchangée |
+  | 1    | Berceuse      | Inchangée |
   | 18   | Torgnoles     | Inchangée |
   | 24   | Lilliput      | Inchangée |
   | 31   | Métronome     | Inchangée |
@@ -1245,7 +1245,7 @@ Créateur : Xatros
   |--------|-------------------|-----------|
   | 1      | Griffe            | Inchangée |
   | 1      | Méga-Sangsue      | Nouvelle  |
-  | 13     | Para-Spore        | Inchangée |
+  | 1      | Para-Spore        | Inchangée |
   | 20     | Vampirisme        | Inchangée |
   | 27     | Spore             | Inchangée |
   | 34     | Tranche           | Inchangée |
@@ -1263,8 +1263,8 @@ Créateur : Xatros
   |--------|-------------------|-----------|
   | 1      | Griffe            | Inchangée |
   | 1      | Méga-Sangsue      | Nouvelle  |
-  | 13     | Para-Spore        | Inchangée |
-  | 20     | Vampirisme        | Inchangée |
+  | 1      | Para-Spore        | Inchangée |
+  | 1      | Vampirisme        | Inchangée |
   | 30     | Spore             | Inchangée |
   | 39     | Tranche           | Inchangée |
   | 48     | Croissance        | Inchangée |
@@ -1502,9 +1502,9 @@ Créateur : Xatros
   | 60     | Soin            | Nouvelle        |
   | 70     | Vive-Attaque    | Nouvelle        |
   | 80     | Déflagration    | Nouvelle        |
-  | lvl 140| BOUTEFEU        | Hors jeu        |
-  | lvl 141| ECLATEGRIFFE    | Hors jeu        |
-  | lvl 142| CROCS ECLAIR    | Hors jeu        |
+  | 140    | BouteFeu        | Hors jeu        |
+  | 141    | EclateGriffe    | Hors jeu        |
+  | 142    | Crocs Eclair    | Hors jeu        |
 
 </details>
 <details>
@@ -1534,8 +1534,8 @@ Créateur : Xatros
   | Niveau | Attaque         | Remarque   |
   |--------|-----------------|------------|
   | 1      | Écume           | Inchangée  |
-  | 16     | Hypnose         | Inchangée  |
-  | 19     | Pistolet à O    | Inchangée  |
+  | 1      | Hypnose         | Inchangée  |
+  | 1      | Pistolet à O    | Inchangée  |
   | 26     | Torgnoles       | Inchangée  |
   | 33     | Plaquage        | Inchangée  |
   | 41     | Amnésie         | Inchangée  |
@@ -1553,8 +1553,8 @@ Créateur : Xatros
   | Niveau | Attaque         | Remarque   |
   |--------|-----------------|------------|
   | 1      | Écume           | Inchangée  |
-  | 16     | Hypnose         | Inchangée  |
-  | 19     | Pistolet à O    | Inchangée  |
+  | 1      | Hypnose         | Inchangée  |
+  | 1      | Pistolet à O    | Inchangée  |
   | 26     | Torgnoles       | Inchangée  |
   | 33     | Plaquage        | Inchangée  |
   | 41     | Amnésie         | Inchangée  |
@@ -1658,8 +1658,8 @@ Créateur : Xatros
   | Niveau | Attaque        | Remarque   |
   |--------|----------------|------------|
   | 1      | Poing Karaté   | Inchangée  |
-  | 20     | Balayage       | Inchangée  |
-  | 25     | Groz'Yeux      | Inchangée  |
+  | 1      | Balayage       | Inchangée  |
+  | 1      | Groz'Yeux      | Inchangée  |
   | 36     | Affûtage       | Inchangée  |
   | 44     | Frappe Atlas   | Inchangée  |
   | 52     | Sacrifice      | Inchangée  |
@@ -2128,8 +2128,8 @@ Créateur : Xatros
   | 1      | Amnésie        | Nouvelle  |
   | 1      | Onde Folie     | Inchangée |
   | 1      | Ténèbres       | Inchangée |
-  | 27     | Hypnose        | Inchangée |
-  | 35     | Dévorêve       | Inchangée |
+  | 35     | Hypnose        | Inchangée |
+  | 36     | Dévorêve       | Inchangée |
   | 53     | Psyko          | Nouvelle  |
   | 71     | Soin           | Nouvelle  |
 
@@ -2198,12 +2198,12 @@ Créateur : Xatros
   | X      | Hypnose       | Retrait   |
   | 1      | Amnésie       | Nouvelle  |
   | 1      | Soin          | Nouvelle  |
-  | 12     | Entrave       | Inchangée |
-  | 17     | Choc Mental   | Inchangée |
-  | 24     | Coud'Boule    | Inchangée |
-  | 29     | Gaz Toxik     | Inchangée |
-  | 32     | Psyko         | Inchangée |
-  | 37     | Yoga          | Inchangée |
+  | 1      | Entrave       | Inchangée |
+  | 24     | Choc Mental   | Inchangée |
+  | 29     | Coud'Boule    | Inchangée |
+  | 32     | Gaz Toxik     | Inchangée |
+  | 37     | Psyko         | Inchangée |
+  | 48     | Yoga          | Inchangée |
   | 59     | Hypnose       | Nouvelle  |
   | 70     | Dévorêve      | Nouvelle  |
 
@@ -2216,7 +2216,7 @@ Créateur : Xatros
   | Niveau | Attaque       | Remarque  |
   |--------|---------------|-----------|
   | -      | Écras'Face    | Inchangée |
-  | X      | Hypnose       | Retrait |
+  | X      | Hypnose       | Retrait   |
   | 1      | Amnésie       | Nouvelle  |
   | 1      | Soin          | Nouvelle  |
   | 1      | Entrave       | Inchangée |
@@ -2360,11 +2360,11 @@ Créateur : Xatros
   | 1      | Massd'Os      | Inchangée |
   | 1      | Mimi-Queue    | Inchangée |
   | 1      | Coud'Boule    | Inchangée |
-  | 25     | Groz'Yeux     | Inchangée |
-  | 31     | Affûtage      | Inchangée |
-  | 38     | Mania         | Inchangée |
-  | 43     | Osmerang      | Inchangée |
-  | 46     | Tunnel        | Inchangée |
+  | 36     | Groz'Yeux     | Inchangée |
+  | 38     | Affûtage      | Inchangée |
+  | 43     | Mania         | Inchangée |
+  | 46     | Osmerang      | Inchangée |
+  | 50     | Tunnel        | Inchangée |
   | 58     | Coud'Krâne    | Nouvelle  |
   | 67     | Ultimawashi   | Nouvelle  |
   | 76     | Séisme        | Nouvelle  |
@@ -2381,11 +2381,11 @@ Créateur : Xatros
   | 1      | Massd'Os      | Inchangée |
   | 1      | Mimi-Queue    | Inchangée |
   | 1      | Coud'Boule    | Inchangée |
-  | 25     | Groz'Yeux     | Inchangée |
-  | 33     | Affûtage      | Inchangée |
-  | 41     | Mania         | Inchangée |
-  | 48     | Osmerang      | Inchangée |
-  | 55     | Tunnel        | Inchangée |
+  | 37     | Groz'Yeux     | Inchangée |
+  | 41     | Affûtage      | Inchangée |
+  | 48     | Mania         | Inchangée |
+  | 55     | Osmerang      | Inchangée |
+  | 64     | Tunnel        | Inchangée |
   | 73     | Coud'Krâne    | Nouvelle  |
   | 82     | Ultimawashi   | Nouvelle  |
   | 91     | Séisme        | Nouvelle  |
@@ -2543,7 +2543,7 @@ Créateur : Xatros
   | 76     | Psyko           | Nouvelle  |
   | 87     | Ultralaser      | Nouvelle  |
   | 140    | Berceuse        | Hors jeu  |
-  | 141    | EXPLOFORCE      | Hors jeu  |
+  | 141    | ExploForce      | Hors jeu  |
 
 </details>
 <details>
@@ -2835,7 +2835,7 @@ Créateur : Xatros
   | 75     | Intimidation | Nouvelle      |
   | 87     | Ultralaser   | Nouvelle      |
   | 140    | Blizzard     | Hors jeu      |
-  | 141    | FRACASS'TETE | Hors jeu      |
+  | 141    | Fracass'Tete | Hors jeu      |
 
 </details>
 <details>
@@ -3203,8 +3203,8 @@ Créateur : Xatros
   | -      | Ligotage         | Inchangée  |
   | 1      | Cage-Éclair      | Inchangée  |
   | 1      | Hâte             | Inchangée  |
-  | 1     | Souplesse        | Inchangée  |
-  | 1     | Draco-Rage       | Inchangée  |
+  | 1      | Souplesse        | Inchangée  |
+  | 1      | Draco-Rage       | Inchangée  |
   | 60     | Ultralaser       | Inchangée  |
   | 70     | Blizzard         | Nouvelle   |
   | 80     | Déflagration     | Nouvelle   |
