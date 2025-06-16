@@ -334,8 +334,8 @@ Créateur : Xatros
   |------|-----------------|------------|
   | 1    | Charge          | Inchangée  |
   | 1    | Rugissement     | Inchangée  |
-  | 7    | Vampigraine     | Inchangée  |
-  | 13   | Fouet Lianes    | Inchangée  |
+  | 1    | Vampigraine     | Inchangée  |
+  | 1    | Fouet Lianes    | Inchangée  |
   | 22   | Poudre Toxik    | Inchangée  |
   | 30   | Tranch'Herbe    | Inchangée  |
   | 38   | Croissance      | Inchangée  |
@@ -439,9 +439,9 @@ Créateur : Xatros
   | 76       | Déflagration     | Nouvelle    |
   | 86       | Frappe Atlas     | Nouvelle    |
   | 96       | Séisme           | Nouvelle    |
-  | lvl 140  | Intimidation     | Hors jeu    |
-  | lvl 141  | Tranche          | Hors jeu    |
-  | lvl 142  | BOUTEFEU         | Hors jeu    |
+  | 140      | Intimidation     | Hors jeu    |
+  | 141      | Tranche          | Hors jeu    |
+  | 142      | BOUTEFEU         | Hors jeu    |
 
 </details>
 <details>
