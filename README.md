@@ -2555,16 +2555,16 @@ Créateur : Xatros
   |--------|---------------|-----------|
   | 1      | Constriction  | Inchangée |
   | 1      | Étreinte      | Inchangée |
-  | 27     | Vol-Vie      | Inchangée |
-  | 29     | Fouet Lianes | Inchangée |
-  | 32     | Gaz Toxik    | Inchangée |
-  | 36     | Para-Spore   | Inchangée |
-  | 39     | Poudre Dodo  | Inchangée |
-  | 45     | Souplesse    | Inchangée |
-  | 48     | Croissance  | Inchangée |
-  | 58     | Tranch'Herbe| Nouvelle  |
-  | 68     | Méga-Sangsue| Nouvelle  |
-  | 78     | Plaquage    | Nouvelle  |
+  | 27     | Vol-Vie       | Inchangée |
+  | 29     | Fouet Lianes  | Inchangée |
+  | 32     | Gaz Toxik     | Inchangée |
+  | 36     | Para-Spore    | Inchangée |
+  | 39     | Poudre Dodo   | Inchangée |
+  | 45     | Souplesse     | Inchangée |
+  | 48     | Croissance    | Inchangée |
+  | 58     | Tranch'Herbe  | Nouvelle  |
+  | 68     | Méga-Sangsue  | Nouvelle  |
+  | 78     | Plaquage      | Nouvelle  |
 
 </details>
 <details>
@@ -2578,12 +2578,12 @@ Créateur : Xatros
   | 1      | Poing Comète  | Inchangée |
   | 1      | Morsure       | Inchangée |
   | 1      | Mimi-Queue    | Inchangée |
-  | 36     | Ultimapoing  | Inchangée |
-  | 41     | Groz'Yeux    | Inchangée |
-  | 46     | Uppercut     | Inchangée |
-  | 57     | Séisme       | Nouvelle  |
-  | 68     | Ultimawashi  | Nouvelle  |
-  | 79     | Ultralaser   | Nouvelle  |
+  | 36     | Ultimapoing   | Inchangée |
+  | 41     | Groz'Yeux     | Inchangée |
+  | 46     | Uppercut      | Inchangée |
+  | 57     | Séisme        | Nouvelle  |
+  | 68     | Ultimawashi   | Nouvelle  |
+  | 79     | Ultralaser    | Nouvelle  |
 
 </details>
 <details>
@@ -2712,12 +2712,12 @@ Créateur : Xatros
   | 1      | Bouclier     | Inchangée |
   | 1      | Choc Mental  | Inchangée |
   | 1      | Mur Lumière  | Inchangée |
-  | 31     | Torgnoles   | Inchangée |
+  | 31     | Torgnoles    | Inchangée |
   | 39     | Yoga         | Inchangée |
-  | 47     | Clonage     | Inchangée |
-  | 59     | Ultralaser  | Nouvelle  |
-  | 71     | Copie       | Nouvelle  |
-  | 83     | Psyko       | Nouvelle  |
+  | 47     | Clonage      | Inchangée |
+  | 59     | Ultralaser   | Nouvelle  |
+  | 71     | Copie        | Nouvelle  |
+  | 83     | Psyko        | Nouvelle  |
 
 </details>
 <details>
