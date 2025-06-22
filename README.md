@@ -206,9 +206,9 @@ Et pour ceux qui aime le tout cuit, voilà comment finir le jeu...
 </details> 
 
 <details>
-<summary><strong>[Liste des attaque ajouter non utilisé]</strong></summary> 
+<summary><strong>[Liste des attaques ajoutées (non utilisées)]</strong></summary> 
 
-Je ne pense pas que ce soit utile à quelqu'un que je les mettes mais dans le doute les voilà.
+Elles ne sont probablement pas utiles pour les joueurs, mais dans le doute, voici la liste complète et détaillée.
 
 | Nom | Titre | Type | Classe | CT | Puis. | Préc. | PP | Effets secondaires | Animation | Anglais | Nom Animation |
 |-----|-------|------|--------|----|--------|-------|----|---------------------|-----------|---------|----------------|
