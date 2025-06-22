@@ -371,6 +371,7 @@ Liens utiles
 
 Créateur : Xatros
 
+--- 
 
 <details>
   <summary><strong>Tous les Pokémon : localisation et attaques</strong></summary>  
