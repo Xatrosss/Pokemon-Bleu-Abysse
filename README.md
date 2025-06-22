@@ -612,7 +612,7 @@ Créateur : Xatros
 
   ### Roucool
 
-Zones de capture
+Zones de capture :
 
 | Zone de capture | Niveau | Chance d'apparition |
 |-----------------|--------|---------------------|
@@ -627,6 +627,7 @@ Zones de capture
 | Route 22        | 7      | 10%                 |
 | Route 24        | 18     | 15%                 |
 | Route 25        | 18     | 15%                 |
+
 
   Liste des attaques :
 
