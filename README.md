@@ -119,13 +119,13 @@ Non, pas spécialement, il y a très peu d'actions qui sont définitives. En voi
 
 ### "Comment faire évoluer les Pokémon qui doivent être échangés pour évoluer ?"
 - Il suffit simplement de les faire monter de niveau pour qu’ils évoluent. L’évolution par échange fonctionne également. 
-Levels d'évolution de -Kadabra: 60 / -Machopeur : 60 / -Spectrum : 50 / -Gravalanch : 50
+- Levels d'évolution de -Kadabra: 60 / -Machopeur : 60 / -Spectrum : 50 / -Gravalanch : 50
 
 ---
 
 ### "Comment savoir à quel niveau mon pokémon va évoluer ?"
 - À l’exception des Pokémon qui évoluaient par échange (et qui peuvent désormais aussi évoluer en montant de niveau), toutes les autres méthodes d’évolution restent inchangées. 
-Les évolutions par niveau ou par pierre sont les mêmes que dans la version originale.
+- Les évolutions par niveau ou par pierre sont les mêmes que dans la version originale.
 
 ---
 
