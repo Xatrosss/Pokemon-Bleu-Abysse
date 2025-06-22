@@ -51,8 +51,8 @@ Quelques ajouts importants :
 
 ### "Est-ce que je dois savoir quelque chose avant de commencer ?"
 Non, pas spécialement, il y a très peu d'actions qui sont définitives. En voici la liste :
-- Vous ne pouvez pas remonter à bord du SS Anne une fois qu'il est parti (bateau).,
-- Vous ne pouvez plus obtenir les 151 Pokémon si vous ratez la capture contre un des 5 légendaires, donc il ne sera plus possible de finir le jeu.,
+- Vous ne pouvez pas remonter à bord du SS Anne une fois qu'il est parti (bateau).
+- Vous ne pouvez plus obtenir les 151 Pokémon si vous ratez la capture contre un des 5 légendaires, donc il ne sera plus possible de finir le jeu.
 - Vous ne pouvez plus recombattre la 1ère ligue une fois que vous avez déclenché la 2ème.
 
 ---
@@ -105,7 +105,7 @@ Non, pas spécialement, il y a très peu d'actions qui sont définitives. En voi
 ---
 
 ### "Je n'ai plus d'argent pour acheter des objets et j'ai déjà combattu tous les dresseurs, que faire ?"
-- Il y a la ligue Pokémon. Même si vous ne gagnez que le premier combat, qui rapporte 9900$, vous garderez la moitié de vos gains après une défaite.,
+- Il y a la ligue Pokémon. Même si vous ne gagnez que le premier combat, qui rapporte 9900$, vous garderez la moitié de vos gains après une défaite.
 - Si vous ne parvenez pas à battre le premier dresseur, allez vous entraîner contre les Pokémon sauvages de votre niveau.
 
 ---
@@ -117,9 +117,20 @@ Non, pas spécialement, il y a très peu d'actions qui sont définitives. En voi
 
 ---
 
+### "Comment faire évoluer les Pokémon qui doivent être échangés pour évoluer ?"
+- Il suffit simplement de les faire monter de niveau pour qu’ils évoluent. L’évolution par échange fonctionne également. 
+Levels d'évolution de -Kadabra: 60 / -Machopeur : 60 / -Spectrum : 50 / -Gravalanch : 50
+
+---
+
+### "Comment savoir à quel niveau mon pokémon va évoluer ?"
+- À l’exception des Pokémon qui évoluaient par échange (et qui peuvent désormais aussi évoluer en montant de niveau), toutes les autres méthodes d’évolution restent inchangées.
+Les évolutions par niveau ou par pierre sont les mêmes que dans la version originale.
+
+---
+
 ### "Certaine attaque de Pokémon ont été modifier comment savoir quels attaque mon Pokémon va apprendre ?"
-- Tout est détaillé dans ce fichier Excel trouvez simplement votre Pokémon dans la liste.,
-https://docs.google.com/spreadsheets/d/1EnUo1twgRT_2shenmQN2t-jB0VB_47CGKzTy9DzzDw0/edit?gid=812920465#gid=812920465 
+- Tout est détaillé à la fin de cette page GitHub : localisation et attaques des Pokémon.
 
 ---
 
@@ -149,15 +160,15 @@ https://docs.google.com/spreadsheets/d/1EnUo1twgRT_2shenmQN2t-jB0VB_47CGKzTy9Dzz
 <details>
 <summary><strong>[Détails à propos du jeu]</strong></summary> 
 
-- L'histoire du jeu est celle d'origine de Pokémon Bleu.,
-- Ceci est une version difficile de Pokémon Bleu basée sur Pokémon TTP.,
-- Vous aurez la possibilité d'incarner une fille ou un garçon au début du jeu.,
-- Les graphismes des Pokémon les moins pertinents de la version Bleu ont été remplacés par des graphismes d'une version différente.,
-- Si vous êtes à la recherche de challenge, c'est la version qu'il vous faut. Vous ne pourrez pas traverser ce jeu en ligne droite, il vous faudra par moments vous arrêter pour combattre les Pokémon sauvages afin d'avoir le niveau pour affronter la prochaine arène. Vous l'aurez compris, ce n'est pas une version pour enfant où vous pouvez finir le jeu avec un seul Pokémon...,
-- Les 151 Pokémon sont disponibles, certains sont très rares, il vous faudra du temps de recherche mais vous pourrez compléter la totalité du Pokédex sans aucun échange. Des combats ont été ajoutés après la Ligue Pokémon ainsi qu'une version optimisée du Conseil des 4 une fois que vous aurez terminé tous les combats et fini le jeu à 100%.,
-- Une zone "Tente de Combat" pour avoir accès à des combats équitables renouvelables à l'infini face à des PNJ.,
-- Lorsque vous aurez débloqué la deuxième Ligue Pokémon, vous affronterez un dresseur supplémentaire au Conseil des 4 qui est le proffeseur Chen et vous aurez des mentions supplémentaires après les génériques de fin. Vous aurez terminé l'intégralité de cette version.,
-- La deuxième Ligue est très dure avec certains Pokémon qui dépassent le niveau 100, alors préparez-vous...,
+- L'histoire du jeu est celle d'origine de Pokémon Bleu.
+- Ceci est une version difficile de Pokémon Bleu basée sur Pokémon TTP.
+- Vous aurez la possibilité d'incarner une fille ou un garçon au début du jeu.
+- Les graphismes des Pokémon les moins pertinents de la version Bleu ont été remplacés par des graphismes d'une version différente.
+- Si vous êtes à la recherche de challenge, c'est la version qu'il vous faut. Vous ne pourrez pas traverser ce jeu en ligne droite, il vous faudra par moments vous arrêter pour combattre les Pokémon sauvages afin d'avoir le niveau pour affronter la prochaine arène. Vous l'aurez compris, ce n'est pas une version pour enfant où vous pouvez finir le jeu avec un seul Pokémon...
+- Les 151 Pokémon sont disponibles, certains sont très rares, il vous faudra du temps de recherche mais vous pourrez compléter la totalité du Pokédex sans aucun échange. Des combats ont été ajoutés après la Ligue Pokémon ainsi qu'une version optimisée du Conseil des 4 une fois que vous aurez terminé tous les combats et fini le jeu à 100%.
+- Une zone "Tente de Combat" pour avoir accès à des combats équitables renouvelables à l'infini face à des PNJ.
+- Lorsque vous aurez débloqué la deuxième Ligue Pokémon, vous affronterez un dresseur supplémentaire au Conseil des 4 qui est le proffeseur Chen et vous aurez des mentions supplémentaires après les génériques de fin. Vous aurez terminé l'intégralité de cette version.
+- La deuxième Ligue est très dure avec certains Pokémon qui dépassent le niveau 100, alors préparez-vous...
 ATTENTION : Lorsque vous aurez déclenché la deuxième Ligue, il n'y aura pas de retour possible vers la première.
 </details>
 
@@ -165,9 +176,9 @@ ATTENTION : Lorsque vous aurez déclenché la deuxième Ligue, il n'y aura pas d
 <summary><strong>[Modifications Pénalité]</strong></summary> 
 
 Oui des pénalités ! C'est une version Hard...
-- Il n'y a pas d'objet plus fort que les Pokéball disponibles dans les boutiques.,
-- Les champions d'arènes utilisent des potions de Guérison pour soigner leurs Pokémon.,
-- La repousse est retirée, aucun moyen d'éviter les combats aléatoires dans les hautes herbes.,
+- Il n'y a pas d'objet plus fort que les Pokéball disponibles dans les boutiques.
+- Les champions d'arènes utilisent des potions de Guérison pour soigner leurs Pokémon.
+- La repousse est retirée, aucun moyen d'éviter les combats aléatoires dans les hautes herbes.
 - Diminution de l'utilisation des attaques qui n'infligent pas de dégâts (ex: Rugissement, Gros Yeux, Cyclones...).-> Ces attaques ne sont pas retirées mais seront de moins en moins utilisées par les dresseurs adverses au fur et à mesure dans le jeu.
 
 </details>
@@ -176,10 +187,10 @@ Oui des pénalités ! C'est une version Hard...
 <summary><strong>[Modifications Confort]</strong></summary> 
 
 parce qu'on est pas que des brutes
-- Une Pokéball est dessinée a coté du Pokémon sauvage si vous l'avez déjà.,
-- Les jetons s'achètent par 500 au lieu de par 50, le prix est adapté en conséquence bien sûr.,
-- Si vous avez trop d'argent, les Rappel Max, Superbonbon et Master Ball peuvent être échangés contre des jetons.,
-- Des pépites peuvent s'acheter au shop du Plateau Indigo pour stocker votre argent si vous en avez trop (revendu à moitié prix).,
+- Une Pokéball est dessinée a coté du Pokémon sauvage si vous l'avez déjà.
+- Les jetons s'achètent par 500 au lieu de par 50, le prix est adapté en conséquence bien sûr.
+- Si vous avez trop d'argent, les Rappel Max, Superbonbon et Master Ball peuvent être échangés contre des jetons.
+- Des pépites peuvent s'acheter au shop du Plateau Indigo pour stocker votre argent si vous en avez trop (revendu à moitié prix).
 - Plus besoin de remplir son inventaire avec les CT. Ajout d'un étage au magasin de la Céladopole pour l'achat de toutes les CT du jeu.
 
 </details>
@@ -188,14 +199,14 @@ parce qu'on est pas que des brutes
 <summary><strong>[Détails des Modifications]</strong></summary> 
 
 La mention Spoiler tu t'en tapes ?
-- Les textes ne sont plus écrits en majuscule.,
-- La "Tente de Combat" se trouve à la Céladopole.,
-- Vous devrez capturer les 151 Pokémon pour obtenir le diplôme à la Céladopole.,
-- Levels d'évolution de -Kadabra: 60 / -Machopeur : 60 / -Spectrum : 50 / -Gravalanch : 50,
-- Cette version est conçue pour que vous croisiez tous les Pokémon du jeu si vous combattez tous les dresseurs sur votre chemin.,
-- Après avoir battu la Ligue, vous aurez accès au Match Retour contre une équipe de Pokémon optimisée des champions de chaque arène.,
-- Comme dans vos rêves, Mew se trouve sous le camion à Carmin-sur-Mer en le déplaçant avec le CS Force. Dans cette version, une nouvelle grotte a été ajoutée pour le capturer.,
-- Un rêve bleu vous attend lorsque vous irez dormir dans votre maison au Bourg Palette. Vous devrez parler à votre lit pour déclencher l'événement une fois que vous aurez vaincu la Ligue.,
+- Les textes ne sont plus écrits en majuscule.
+- La "Tente de Combat" se trouve à la Céladopole.
+- Vous devrez capturer les 151 Pokémon pour obtenir le diplôme à la Céladopole.
+- Levels d'évolution de -Kadabra: 60 / -Machopeur : 60 / -Spectrum : 50 / -Gravalanch : 50
+- Cette version est conçue pour que vous croisiez tous les Pokémon du jeu si vous combattez tous les dresseurs sur votre chemin.
+- Après avoir battu la Ligue, vous aurez accès au Match Retour contre une équipe de Pokémon optimisée des champions de chaque arène.
+- Comme dans vos rêves, Mew se trouve sous le camion à Carmin-sur-Mer en le déplaçant avec le CS Force. Dans cette version, une nouvelle grotte a été ajoutée pour le capturer.
+- Un rêve bleu vous attend lorsque vous irez dormir dans votre maison au Bourg Palette. Vous devrez parler à votre lit pour déclencher l'événement une fois que vous aurez vaincu la Ligue.
 
 ATTENTION : Lorsque vous aurez déclenché la deuxième ligue, il n'y aura pas de retour vers la première.
 
