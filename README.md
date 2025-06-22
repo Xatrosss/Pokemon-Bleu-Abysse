@@ -307,6 +307,11 @@ Créateur : Xatros
 
 Zones de capture :
 
+<details>
+<summary><strong>Astuce</strong></summary>
+Bulbizarre se trouve dans la zone herbeuse où il faut couper un buisson, derrière les deux dresseuses, pour y accéder.
+</details>
+
   | Zone de capture | Niveau | Chance d'apparition |
   |-----------------|--------|---------------------|
   | Route 13        | 5      | 1%                  |
@@ -397,6 +402,11 @@ Zones de capture :
 
 Zones de capture :
 
+<details>
+<summary><strong>Astuce</strong></summary>
+Un dresseur dit avoir capturé un Salamèche vers le fond du manoir, dans un couloir. C’est que vous êtes au bon étage.
+</details>
+
   | Zone de capture | Niveau | Chance d'apparition |
   |-----------------|--------|---------------------|
   | Manoir N-1      | 5      | 1%                  |
@@ -483,9 +493,14 @@ Zones de capture :
 <details>
   <summary><strong>007 - Carapuce</strong></summary>
 
-  ### Carapuce
+  ### 
 
 Zones de capture :
+
+<details>
+<summary><strong>Astuce</strong></summary>
+Carapuce se trouve dans les herbes au sud d’Azuria, juste au-dessus du chenil (Pension Pokémon).
+</details>
 
   | Zone de capture | Niveau | Chance d'apparition |
   |-----------------|--------|---------------------|
@@ -1010,6 +1025,11 @@ Zones de capture :
   ### Pikachu
 
 Zones de capture :
+
+<details>
+<summary><strong>Astuce</strong></summary>
+Vous pouvez aussi l’obtenir dans la tour de Game Freak à Céladopole.
+</details>
 
   | Zone de capture      | Niveau | Chance d'apparition |
   |----------------------|--------|---------------------|
@@ -2159,6 +2179,11 @@ Zones de capture :
 
 Zones de capture :
 
+<details>
+<summary><strong>Astuce</strong></summary>
+Peut etre obtenu en échange de Lippoutou dans la maison à gauche du Centre Pokémon d'Azuria.
+</details>
+
   | Zone de capture        | Niveau | Chance d'apparition |
   |------------------------|--------|---------------------|
   | Îles Écume N-4         | 57     | 4%                  |
@@ -2187,6 +2212,11 @@ Zones de capture :
   ### Abra
 
 Zones de capture :
+
+<details>
+<summary><strong>Astuce</strong></summary>
+Il peut aussi être acheté au casino contre des jetons si vous n’arrivez pas à le trouver.
+</details>
 
   | Zone de capture    | Niveau | Chance d'apparition |
   |--------------------|--------|---------------------|
@@ -2322,6 +2352,11 @@ Zones de capture :
   ### Mackogneur
 
 Zones de capture :
+
+<details>
+<summary><strong>Astuce</strong></summary>
+Peut etre obtenu en échange de Flagadoss à l'observatoire de la route 18 vers Parmanie.
+</details>
 
   | Zone de capture        | Niveau | Chance d'apparition |
   |------------------------|--------|---------------------|
@@ -2576,6 +2611,11 @@ Zones de capture :
 
 Zones de capture :
 
+<details>
+<summary><strong>Astuce</strong></summary>
+Peut etre obtenu en échange de Élektek dans le Laboratoire Pokémon de Cramois'Île.
+</details>
+
   | Zone de capture        | Niveau | Chance d'apparition |
   |------------------------|--------|---------------------|
   | Route Victoire RDC     | 81     | 5%                  |
@@ -2606,6 +2646,12 @@ Zones de capture :
   ### Ponyta
 
 Zones de capture :
+
+<details>
+<summary><strong>Astuce</strong></summary>
+Il y a un étage où un dresseur, à côté d’une table avec un livre, vous dira que quelqu’un lui a dit qu’on pouvait trouver un Ponyta ici. C’est que vous êtes au bon endroit.
+Peut etre obtenu en échange de Alakazam dans l'entrée du Souterrain reliant Azuria à Carmin sur Mer côté Route 5.
+</details>
 
   | Zone de capture    | Niveau | Chance d'apparition |
   |--------------------|--------|---------------------|
@@ -3151,6 +3197,11 @@ Zones de capture :
   ### Ectoplasma
 
 Zones de capture :
+
+<details>
+<summary><strong>Astuce</strong></summary>
+Peut etre obtenu en échange de Kangourex dans le Laboratoire Pokémon de Cramois'Île.
+</details>
 
   | Zone de capture        | Niveau | Chance d'apparition |
   |------------------------|--------|---------------------|
@@ -3738,6 +3789,12 @@ Zones de capture :
 
 Zones de capture :
 
+<details>
+<summary><strong>Astuce</strong></summary>
+Leveinard est le Pokémon le plus rare de la zone Nord du Parc Safari. Un panneau devant la cabane de cette zone indique donc que Leveinard peut y être trouvé.
+Peut etre obtenu en échange de Dracaufeu dans la maison près du Fan Club Pokémon à Carmin sur Mer.
+</details>
+
   | Zone de capture      | Niveau | Chance d'apparition |
   |----------------------|--------|---------------------|
   | Parc Safari Nord     | 30     | 1%                  |
@@ -4013,6 +4070,11 @@ Zones de capture :
 
 Zones de capture :
 
+<details>
+<summary><strong>Astuce</strong></summary>
+Peut etre obtenu en échange de Excelangue dans la maison près de la Cave Taupiqueur sur la Route 2
+</details>
+
   | Zone de capture        | Niveau | Chance d'apparition |
   |------------------------|--------|---------------------|
   | Route 17               | 41     | 1%                  |
@@ -4069,6 +4131,11 @@ Zones de capture :
   ### Lippoutou
 
 Zones de capture :
+
+<details>
+<summary><strong>Astuce</strong></summary>
+Si vous avez du mal à la trouver, un dresseur dans l'eau devant la porte de la grotte de gauche explique en détail son étage dans la grotte des îles Écume.
+</details>
 
   | Zone de capture        | Niveau | Chance d'apparition |
   |------------------------|--------|---------------------|
@@ -4194,6 +4261,12 @@ Zones de capture :
 
 Zones de capture :
 
+<details>
+<summary><strong>Astuce</strong></summary>
+Tauros est le Pokémon le plus rare de la zone Est du Parc Safari. Un panneau devant la cabane de cette zone indique donc que Tauros peut y être trouvé.
+Il peut aussi être acheté au casino contre des jetons si vous n’arrivez pas à le trouver.
+</details>
+
   | Zone de capture        | Niveau | Chance d'apparition |
   |------------------------|--------|---------------------|
   | Parc Safari Est        | 30     | 1%                  |
@@ -4276,6 +4349,12 @@ Zones de capture :
 
 Zones de capture :
 
+<details>
+<summary><strong>Astuce</strong></summary>
+Lokhlass se trouve tout au fond de la grotte, au même étage que Artikodin. Il y a même un panneau qui parle de lui à cet étage. Attention, il n’est pas dans l’eau !
+Il peut aussi être acheté au casino contre des jetons si vous n’arrivez pas à le trouver.
+</details>
+
   | Zone de capture        | Niveau | Chance d'apparition |
   |------------------------|--------|---------------------|
   | Îles Écume N-4         | 50     | 1%                  |
@@ -4330,6 +4409,12 @@ Zones de capture :
 
   ### Évoli
 
+<details>
+<summary><strong>Astuce</strong></summary>
+Évoli est le Pokémon le plus rare de la zone Ouest du Parc Safari. Un panneau devant la cabane de cette zone indique donc que Évoli peut y être trouvé.
+Si vous n’arrivez pas à trouver Évoli, vous pouvez l’acheter pour 500 000 $ auprès d’un vendeur dans la cabane tout au fond de la zone Évoli, dans le Parc Ouest.
+</details>
+
 Zones de capture :
 
   | Zone de capture        | Niveau | Chance d'apparition |
@@ -4358,6 +4443,11 @@ Zones de capture :
 
 Zones de capture :
 
+<details>
+<summary><strong>Astuce</strong></summary>
+Si vous n’arrivez pas à trouver Évoli, vous pouvez acheter un Aquali au casino contre des jetons.
+</details>
+
   | Zone de capture | Niveau | Chance d'apparition |
   |-----------------|--------|---------------------|
   | Non capturable  | —      | Vous devrez faire évoluer un Évoli pour l'obtenir. |
@@ -4384,6 +4474,11 @@ Zones de capture :
   ### Voltali
 
 Zones de capture :
+
+<details>
+<summary><strong>Astuce</strong></summary>
+Si vous n’arrivez pas à trouver Évoli, vous pouvez acheter un Voltali au casino contre des jetons.
+</details>
 
   | Zone de capture | Niveau | Chance d'apparition |
   |-----------------|--------|---------------------|
@@ -4412,6 +4507,11 @@ Zones de capture :
 
 Zones de capture :
 
+<details>
+<summary><strong>Astuce</strong></summary>
+Si vous n’arrivez pas à trouver Évoli, vous pouvez acheter un Pyroli au casino contre des jetons.
+</details>
+
   | Zone de capture | Niveau | Chance d'apparition |
   |-----------------|--------|---------------------|
   | Non capturable  | —      | Vous devrez faire évoluer un Évoli pour l'obtenir. |
@@ -4438,6 +4538,12 @@ Zones de capture :
   ### Porygon
 
 Zones de capture :
+
+<details>
+<summary><strong>Astuce</strong></summary>
+Porygon est le Pokémon le plus rare de la zone Sud du Parc Safari. Un panneau devant la cabane de cette zone indique donc que Porygon peut y être trouvé.
+Peut etre obtenu en échange de Tortank à l'observatoire de la route 11
+</details>
 
   | Zone de capture         | Niveau | Chance d'apparition |
   |-------------------------|--------|---------------------|
@@ -4467,6 +4573,11 @@ Zones de capture :
   ### Amonita
 
 Zones de capture :
+
+<details>
+<summary><strong>Astuce</strong></summary>
+Un dresseur montagnard, au rez-de-chaussée vers le fond de la grotte, vous explique où trouver Kabuto et Amonita.
+</details>
 
   | Zone de capture         | Niveau | Chance d'apparition |
   |-------------------------|--------|---------------------|
@@ -4520,6 +4631,11 @@ Zones de capture :
 
 Zones de capture :
 
+<details>
+<summary><strong>Astuce</strong></summary>
+Un dresseur montagnard, au rez-de-chaussée vers le fond de la grotte, vous explique où trouver Kabuto et Amonita.
+</details>
+
   | Zone de capture         | Niveau | Chance d'apparition |
   |-------------------------|--------|---------------------|
   | Mont Sélénite RDC       | 10     | 1%                  |
@@ -4571,6 +4687,12 @@ Zones de capture :
   ### Ptéra
 
 Zones de capture :
+
+<details>
+<summary><strong>Astuce</strong></summary>
+Un dresseur de la Team Rocket dit qu’il a vu un Pokémon avec des crocs et des ailes, mais sans plumes ! Il parle bien d’un Ptéra, vous êtes donc au bon étage.
+Peut etre obtenu en échange de Florizarre dans le Laboratoire Pokémon de Cramois'Île.
+</details>
 
   | Zone de capture         | Niveau | Chance d'apparition |
   |-------------------------|--------|---------------------|
@@ -4714,6 +4836,11 @@ Zones de capture :
   <summary><strong>147 - Minidraco</strong></summary>
 
   ### Minidraco
+  
+<details>
+<summary><strong>Astuce</strong></summary>
+Un dresseur dit qu’il a cru voir un petit dragon se cacher par là, à l’étage en question de la Grotte Victoire.
+</details>
 
 Zones de capture :
 
