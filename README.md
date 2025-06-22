@@ -372,6 +372,9 @@ Liens utiles
 Créateur : Xatros
 
 
+<details>
+  <summary><strong>Tous les Pokémon : localisation et attaques</strong></summary>  
+
 ---------------------------------------------------------
 <details>
   <summary><strong>001 - Bulbizarre</strong></summary>
@@ -5072,4 +5075,5 @@ Mew se trouve près du camion, là où vous l'avez toujours cherché !
   | 99     | Hypnose            | -        |
   | 100    | Ultimawashi        | -        |
 
+</details>
 </details>
