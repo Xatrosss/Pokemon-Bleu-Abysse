@@ -127,8 +127,11 @@ https://docs.google.com/spreadsheets/d/1EnUo1twgRT_2shenmQN2t-jB0VB_47CGKzTy9Dzz
 
 <details>
   <summary> - Voir les informations complètes du projet </summary>
-<details> 
+
   --- 
+  
+<details> 
+ 
 <summary><strong>[Liste des échanges en jeu]</strong></summary> 
   
 - Porygon : Peut etre obtenu en échange de Tortank à l'observatoire de la route 11.
