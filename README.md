@@ -4691,7 +4691,7 @@ Zones de capture :
 <details>
 <summary><strong>Astuce</strong></summary>
 Un dresseur de la Team Rocket dit qu’il a vu un Pokémon avec des crocs et des ailes, mais sans plumes ! Il parle bien d’un Ptéra, vous êtes donc au bon étage.
- Peut etre obtenu en échange de Florizarre dans le Laboratoire Pokémon de Cramois'Île.
+  Peut etre obtenu en échange de Florizarre dans le Laboratoire Pokémon de Cramois'Île.
 </details>
 
   | Zone de capture         | Niveau | Chance d'apparition |
