@@ -367,7 +367,7 @@ Ce jeu est une lettre d'amour à la première génération, avec une vision mode
 
 --- 
 
-## Créateur : Xatros
+### Créateur : Xatros
 
 --- 
 
