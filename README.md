@@ -127,7 +127,8 @@ https://docs.google.com/spreadsheets/d/1EnUo1twgRT_2shenmQN2t-jB0VB_47CGKzTy9Dzz
 
 <details>
   <summary> - Voir les informations complètes du projet </summary>
-<details>
+<details> 
+  --- 
 <summary><strong>[Liste des échanges en jeu]</strong></summary> 
   
 - Porygon : Peut etre obtenu en échange de Tortank à l'observatoire de la route 11.
@@ -143,7 +144,7 @@ https://docs.google.com/spreadsheets/d/1EnUo1twgRT_2shenmQN2t-jB0VB_47CGKzTy9Dzz
 </details>
 
 <details>
-<summary><strong>[[Détails à propos du jeu]]</strong></summary> 
+<summary><strong>[Détails à propos du jeu]</strong></summary> 
 
 - L'histoire du jeu est celle d'origine de Pokémon Bleu.,
 - Ceci est une version difficile de Pokémon Bleu basée sur Pokémon TTP.,
@@ -157,14 +158,20 @@ https://docs.google.com/spreadsheets/d/1EnUo1twgRT_2shenmQN2t-jB0VB_47CGKzTy9Dzz
 ATTENTION : Lorsque vous aurez déclenché la deuxième Ligue, il n'y aura pas de retour possible vers la première.
 </details>
 
-### [Modifications Pénalité]
+<details>
+<summary><strong>[Modifications Pénalité]</strong></summary> 
+
 Oui des pénalités ! C'est une version Hard...
 - Il n'y a pas d'objet plus fort que les Pokéball disponibles dans les boutiques.,
 - Les champions d'arènes utilisent des potions de Guérison pour soigner leurs Pokémon.,
 - La repousse est retirée, aucun moyen d'éviter les combats aléatoires dans les hautes herbes.,
 - Diminution de l'utilisation des attaques qui n'infligent pas de dégâts (ex: Rugissement, Gros Yeux, Cyclones...).-> Ces attaques ne sont pas retirées mais seront de moins en moins utilisées par les dresseurs adverses au fur et à mesure dans le jeu.
 
-### [Modifications Confort]
+</details>
+
+<details>
+<summary><strong>[Modifications Confort]</strong></summary> 
+
 parce qu'on est pas que des brutes
 - Une Pokéball est dessinée a coté du Pokémon sauvage si vous l'avez déjà.,
 - Les jetons s'achètent par 500 au lieu de par 50, le prix est adapté en conséquence bien sûr.,
@@ -172,7 +179,11 @@ parce qu'on est pas que des brutes
 - Des pépites peuvent s'acheter au shop du Plateau Indigo pour stocker votre argent si vous en avez trop (revendu à moitié prix).,
 - Plus besoin de remplir son inventaire avec les CT. Ajout d'un étage au magasin de la Céladopole pour l'achat de toutes les CT du jeu.
 
-### [Détails des Modifications]
+</details>
+
+<details>
+<summary><strong>[Détails des Modifications]</strong></summary> 
+
 La mention Spoiler tu t'en tapes ?
 - Les textes ne sont plus écrits en majuscule.,
 - La "Tente de Combat" se trouve à la Céladopole.,
