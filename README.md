@@ -365,11 +365,9 @@ Merci à tous les testeurs, à ceux qui ont signalé les bugs, et à la communau
 
 Ce jeu est une lettre d'amour à la première génération, avec une vision moderne mais respectueuse. Continuez de jouer, d'explorer, et surtout, amusez-vous !
 
-Liens utiles
+--- 
 
-- Fichier des attaques modifiées (Excel)
-
-Créateur : Xatros
+**Créateur : Xatros
 
 --- 
 
