@@ -363,6 +363,12 @@ Zones de capture :
 
   ### Florizarre
 
+Zones de capture :
+
+  | Zone de capture | Niveau | Chance d'apparition |
+  |-----------------|--------|---------------------|
+  | Non capturable  | —      | Vous devrez faire évoluer un Herbizarre pour l'obtenir. |
+
   Liste des attaques :
 
   | Niv. | Attaque         | Remarque   |
@@ -389,6 +395,12 @@ Zones de capture :
 
   ### Salamèche
 
+Zones de capture :
+
+  | Zone de capture | Niveau | Chance d'apparition |
+  |-----------------|--------|---------------------|
+  | Manoir N-1      | 5      | 1%                  |
+
   Liste des attaques :
 
   | Niv. | Attaque          | Remarque   |
@@ -412,6 +424,12 @@ Zones de capture :
 
   ### Reptincel
 
+Zones de capture :
+
+  | Zone de capture | Niveau | Chance d'apparition |
+  |-----------------|--------|---------------------|
+  | Non capturable  | —      | Vous devrez faire évoluer un Salamèche pour l'obtenir. |
+
   Liste des attaques :
 
   | Niv. | Attaque          | Remarque   |
@@ -434,6 +452,12 @@ Zones de capture :
   <summary><strong>006 - Dracaufeu</strong></summary>
 
   ### Dracaufeu
+
+Zones de capture :
+
+  | Zone de capture | Niveau | Chance d'apparition |
+  |-----------------|--------|---------------------|
+  | Non capturable  | —      | Vous devrez faire évoluer un Reptincel pour l'obtenir. |
 
   Liste des attaques :
 
@@ -461,6 +485,12 @@ Zones de capture :
 
   ### Carapuce
 
+Zones de capture :
+
+  | Zone de capture | Niveau | Chance d'apparition |
+  |-----------------|--------|---------------------|
+  | Route 5        | 5      | 1%                  |
+
   Liste des attaques :
 
   | Niv. | Attaque       | Remarque  |
@@ -484,6 +514,12 @@ Zones de capture :
 
   ### Carabaffe
 
+Zones de capture :
+
+  | Zone de capture | Niveau | Chance d'apparition |
+  |-----------------|--------|---------------------|
+  | Non capturable  | —      | Vous devrez faire évoluer un Carapuce pour l'obtenir. |
+
   Liste des attaques :
 
   | Niv. | Attaque       | Remarque  |
@@ -506,6 +542,12 @@ Zones de capture :
   <summary><strong>009 - Tortank</strong></summary>
 
   ### Tortank
+
+Zones de capture :
+
+  | Zone de capture | Niveau | Chance d'apparition |
+  |-----------------|--------|---------------------|
+  | Non capturable  | —      | Vous devrez faire évoluer un Carabaffe pour l'obtenir. |
 
   Liste des attaques :
 
@@ -533,6 +575,12 @@ Zones de capture :
 
   ### Chenipan
 
+Zones de capture :
+
+  | Zone de capture | Niveau | Chance d'apparition |
+  |-----------------|--------|---------------------|
+  | Forêt de Jade   | 5      | 25%                 |
+
   Liste des attaques :
 
   | Niv. | Attaque      | Remarque  |
@@ -546,6 +594,12 @@ Zones de capture :
 
   ### Chrysacier
 
+Zones de capture :
+
+  | Zone de capture | Niveau | Chance d'apparition |
+  |-----------------|--------|---------------------|
+  | Forêt de Jade   | 7      | 15%                 |
+
   Liste des attaques :
 
   | Niv. | Attaque      | Remarque  |
@@ -557,6 +611,12 @@ Zones de capture :
   <summary><strong>012 - Papilusion</strong></summary>
 
   ### Papilusion
+
+Zones de capture :
+
+  | Zone de capture | Niveau | Chance d'apparition |
+  |-----------------|--------|---------------------|
+  | Forêt de Jade   | 10     | 5%                  |
 
   Liste des attaques :
 
@@ -579,6 +639,12 @@ Zones de capture :
 
   ### Aspicot
 
+Zones de capture :
+
+  | Zone de capture | Niveau | Chance d'apparition |
+  |-----------------|--------|---------------------|
+  | Forêt de Jade   | 5      | 15%                 |
+
   Liste des attaques :
 
   | Niv. | Attaque       | Remarque  |
@@ -592,6 +658,12 @@ Zones de capture :
 
   ### Coconfort
 
+Zones de capture :
+
+  | Zone de capture | Niveau | Chance d'apparition |
+  |-----------------|--------|---------------------|
+  | Forêt de Jade   | 7      | 10%                 |
+
   Liste des attaques :
 
   | Niv. | Attaque       | Remarque  |
@@ -603,6 +675,12 @@ Zones de capture :
   <summary><strong>015 - Dardargnan</strong></summary>
 
   ### Dardargnan
+
+Zones de capture :
+
+  | Zone de capture | Niveau | Chance d'apparition |
+  |-----------------|--------|---------------------|
+  | Forêt de Jade   | 10     | 5%                  |
 
   Liste des attaques :
 
@@ -626,22 +704,19 @@ Zones de capture :
 
 Zones de capture :
 
-Zones de capture :
-
-   | Zone de capture | Niveau | Chance d'apparition |
-   |-----------------|--------|---------------------|
-   | Route 1         | 3      | 25%                 |
-   | Route 1         | 4      | 15%                 |
-   | Route 1         | 5      | 10%                 |
-   | Route 2         | 10     | 15%                 |
-   | Route 3         | 12     | 15%                 |
-   | Route 4         | 17     | 15%                 |
-   | Route 5         | 17     | 25%                 |
-   | Route 22        | 6      | 15%                 |
-   | Route 22        | 7      | 10%                 |
-   | Route 24        | 18     | 15%                 |
-  | Route 25        | 18     | 15%                 
-
+  | Zone de capture | Niveau | Chance d'apparition |
+  |-----------------|--------|---------------------|
+  | Route 1         | 3      | 25%                 |
+  | Route 1         | 4      | 15%                 |
+  | Route 1         | 5      | 10%                 |
+  | Route 2         | 10     | 15%                 |
+  | Route 3         | 12     | 15%                 |
+  | Route 4         | 17     | 15%                 |
+  | Route 5         | 17     | 25%                 |
+  | Route 22        | 6      | 15%                 |
+  | Route 22        | 7      | 10%                 |
+  | Route 24        | 18     | 15%                 |
+  | Route 25        | 18     | 15%                 |
 
   Liste des attaques :
 
@@ -664,6 +739,19 @@ Zones de capture :
 
   ### Roucoups
 
+Zones de capture :
+
+  | Zone de capture | Niveau | Chance d'apparition |
+  |-----------------|--------|---------------------|
+  | Route 5         | 20     | 5%                  |
+  | Route 7         | 32     | 10%                 |
+  | Route 8         | 32     | 10%                 |
+  | Route 9         | 24     | 10%                 |
+  | Route 10        | 24     | 10%                 |
+  | Route 11        | 25     | 5%                  |
+  | Route 12        | 34     | 15%                 |
+  | Route 16        | 36     | 10%                 |
+
   Liste des attaques :
 
   | Niv. | Attaque       | Remarque  |
@@ -684,6 +772,20 @@ Zones de capture :
   <summary><strong>018 - Roucarnage</strong></summary>
 
   ### Roucarnage
+
+Zones de capture :
+
+  | Zone de capture     | Niveau | Chance d'apparition |
+  |---------------------|--------|---------------------|
+  | Route 12            | 49     | 1%                  |
+  | Route 13            | 48     | 5%                  |
+  | Route 14            | 50     | 4%                  |
+  | Route 15            | 50     | 4%                  |
+  | Route 17            | 48     | 10%                 |
+  | Route 18            | 54     | 10%                 |
+  | Route 21            | 61     | 25%                 |
+  | Route 23            | 76     | 25%                 |
+  | Grotte Inconnue N-1 | 78     | 25%                 |
 
   Liste des attaques :
 
@@ -706,6 +808,20 @@ Zones de capture :
 
   ### Rattata
 
+Zones de capture :
+
+  | Zone de capture | Niveau | Chance d'apparition |
+  |-----------------|--------|---------------------|
+  | Route 1         | 3      | 15%                 |
+  | Route 1         | 5      | 5%                  |
+  | Route 2         | 9      | 25%                 |
+  | Route 3         | 16     | 10%                 |
+  | Route 4         | 18     | 10%                 |
+  | Route 22        | 6      | 15%                 |
+  | Route 22        | 8      | 5%                  |
+  | Route 24        | 20     | 10%                 |
+  | Route 25        | 20     | 10%                 |
+
   Liste des attaques :
 
   | Niv. | Attaque       | Remarque  |
@@ -726,6 +842,19 @@ Zones de capture :
 
   ### Rattatac
 
+Zones de capture :
+
+  | Zone de capture     | Niveau | Chance d'apparition |
+  |---------------------|--------|---------------------|
+  | Route 6             | 24     | 5%                  |
+  | Route 9             | 23     | 15%                 |
+  | Route 10            | 23     | 15%                 |
+  | Route 11            | 25     | 5%                  |
+  | Route 16            | 31     | 15%                 |
+  | Route 17            | 42     | 15%                 |
+  | Route 18            | 49     | 15%                 |
+  | Grotte Inconnue N-1 | 82     | 10%                 |
+
   Liste des attaques :
 
   | Niv. | Attaque       | Remarque  |
@@ -745,6 +874,18 @@ Zones de capture :
   <summary><strong>021 - Piafabec</strong></summary>
 
   ### Piafabec
+
+Zones de capture :
+
+  | Zone de capture | Niveau | Chance d'apparition |
+  |-----------------|--------|---------------------|
+  | Route 1         | 5      | 5%                  |
+  | Route 3         | 14     | 15%                 |
+  | Route 4         | 18     | 10%                 |
+  | Route 5         | 17     | 15%                 |
+  | Route 22        | 6      | 25%                 |
+  | Route 24        | 20     | 5%                  |
+  | Route 25        | 20     | 5%                  |
 
   Liste des attaques :
 
@@ -767,6 +908,20 @@ Zones de capture :
 
   ### Rapasdepic
 
+Zones de capture :
+
+  | Zone de capture   | Niveau | Chance d'apparition |
+  |-------------------|--------|---------------------|
+  | Route 9           | 25     | 10%                 |
+  | Route 10          | 25     | 10%                 |
+  | Route 12          | 44     | 10%                 |
+  | Route 13          | 40     | 25%                 |
+  | Route 16          | 35     | 10%                 |
+  | Route 17          | 45     | 10%                 |
+  | Route 18          | 50     | 15%                 |
+  | Route 23          | 78     | 10%                 |
+  | Parc Safari Sud   | 30     | 10%                 |
+
   Liste des attaques :
 
   | Niv. | Attaque       | Remarque  |
@@ -787,6 +942,19 @@ Zones de capture :
   <summary><strong>023 - Abo</strong></summary>
 
   ### Abo
+
+Zones de capture :
+
+  | Zone de capture | Niveau | Chance d'apparition |
+  |-----------------|--------|---------------------|
+  | Route 1         | 5      | 4%                  |
+  | Route 2         | 13     | 4%                  |
+  | Route 4         | 19     | 5%                  |
+  | Route 6         | 21     | 15%                 |
+  | Route 11        | 20     | 15%                 |
+  | Route 22        | 8      | 5%                  |
+  | Route 24        | 19     | 25%                 |
+  | Route 25        | 19     | 15%                 |
 
   Liste des attaques :
 
@@ -809,6 +977,17 @@ Zones de capture :
 
   ### Arbok
 
+Zones de capture :
+
+  | Zone de capture | Niveau | Chance d'apparition |
+  |-----------------|--------|---------------------|
+  | Route 6         | 24     | 5%                  |
+  | Route 7         | 33     | 10%                 |
+  | Route 8         | 33     | 10%                 |
+  | Route 9         | 26     | 10%                 |
+  | Route 21        | 65     | 10%                 |
+  | Route 23        | 78     | 10%                 |
+
   Liste des attaques :
 
   | Niv. | Attaque       | Remarque  |
@@ -830,6 +1009,13 @@ Zones de capture :
 
   ### Pikachu
 
+Zones de capture :
+
+  | Zone de capture      | Niveau | Chance d'apparition |
+  |----------------------|--------|---------------------|
+  | Forêt de Jade        | 5      | 1%                  |
+  | Centrale électrique  | 80     | 4%                  |
+
   Liste des attaques :
 
   | Niv. | Attaque       | Remarque  |
@@ -850,6 +1036,14 @@ Zones de capture :
   <summary><strong>026 - Raichu</strong></summary>
 
   ### Raichu
+
+Zones de capture :
+
+  | Zone de capture      | Niveau | Chance d'apparition |
+  |----------------------|--------|---------------------|
+  | Centrale électrique  | 84     | 15%                 |
+  | Centrale électrique  | 87     | 5%                  |
+  | Grotte Inconnue N+1  | 78     | 25%                 |
 
   Liste des attaques :
 
@@ -875,6 +1069,18 @@ Zones de capture :
 
   ### Sabelette
 
+Zones de capture :
+
+  | Zone de capture          | Niveau | Chance d'apparition |
+  |--------------------------|--------|---------------------|
+  | Route 4                  | 17     | 15%                 |
+  | Mont Sélénite RDC        | 17     | 10%                 |
+  | Mont Sélénite N-1        | 18     | 10%                 |
+  | Mont Sélénite N-2        | 19     | 10%                 |
+  | Grotte Sombre RDC        | 20     | 15%                 |
+  | Grotte Sombre N+1        | 20     | 15%                 |
+  | Route 24                 | 21     | 4%                  |
+
   Liste des attaques :
 
   | Niv. | Attaque       | Remarque  |
@@ -895,6 +1101,15 @@ Zones de capture :
 
   ### Sablaireau
 
+Zones de capture :
+
+  | Zone de capture        | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | Route 23               | 78     | 10%                 |
+  | Route Victoire RDC     | 79     | 10%                 |
+  | Route Victoire N+1     | 79     | 10%                 |
+  | Route Victoire N+2     | 79     | 10%                 |
+
   Liste des attaques :
 
   | Niv. | Attaque       | Remarque  |
@@ -914,6 +1129,15 @@ Zones de capture :
   <summary><strong>029 - Nidoran♀</strong></summary>
 
   ### Nidoran♀
+
+Zones de capture :
+
+  | Zone de capture | Niveau | Chance d'apparition |
+  |-----------------|--------|---------------------|
+  | Route 1         | 4      | 10%                 |
+  | Route 2         | 10     | 15%                 |
+  | Route 3         | 16     | 5%                  |
+  | Route 22        | 7      | 10%                 |
 
   Liste des attaques :
 
@@ -937,6 +1161,15 @@ Zones de capture :
 
   ### Nidorina
 
+Zones de capture :
+
+  | Zone de capture | Niveau | Chance d'apparition |
+  |-----------------|--------|---------------------|
+  | Route 9         | 26     | 5%                  |
+  | Route 13        | 46     | 10%                 |
+  | Route 14        | 46     | 10%                 |
+  | Route 15        | 48     | 10%                 |
+
   Liste des attaques :
 
   | Niv. | Attaque       | Remarque  |
@@ -958,6 +1191,15 @@ Zones de capture :
   <summary><strong>031 - Nidoqueen</strong></summary>
 
   ### Nidoqueen
+
+Zones de capture :
+
+  | Zone de capture        | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | Route 15               | 52     | 1%                  |
+  | Route 21               | 62     | 5%                  |
+  | Route Victoire RDC     | 84     | 1%                  |
+  | Grotte Inconnue RDC    | 83     | 10%                 |
 
   Liste des attaques :
 
@@ -981,6 +1223,15 @@ Zones de capture :
 
   ### Nidoran♂
 
+Zones de capture :
+
+  | Zone de capture | Niveau | Chance d'apparition |
+  |-----------------|--------|---------------------|
+  | Route 1         | 4      | 10%                 |
+  | Route 2         | 12     | 10%                 |
+  | Route 3         | 16     | 5%                  |
+  | Route 22        | 7      | 10%                 |
+
   Liste des attaques :
 
   | Niv. | Attaque       | Remarque  |
@@ -1002,6 +1253,15 @@ Zones de capture :
   <summary><strong>033 - Nidorino</strong></summary>
 
   ### Nidorino
+
+Zones de capture :
+
+  | Zone de capture | Niveau | Chance d'apparition |
+  |-----------------|--------|---------------------|
+  | Route 9         | 26     | 5%                  |
+  | Route 13        | 46     | 10%                 |
+  | Route 14        | 46     | 10%                 |
+  | Route 15        | 48     | 10%                 |
 
   Liste des attaques :
 
@@ -1025,6 +1285,15 @@ Zones de capture :
 
   ### Nidoking
 
+Zones de capture :
+
+  | Zone de capture       | Niveau | Chance d'apparition |
+  |-----------------------|--------|---------------------|
+  | Route 14              | 52     | 1%                  |
+  | Route 21              | 66     | 5%                  |
+  | Route Victoire N+1    | 84     | 1%                  |
+  | Grotte Inconnue N+1   | 84     | 5%                  |
+
   Liste des attaques :
 
   | Niv. | Attaque       | Remarque  |
@@ -1046,6 +1315,15 @@ Zones de capture :
   <summary><strong>035 - Mélofée</strong></summary>
 
   ### Mélofée
+
+Zones de capture :
+
+  | Zone de capture       | Niveau | Chance d'apparition |
+  |-----------------------|--------|---------------------|
+  | Route 3               | 15     | 10%                 |
+  | Mont Sélénite RDC     | 15     | 5%                  |
+  | Mont Sélénite N-1     | 16     | 5%                  |
+  | Mont Sélénite N-2     | 18     | 5%                  |
 
   Liste des attaques :
 
@@ -1069,6 +1347,12 @@ Zones de capture :
 
   ### Mélodelfe
 
+Zones de capture :
+
+  | Zone de capture | Niveau | Chance d'apparition |
+  |-----------------|--------|---------------------|
+  | Non capturable  | —      | Vous devrez faire évoluer un Mélofée pour l'obtenir. |
+
   Liste des attaques :
 
   | Niv. | Attaque       | Remarque  |
@@ -1090,6 +1374,15 @@ Zones de capture :
   <summary><strong>037 - Goupix</strong></summary>
 
   ### Goupix
+
+Zones de capture :
+
+  | Zone de capture | Niveau | Chance d'apparition |
+  |-----------------|--------|---------------------|
+  | Route 2         | 12     | 5%                  |
+  | Route 7         | 27     | 25%                 |
+  | Route 8         | 27     | 15%                 |
+  | Manoir N+1      | 57     | 1%                  |
 
   Liste des attaques :
 
@@ -1113,6 +1406,18 @@ Zones de capture :
 
   ### Feunard
 
+Zones de capture :
+
+  | Zone de capture        | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | Route 7                | 35     | 1%                  |
+  | Manoir N-1             | 63     | 10%                 |
+  | Manoir RDC             | 64     | 10%                 |
+  | Manoir N+1             | 61     | 5%                  |
+  | Manoir N+1             | 65     | 10%                 |
+  | Manoir N+2             | 66     | 10%                 |
+  | Grotte Inconnue N-1    | 83     | 10%                 |
+
   Liste des attaques :
 
   | Niv. | Attaque       | Remarque  |
@@ -1135,6 +1440,15 @@ Zones de capture :
 
   ### Rondoudou
 
+Zones de capture :
+
+  | Zone de capture       | Niveau | Chance d'apparition |
+  |-----------------------|--------|---------------------|
+  | Route 3               | 15     | 10%                 |
+  | Mont Sélénite RDC     | 15     | 5%                  |
+  | Mont Sélénite N-1     | 16     | 5%                  |
+  | Mont Sélénite N-2     | 18     | 5%                  |
+
   Liste des attaques :
 
   | Niv. | Attaque       | Remarque  |
@@ -1156,7 +1470,13 @@ Zones de capture :
   <summary><strong>040 - Grodoudou</strong></summary>
 
   ### Grodoudou
+  
+Zones de capture :
 
+  | Zone de capture | Niveau | Chance d'apparition |
+  |-----------------|--------|---------------------|
+  | Non capturable  | —      | Vous devrez faire évoluer un Grodoudou pour l'obtenir. |
+  
   Liste des attaques :
 
   | Niv. | Attaque       | Remarque  |
@@ -1179,6 +1499,18 @@ Zones de capture :
 
   ### Nosferapti
 
+Zones de capture :
+
+  | Zone de capture      | Niveau | Chance d'apparition |
+  |----------------------|--------|---------------------|
+  | Mont Sélénite RDC    | 17     | 25%                 |
+  | Mont Sélénite N-1    | 19     | 15%                 |
+  | Mont Sélénite N-2    | 18     | 15%                 |
+  | Grotte Sombre RDC    | 20     | 25%                 |
+  | Grotte Sombre N+1    | 20     | 25%                 |
+
+  Liste des attaques :
+
   | Niveau | Attaque       | Remarque  |
   |--------|---------------|-----------|
   | 1      | Vampirisme    | Inchangée |
@@ -1197,6 +1529,21 @@ Zones de capture :
 
   ### Nosferalto
 
+Zones de capture :
+
+  | Zone de capture       | Niveau | Chance d'apparition |
+  |-----------------------|--------|---------------------|
+  | Grotte Sombre RDC     | 27     | 5%                  |
+  | Grotte Sombre N+1     | 27     | 5%                  |
+  | Îles Écume RDC        | 52     | 10%                 |
+  | Îles Écume N-2        | 52     | 10%                 |
+  | Îles Écume N-4        | 52     | 10%                 |
+  | Route Victoire RDC    | 78     | 15%                 |
+  | Route Victoire N+1    | 78     | 15%                 |
+  | Route Victoire N+2    | 80     | 25%                 |
+
+  Liste des attaques :
+
   | Niveau | Attaque       | Remarque  |
   |--------|---------------|-----------|
   | 1      | Vampirisme    | Inchangée |
@@ -1214,6 +1561,19 @@ Zones de capture :
   <summary><strong>043 - Mystherbe</strong></summary>
 
   ### Mystherbe
+
+Zones de capture :
+
+  | Zone de capture | Niveau | Chance d'apparition |
+  |-----------------|--------|---------------------|
+  | Forêt de Jade   | 8      | 10%                 |
+  | Route 2         | 11     | 10%                 |
+  | Route 5         | 19     | 10%                 |
+  | Route 6         | 22     | 10%                 |
+  | Route 24        | 17     | 10%                 |
+  | Route 25        | 17     | 10%                 |
+
+  Liste des attaques :
 
   | Niveau | Attaque         | Remarque  |
   |--------|-----------------|-----------|
@@ -1234,6 +1594,17 @@ Zones de capture :
 
   ### Ortide
 
+Zones de capture :
+
+  | Zone de capture | Niveau | Chance d'apparition |
+  |-----------------|--------|---------------------|
+  | Route 7         | 34     | 5%                  |
+  | Route 8         | 34     | 5%                  |
+  | Route 12        | 42     | 15%                 |
+  | Route 13        | 42     | 15%                 |
+
+  Liste des attaques :
+  
   | Niveau | Attaque         | Remarque  |
   |--------|-----------------|-----------|
   | 1      | Vol-Vie          | Inchangée |
@@ -1252,6 +1623,16 @@ Zones de capture :
   <summary><strong>045 - Rafflesia</strong></summary>
 
   ### Rafflesia
+
+Zones de capture :
+
+  | Zone de capture | Niveau | Chance d'apparition |
+  |-----------------|--------|---------------------|
+  | Route 14        | 44     | 15%                 |
+  | Route 15        | 46     | 15%                 |
+  | Île Inconnue    | 85     | 10%                 |
+
+  Liste des attaques :
 
   | Niveau | Attaque         | Remarque  |
   |--------|-----------------|-----------|
@@ -1272,6 +1653,18 @@ Zones de capture :
 
   ### Paras
 
+Zones de capture :
+
+  | Zone de capture      | Niveau | Chance d'apparition |
+  |----------------------|--------|---------------------|
+  | Mont Sélénite RDC    | 18     | 15%                 |
+  | Mont Sélénite N-1    | 17     | 25%                 |
+  | Mont Sélénite N-2    | 19     | 15%                 |
+  | Grotte Sombre RDC    | 22     | 15%                 |
+  | Grotte Sombre N+1    | 22     | 15%                 |
+
+  Liste des attaques :
+
   | Niveau | Attaque           | Remarque  |
   |--------|-------------------|-----------|
   | 1      | Griffe            | Inchangée |
@@ -1290,6 +1683,18 @@ Zones de capture :
 
   ### Parasect
 
+Zones de capture :
+
+  | Zone de capture       | Niveau | Chance d'apparition |
+  |-----------------------|--------|---------------------|
+  | Îles Écume N-1        | 52     | 10%                 |
+  | Îles Écume N-3        | 52     | 10%                 |
+  | Route Victoire RDC    | 78     | 15%                 |
+  | Route Victoire N+1    | 78     | 15%                 |
+  | Route Victoire N+2    | 80     | 25%                 |
+
+  Liste des attaques :
+
   | Niveau | Attaque           | Remarque  |
   |--------|-------------------|-----------|
   | 1      | Griffe            | Inchangée |
@@ -1307,6 +1712,14 @@ Zones de capture :
   <summary><strong>048 - Mimitoss</strong></summary>
 
   ### Mimitoss
+
+Zones de capture :
+
+  | Zone de capture | Niveau | Chance d'apparition |
+  |-----------------|--------|---------------------|
+  | Forêt de Jade   | 6      | 4%                  |
+
+  Liste des attaques :
 
   | Niveau | Attaque        | Remarque  |
   |--------|----------------|-----------|
@@ -1329,6 +1742,19 @@ Zones de capture :
 
   ### Aéromite
 
+Zones de capture :
+
+  | Zone de capture       | Niveau | Chance d'apparition |
+  |-----------------------|--------|---------------------|
+  | Route 14              | 48     | 5%                  |
+  | Route 15              | 50     | 5%                  |
+  | Route 16              | 40     | 5%                  |
+  | Route 18              | 52     | 10%                 |
+  | Grotte Inconnue RDC   | 78     | 25%                 |
+  | Grotte Inconnue N-1   | 85     | 5%                  |
+
+  Liste des attaques :
+
   | Niveau | Attaque      | Remarque  |
   |--------|--------------|-----------|
   | -      | Charge       | Inchangée |
@@ -1350,6 +1776,22 @@ Zones de capture :
 
   ### Taupiqueur
 
+Zones de capture :
+
+  | Zone de capture   | Niveau | Chance d'apparition |
+  |-------------------|--------|---------------------|
+  | Cave Taupiqueur   | 20     | 25%                 |
+  | Cave Taupiqueur   | 21     | 15%                 |
+  | Cave Taupiqueur   | 22     | 15%                 |
+  | Cave Taupiqueur   | 23     | 10%                 |
+  | Cave Taupiqueur   | 24     | 10%                 |
+  | Cave Taupiqueur   | 25     | 10%                 |
+  | Cave Taupiqueur   | 26     | 5%                  |
+  | Cave Taupiqueur   | 28     | 5%                  |
+  | Parc Safari Nord  | 30     | 15%                 |
+
+  Liste des attaques :
+
   | Niveau | Attaque      | Remarque |
   |--------|--------------|----------|
   | 1      | Griffe       | Inchangée|
@@ -1368,6 +1810,15 @@ Zones de capture :
 
   ### Triopikeur
 
+Zones de capture :
+
+  | Zone de capture   | Niveau | Chance d'apparition |
+  |-------------------|--------|---------------------|
+  | Cave Taupiqueur   | 33     | 4%                  |
+  | Cave Taupiqueur   | 35     | 1%                  |
+
+  Liste des attaques :
+
   | Niveau | Attaque      | Remarque  |
   |--------|--------------|-----------|
   | 1      | Griffe       | Inchangée |
@@ -1385,6 +1836,21 @@ Zones de capture :
   <summary><strong>052 - Miaouss</strong></summary>
 
   ### Miaouss
+
+Zones de capture :
+
+  | Zone de capture    | Niveau | Chance d'apparition |
+  |--------------------|--------|---------------------|
+  | Route 4            | 20     | 5%                  |
+  | Route 5            | 18     | 15%                 |
+  | Route 6            | 21     | 25%                 |
+  | Route 6            | 23     | 10%                 |
+  | Route 11           | 21     | 15%                 |
+  | Route 24           | 19     | 15%                 |
+  | Route 25           | 19     | 25%                 |
+  | Parc Safari Est    | 30     | 15%                 |
+
+  Liste des attaques :
 
   | Niveau | Attaque         | Remarque   |
   |--------|------------------|------------|
@@ -1405,6 +1871,19 @@ Zones de capture :
 
   ### Persian
 
+Zones de capture :
+
+  | Zone de capture       | Niveau | Chance d'apparition |
+  |-----------------------|--------|---------------------|
+  | Route 7               | 33     | 10%                 |
+  | Route 8               | 33     | 10%                 |
+  | Route 10              | 26     | 10%                 |
+  | Route 21              | 64     | 10%                 |
+  | Route 23              | 77     | 15%                 |
+  | Grotte Inconnue N-1   | 80     | 15%                 |
+
+  Liste des attaques :
+
   | Niveau | Attaque         | Remarque   |
   |--------|------------------|------------|
   | 1      | Griffe           | Inchangée  |
@@ -1424,6 +1903,17 @@ Zones de capture :
 
   ### Psykokwak
 
+Zones de capture :
+
+  | Zone de capture     | Niveau | Chance d'apparition |
+  |---------------------|--------|---------------------|
+  | Chenal 19           | 20     | 15%                 |
+  | Chenal 20           | 20     | 15%                 |
+  | Chenal 21           | 20     | 15%                 |
+  | Parc Safari Ouest   | 30     | 15%                 |
+
+  Liste des attaques :
+
   | Niveau | Attaque         | Remarque   |
   |--------|------------------|------------|
   | 1      | Griffe           | Inchangée  |
@@ -1442,6 +1932,22 @@ Zones de capture :
 
   ### Akwakwak
 
+Zones de capture :
+
+  | Zone de capture      | Niveau | Chance d'apparition |
+  |----------------------|--------|---------------------|
+  | Route 12             | 45     | 10%                 |
+  | Îles Écume RDC       | 54     | 10%                 |
+  | Îles Écume RDC       | 60     | 1%                  |
+  | Îles Écume N-1       | 54     | 10%                 |
+  | Îles Écume N-1       | 60     | 1%                  |
+  | Îles Écume N-2       | 54     | 10%                 |
+  | Îles Écume N-2       | 60     | 1%                  |
+  | Îles Écume N-3       | 54     | 10%                 |
+  | Îles Écume N-4       | 54     | 10%                 |
+
+  Liste des attaques :
+
   | Niveau | Attaque         | Remarque   |
   |--------|------------------|------------|
   | 1      | Griffe           | Inchangée  |
@@ -1459,6 +1965,22 @@ Zones de capture :
   <summary><strong>056 - Férosinge</strong></summary>
 
   ### Férosinge
+
+Zones de capture :
+
+  | Zone de capture      | Niveau | Chance d'apparition |
+  |----------------------|--------|---------------------|
+  | Mont Sélénite RDC    | 18     | 10%                 |
+  | Mont Sélénite N-1    | 19     | 10%                 |
+  | Mont Sélénite N-2    | 17     | 10%                 |
+  | Route 3              | 14     | 4%                  |
+  | Route 4              | 19     | 25%                 |
+  | Route 5              | 18     | 10%                 |
+  | Route 6              | 20     | 15%                 |
+  | Route 25             | 21     | 4%                  |
+  | Parc Safari Nord     | 30     | 15%                 |
+
+  Liste des attaques :
 
   | Niveau | Attaque          | Remarque   |
   |--------|------------------|------------|
@@ -1481,6 +2003,17 @@ Zones de capture :
 
   ### Colossinge
 
+Zones de capture :
+
+  | Zone de capture        | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | Route 23               | 77     | 15%                 |
+  | Route Victoire RDC     | 79     | 10%                 |
+  | Route Victoire N+1     | 79     | 10%                 |
+  | Route Victoire N+2     | 79     | 10%                 |
+
+  Liste des attaques :
+
   | Niveau | Attaque          | Remarque   |
   |--------|------------------|------------|
   | -      | Griffe           | Inchangée  |
@@ -1502,6 +2035,17 @@ Zones de capture :
 
   ### Caninos
 
+Zones de capture :
+
+  | Zone de capture    | Niveau | Chance d'apparition |
+  |--------------------|--------|---------------------|
+  | Route 2            | 12     | 5%                  |
+  | Route 7            | 27     | 15%                 |
+  | Route 8            | 27     | 25%                 |
+  | Manoir RDC         | 57     | 1%                  |
+
+  Liste des attaques :
+
   | Niveau | Attaque         | Remarque   |
   |--------|------------------|------------|
   | 1      | Hurlement        | Inchangée  |
@@ -1520,6 +2064,20 @@ Zones de capture :
   <summary><strong>059 - Arcanin</strong></summary>
 
   ### Arcanin
+
+Zones de capture :
+
+  | Zone de capture        | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | Route 8                | 35     | 1%                  |
+  | Manoir N-1             | 65     | 10%                 |
+  | Manoir RDC             | 62     | 10%                 |
+  | Manoir RDC             | 66     | 5%                  |
+  | Manoir N+1             | 63     | 10%                 |
+  | Manoir N+2             | 64     | 10%                 |
+  | Grotte Inconnue N+1    | 87     | 1%                  |
+
+  Liste des attaques :
 
   | Niveau | Attaque         | Remarque        |
   |--------|-----------------|-----------------|
@@ -1543,6 +2101,15 @@ Zones de capture :
 
   ### Ptitard
 
+Zones de capture :
+
+  | Zone de capture      | Niveau | Chance d'apparition |
+  |----------------------|--------|---------------------|
+  | Route 3              | 15     | 1%                  |
+  | Parc Safari Sud      | 30     | 10%                 |
+
+  Liste des attaques :
+
   | Niveau | Attaque         | Remarque   |
   |--------|-----------------|------------|
   | 1      | Écume           | Inchangée  |
@@ -1561,6 +2128,15 @@ Zones de capture :
   <summary><strong>061 - Têtarte</strong></summary>
 
   ### Têtarte
+
+Zones de capture :
+
+  | Zone de capture      | Niveau | Chance d'apparition |
+  |----------------------|--------|---------------------|
+  | Îles Écume N-2       | 53     | 15%                 |
+  | Îles Écume N-3       | 53     | 15%                 |
+
+  Liste des attaques :
 
   | Niveau | Attaque         | Remarque   |
   |--------|-----------------|------------|
@@ -1581,6 +2157,16 @@ Zones de capture :
 
   ### Tartard
 
+Zones de capture :
+
+  | Zone de capture        | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | Îles Écume N-4         | 57     | 4%                  |
+  | Grotte Inconnue N-1    | 84     | 5%                  |
+  | Île Inconnue           | 87     | 4%                  |
+
+  Liste des attaques :
+
   | Niveau | Attaque         | Remarque   |
   |--------|-----------------|------------|
   | 1      | Écume           | Inchangée  |
@@ -1600,6 +2186,16 @@ Zones de capture :
 
   ### Abra
 
+Zones de capture :
+
+  | Zone de capture    | Niveau | Chance d'apparition |
+  |--------------------|--------|---------------------|
+  | Route 5            | 10     | 4%                  |
+  | Route 24           | 10     | 1%                  |
+  | Route 25           | 10     | 1%                  |
+
+  Liste des attaques :
+
   | Niveau | Attaque   | Remarque |
   |--------|-----------|----------|
   | 1      | Téléport  | Inchangée|
@@ -1609,6 +2205,14 @@ Zones de capture :
   <summary><strong>064 - Kadabra</strong></summary>
 
   ### Kadabra
+
+Zones de capture :
+
+  | Zone de capture | Niveau | Chance d'apparition |
+  |-----------------|--------|---------------------|
+  | Non capturable  | —      | Vous devrez faire évoluer un Abra pour l'obtenir. |
+
+  Liste des attaques :
 
   | Niveau | Attaque       | Remarque   |
   |--------|---------------|------------|
@@ -1630,6 +2234,14 @@ Zones de capture :
 
   ### Alakazam
 
+Zones de capture :
+
+  | Zone de capture | Niveau | Chance d'apparition |
+  |-----------------|--------|---------------------|
+  | Non capturable  | —      | Vous devrez faire évoluer un Kadabra pour l'obtenir. |
+
+  Liste des attaques :
+
   | Niveau | Attaque       | Remarque   |
   |--------|---------------|------------|
   | 1      | Téléport      | Inchangée  |
@@ -1650,6 +2262,19 @@ Zones de capture :
 
   ### Machoc
 
+Zones de capture :
+
+  | Zone de capture       | Niveau | Chance d'apparition |
+  |-----------------------|--------|---------------------|
+  | Mont Sélénite RDC     | 19     | 10%                 |
+  | Mont Sélénite N-1     | 17     | 10%                 |
+  | Mont Sélénite N-2     | 18     | 10%                 |
+  | Grotte Sombre RDC     | 26     | 10%                 |
+  | Grotte Sombre N+1     | 26     | 10%                 |
+  | Parc Safari Nord      | 30     | 25%                 |
+
+  Liste des attaques :
+
   | Niveau | Attaque        | Remarque   |
   |--------|----------------|------------|
   | 1      | Poing Karaté   | Inchangée  |
@@ -1667,6 +2292,16 @@ Zones de capture :
   <summary><strong>067 - Machopeur</strong></summary>
 
   ### Machopeur
+
+Zones de capture :
+
+  | Zone de capture       | Niveau | Chance d'apparition |
+  |-----------------------|--------|---------------------|
+  | Grotte Sombre RDC     | 28     | 4%                  |
+  | Grotte Sombre N+1     | 28     | 4%                  |
+  | Route 18              | 56     | 5%                  |
+
+  Liste des attaques :
 
   | Niveau | Attaque        | Remarque   |
   |--------|----------------|------------|
@@ -1686,6 +2321,18 @@ Zones de capture :
 
   ### Mackogneur
 
+Zones de capture :
+
+  | Zone de capture        | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | Route Victoire RDC      | 81     | 5%                  |
+  | Route Victoire N+1     | 81     | 5%                  |
+  | Route Victoire N+2     | 81     | 5%                  |
+  | Grotte Inconnue N+1    | 86     | 4%                  |
+  | Île Inconnue           | 88     | 15%                 |
+
+  Liste des attaques :
+
   | Niveau | Attaque        | Remarque   |
   |--------|----------------|------------|
   | 1      | Poing Karaté   | Inchangée  |
@@ -1703,6 +2350,16 @@ Zones de capture :
   <summary><strong>069 - Chétiflor</strong></summary>
 
   ### Chétiflor
+
+Zones de capture :
+
+  | Zone de capture    | Niveau | Chance d'apparition |
+  |--------------------|--------|---------------------|
+  | Route 7            | 34     | 5%                  |
+  | Route 8            | 34     | 5%                  |
+  | Route 12           | 42     | 10%                 |
+  | Route 13           | 42     | 15%                 |
+  Liste des attaques :
 
   | Niveau | Attaque        | Remarque   |
   |--------|----------------|------------|
@@ -1725,6 +2382,17 @@ Zones de capture :
 
   ### Boustiflor
 
+Zones de capture :
+
+  | Zone de capture    | Niveau | Chance d'apparition |
+  |--------------------|--------|---------------------|
+  | Route 7            | 34     | 5%                  |
+  | Route 8            | 34     | 5%                  |
+  | Route 12           | 42     | 10%                 |
+  | Route 13           | 42     | 15%                 |
+  
+  Liste des attaques :
+
   | Niveau | Attaque        | Remarque   |
   |--------|----------------|------------|
   | -      | Croissance     | Inchangée  |
@@ -1745,6 +2413,17 @@ Zones de capture :
   <summary><strong>071 - Empiflor</strong></summary>
 
   ### Empiflor
+
+Zones de capture :
+
+  | Zone de capture         | Niveau | Chance d'apparition |
+  |-------------------------|--------|---------------------|
+  | Route 14                | 44     | 15%                 |
+  | Route 15                | 46     | 15%                 |
+  | Grotte Inconnue N+1     | 85     | 5%                  |
+  | Île Inconnue            | 85     | 10%                 |
+
+  Liste des attaques :
 
   | Niveau | Attaque        | Remarque   |
   |--------|----------------|------------|
@@ -1767,6 +2446,17 @@ Zones de capture :
 
   ### Tentacool
 
+Zones de capture :
+
+  | Zone de capture    | Niveau | Chance d'apparition |
+  |--------------------|--------|---------------------|
+  | Chenal 19          | 15     | 4%                  |
+  | Chenal 20          | 15     | 4%                  |
+  | Chenal 21          | 15     | 4%                  |
+  | Parc Safari Sud    | 30     | 10%                 |
+
+  Liste des attaques :
+
   | Niveau | Attaque      | Remarque  |
   |--------|--------------|-----------|
   | 1      | Acide        | Inchangée |
@@ -1787,6 +2477,21 @@ Zones de capture :
   <summary><strong>073 - Tentacruel</strong></summary>
 
   ### Tentacruel
+
+Zones de capture :
+
+  | Zone de capture        | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | Chenal 19              | 30     | 1%                  |
+  | Chenal 20              | 30     | 1%                  |
+  | Chenal 21              | 30     | 1%                  |
+  | Îles Écume RDC         | 56     | 4%                  |
+  | Îles Écume N-1         | 56     | 4%                  |
+  | Îles Écume N-2         | 56     | 4%                  |
+  | Îles Écume N-3         | 56     | 4%                  |
+  | Îles Écume N-4         | 56     | 5%                  |
+
+  Liste des attaques :
 
   | Niveau | Attaque      | Remarque  |
   |--------|--------------|-----------|
@@ -1809,6 +2514,19 @@ Zones de capture :
 
   ### Racaillou
 
+Zones de capture :
+
+  | Zone de capture        | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | Mont Sélénite RDC      | 19     | 15%                 |
+  | Mont Sélénite N-1      | 18     | 15%                 |
+  | Mont Sélénite N-2      | 17     | 25%                 |
+  | Grotte Sombre RDC      | 22     | 10%                 |
+  | Grotte Sombre N+1      | 22     | 10%                 |
+  | Parc Safari Ouest      | 30     | 15%                 |
+
+  Liste des attaques :
+
   | Niveau | Attaque     | Remarque  |
   |--------|-------------|-----------|
   | 1      | Charge      | Inchangée |
@@ -1827,6 +2545,15 @@ Zones de capture :
   <summary><strong>075 - Gravalanch</strong></summary>
 
   ### Gravalanch
+
+Zones de capture :
+
+  | Zone de capture    | Niveau | Chance d'apparition |
+  |--------------------|--------|---------------------|
+  | Grotte Sombre RDC  | 5      | 4%                  |
+  | Grotte Sombre N+1  | 5      | 4%                  |
+
+  Liste des attaques :
 
   | Niveau | Attaque     | Remarque  |
   |--------|-------------|-----------|
@@ -1847,6 +2574,18 @@ Zones de capture :
 
   ### Grolem
 
+Zones de capture :
+
+  | Zone de capture        | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | Route Victoire RDC     | 81     | 5%                  |
+  | Route Victoire N+1     | 81     | 5%                  |
+  | Route Victoire N+2     | 81     | 5%                  |
+  | Grotte Inconnue RDC    | 85     | 5%                  |
+  | Île Inconnue           | 87     | 25%                 |
+
+  Liste des attaques :
+
   | Niveau | Attaque     | Remarque  |
   |--------|-------------|-----------|
   | 1      | Charge      | Inchangée |
@@ -1865,6 +2604,14 @@ Zones de capture :
   <summary><strong>077 - Ponyta</strong></summary>
 
   ### Ponyta
+
+Zones de capture :
+
+  | Zone de capture    | Niveau | Chance d'apparition |
+  |--------------------|--------|---------------------|
+  | Manoir N+2         | 5      | 1%                  |
+
+  Liste des attaques :
 
   | Niveau | Attaque         | Remarque  |
   |--------|-----------------|-----------|
@@ -1885,6 +2632,19 @@ Zones de capture :
 
   ### Galopa
 
+Zones de capture :
+
+  | Zone de capture    | Niveau | Chance d'apparition |
+  |--------------------|--------|---------------------|
+  | Manoir N-1         | 66     | 10%                 |
+  | Manoir RDC         | 63     | 10%                 |
+  | Manoir N+1         | 64     | 10%                 |
+  | Manoir N+2         | 65     | 10%                 |
+  | Manoir N+2         | 31     | 5%                  |
+  | Île Inconnue       | 86     | 15%                 |
+
+  Liste des attaques :
+
   | Niveau | Attaque         | Remarque  |
   |--------|-----------------|-----------|
   | 1      | Flammèche       | Inchangée |
@@ -1904,6 +2664,16 @@ Zones de capture :
 
   ### Ramoloss
 
+Zones de capture :
+
+  | Zone de capture      | Niveau | Chance d'apparition |
+  |----------------------|--------|---------------------|
+  | Route 4              | 10     | 1%                  |
+  | Route 10             | 26     | 15%                 |
+  | Parc Safari Nord     | 30     | 10%                 |
+
+  Liste des attaques :
+
   | Niveau | Attaque       | Remarque  |
   |--------|---------------|-----------|
   | 1      | Choc Mental   | Inchangée |
@@ -1922,6 +2692,16 @@ Zones de capture :
   <summary><strong>080 - Flagadoss</strong></summary>
 
   ### Flagadoss
+
+Zones de capture :
+
+  | Zone de capture       | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | Îles Écume RDC         | 53     | 15%                 |
+  | Îles Écume N-1         | 53     | 15%                 |
+  | Grotte Inconnue RDC    | 81     | 10%                 |
+
+  Liste des attaques :
 
   | Niveau | Attaque       | Remarque  |
   |--------|---------------|-----------|
@@ -1943,6 +2723,16 @@ Zones de capture :
 
   ### Magnéti
 
+Zones de capture :
+
+  | Zone de capture      | Niveau | Chance d'apparition |
+  |----------------------|--------|---------------------|
+  | Route 6              | 17     | 1%                  |
+  | Route 10             | 24     | 5%                  |
+  | Parc Safari Nord     | 30     | 5%                  |
+
+  Liste des attaques :
+
   | Niveau | Attaque         | Remarque  |
   |--------|-----------------|-----------|
   | 1      | Charge          | Inchangée |
@@ -1961,6 +2751,16 @@ Zones de capture :
   <summary><strong>082 - Magnéton</strong></summary>
 
   ### Magnéton
+
+Zones de capture :
+
+  | Zone de capture        | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | Centrale électrique    | 85     | 10%                 |
+  | Centrale électrique    | 88     | 15%                 |
+  | Centrale électrique    | 89     | 5%                  |
+
+  Liste des attaques :
 
   | Niveau | Attaque         | Remarque  |
   |--------|-----------------|-----------|
@@ -1981,6 +2781,22 @@ Zones de capture :
 
   ### Canarticho
 
+Zones de capture :
+
+  | Zone de capture      | Niveau | Chance d'apparition |
+  |----------------------|--------|---------------------|
+  | Route 5              | 20     | 5%                  |
+  | Route 12             | 40     | 25%                 |
+  | Route 13             | 44     | 10%                 |
+  | Route 14             | 45     | 10%                 |
+  | Route 15             | 47     | 10%                 |
+  | Route 16             | 37     | 15%                 |
+  | Route 17             | 44     | 10%                 |
+  | Route 18             | 48     | 25%                 |
+  | Parc Safari Ouest    | 30     | 15%                 |
+
+  Liste des attaques :
+
   | Niveau | Attaque        | Remarque  |
   |--------|----------------|-----------|
   | 1      | Jet de Sable   | Inchangée |
@@ -1999,6 +2815,22 @@ Zones de capture :
   <summary><strong>084 - Doduo</strong></summary>
 
   ### Doduo
+
+Zones de capture :
+
+  | Zone de capture      | Niveau | Chance d'apparition |
+  |----------------------|--------|---------------------|
+  | Route 2              | 13     | 1%                  |
+  | Route 3              | 10     | 25%                 |
+  | Route 4              | 20     | 10%                 |
+  | Route 7              | 27     | 15%                 |
+  | Route 8              | 27     | 15%                 |
+  | Route 16             | 29     | 25%                 |
+  | Route 22             | 8      | 5%                  |
+  | Route 24             | 20     | 5%                  |
+  | Route 25             | 20     | 5%                  |
+
+  Liste des attaques :
 
   | Niveau | Attaque      | Remarque  |
   |--------|--------------|-----------|
@@ -2020,6 +2852,17 @@ Zones de capture :
 
   ### Dodrio
 
+Zones de capture :
+
+  | Zone de capture        | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | Route 13               | 47     | 5%                  |
+  | Route 17               | 49     | 5%                  |
+  | Route 18               | 53     | 10%                 |
+  | Grotte Inconnue N+1    | 80     | 15%                 |
+
+  Liste des attaques :
+
   | Niveau | Attaque      | Remarque  |
   |--------|--------------|-----------|
   | 1      | Picpic       | Inchangée |
@@ -2039,6 +2882,19 @@ Zones de capture :
 
   ### Otaria
 
+Zones de capture :
+
+  | Zone de capture      | Niveau | Chance d'apparition |
+  |----------------------|--------|---------------------|
+  | Route 10             | 22     | 4%                  |
+  | Route 12             | 47     | 5%                  |
+  | Chenal 19            | 20     | 15%                 |
+  | Chenal 20            | 20     | 15%                 |
+  | Chenal 21            | 20     | 15%                 |
+  | Parc Safari Est      | 30     | 10%                 |
+
+  Liste des attaques :
+
   | Niveau | Attaque       | Remarque  |
   |--------|---------------|-----------|
   | 1      | Coud'Boule    | Inchangée |
@@ -2057,6 +2913,18 @@ Zones de capture :
 
   ### Lamantine
 
+Zones de capture :
+
+  | Zone de capture        | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | Îles Écume RDC         | 54     | 5%                  |
+  | Îles Écume N-1         | 54     | 5%                  |
+  | Îles Écume N-2         | 54     | 5%                  |
+  | Îles Écume N-3         | 54     | 5%                  |
+  | Îles Écume N-4         | 54     | 15%                 |
+
+  Liste des attaques :
+
   | Niveau | Attaque       | Remarque  |
   |--------|---------------|-----------|
   | 1      | Coud'Boule    | Inchangée |
@@ -2074,6 +2942,17 @@ Zones de capture :
   <summary><strong>089 - Tadmorv</strong></summary>
 
   ### Tadmorv
+
+Zones de capture :
+
+  | Zone de capture      | Niveau | Chance d'apparition |
+  |----------------------|--------|---------------------|
+  | Route 8              | 31     | 4%                  |
+  | Route 16             | 37     | 10%                 |
+  | Route 17             | 36     | 15%                 |
+  | Parc Safari Sud      | 30     | 25%                 |
+
+  Liste des attaques :
 
   | Niveau | Attaque      | Remarque  |
   |--------|--------------|-----------|
@@ -2095,6 +2974,20 @@ Zones de capture :
 
   ### Grotadmorv
 
+Zones de capture :
+
+  | Zone de capture        | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | Route 17               | 48     | 5%                  |
+  | Manoir N-1             | 60     | 25%                 |
+  | Manoir N-1             | 61     | 5%                  |
+  | Manoir RDC             | 59     | 15%                 |
+  | Manoir N+1             | 60     | 25%                 |
+  | Manoir N+2             | 59     | 15%                 |
+  | Grotte Inconnue N+1    | 79     | 15%                 |
+
+  Liste des attaques :
+
   | Niveau | Attaque      | Remarque  |
   |--------|--------------|-----------|
   | 1      | Écras'Face   | Inchangée |
@@ -2115,6 +3008,19 @@ Zones de capture :
 
   ### Kokiyas
 
+Zones de capture :
+
+  | Zone de capture      | Niveau | Chance d'apparition |
+  |----------------------|--------|---------------------|
+  | Route 9              | 21     | 25%                 |
+  | Route 12             | 45     | 5%                  |
+  | Chenal 19            | 20     | 10%                 |
+  | Chenal 20            | 20     | 10%                 |
+  | Chenal 21            | 20     | 10%                 |
+  | Parc Safari Nord     | 30     | 10%                 |
+
+  Liste des attaques :
+
   | Niveau | Attaque        | Remarque  |
   |--------|----------------|-----------|
   | 1      | Charge         | Inchangée |
@@ -2133,6 +3039,15 @@ Zones de capture :
   <summary><strong>091 - Crustabri</strong></summary>
 
   ### Crustabri
+
+Zones de capture :
+
+  | Zone de capture       | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | Îles Écume RDC         | 55     | 15%                 |
+  | Îles Écume N-1         | 55     | 15%                 |
+
+  Liste des attaques :
 
   | Niveau | Attaque        | Remarque  |
   |--------|----------------|-----------|
@@ -2153,6 +3068,28 @@ Zones de capture :
 
   ### Fantominus
 
+Zones de capture :
+
+  | Zone de capture        | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | Tour Pokémon N+2       | 34     | 25%                 |
+  | Tour Pokémon N+2       | 36     | 10%                 |
+  | Tour Pokémon N+2       | 39     | 5%                  |
+  | Tour Pokémon N+3       | 35     | 25%                 |
+  | Tour Pokémon N+3       | 37     | 10%                 |
+  | Tour Pokémon N+3       | 40     | 5%                  |
+  | Tour Pokémon N+4       | 36     | 25%                 |
+  | Tour Pokémon N+4       | 38     | 10%                 |
+  | Tour Pokémon N+4       | 41     | 5%                  |
+  | Tour Pokémon N+5       | 37     | 25%                 |
+  | Tour Pokémon N+5       | 39     | 10%                 |
+  | Tour Pokémon N+5       | 42     | 5%                  |
+  | Tour Pokémon N+6       | 37     | 25%                 |
+  | Tour Pokémon N+6       | 39     | 10%                 |
+  | Tour Pokémon N+6       | 42     | 5%                  |
+
+  Liste des attaques :
+
   | Niveau | Attaque        | Remarque  |
   |--------|----------------|-----------|
   | 1      | Léchouille     | Inchangée |
@@ -2169,6 +3106,32 @@ Zones de capture :
   <summary><strong>093 - Spectrum</strong></summary>
 
   ### Spectrum
+
+Zones de capture :
+
+  | Zone de capture       | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | Tour Pokémon N+2       | 37     | 15%                 |
+  | Tour Pokémon N+2       | 38     | 10%                 |
+  | Tour Pokémon N+2       | 40     | 5%                  |
+  | Tour Pokémon N+2       | 42     | 1%                  |
+  | Tour Pokémon N+3       | 38     | 15%                 |
+  | Tour Pokémon N+3       | 39     | 10%                 |
+  | Tour Pokémon N+3       | 41     | 5%                  |
+  | Tour Pokémon N+3       | 43     | 1%                  |
+  | Tour Pokémon N+4       | 39     | 15%                 |
+  | Tour Pokémon N+4       | 40     | 10%                 |
+  | Tour Pokémon N+4       | 42     | 5%                  |
+  | Tour Pokémon N+4       | 44     | 1%                  |
+  | Tour Pokémon N+5       | 40     | 15%                 |
+  | Tour Pokémon N+5       | 41     | 10%                 |
+  | Tour Pokémon N+5       | 43     | 5%                  |
+  | Tour Pokémon N+5       | 45     | 1%                  |
+  | Tour Pokémon N+6       | 40     | 15%                 |
+  | Tour Pokémon N+6       | 41     | 10%                 |
+  | Tour Pokémon N+6       | 43     | 5%                  |
+
+  Liste des attaques :
 
   | Niveau | Attaque        | Remarque  |
   |--------|----------------|-----------|
@@ -2187,6 +3150,16 @@ Zones de capture :
 
   ### Ectoplasma
 
+Zones de capture :
+
+  | Zone de capture        | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | Tour Pokémon N+6       | 50     | 1%                  |
+  | Grotte Inconnue N-1    | 86     | 4%                  |
+  | Île Inconnue           | 89     | 5%                  |
+
+  Liste des attaques :
+
   | Niveau | Attaque        | Remarque  |
   |--------|----------------|-----------|
   | 1      | Léchouille     | Inchangée |
@@ -2203,6 +3176,23 @@ Zones de capture :
   <summary><strong>095 - Onix</strong></summary>
 
   ### Onix
+
+Zones de capture :
+
+  | Zone de capture        | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | Mont Sélénite RDC      | 17     | 4%                  |
+  | Mont Sélénite N-1      | 18     | 4%                  |
+  | Mont Sélénite N-2      | 20     | 4%                  |
+  | Grotte Sombre RDC      | 25     | 10%                 |
+  | Grotte Sombre N+1      | 25     | 10%                 |
+  | Route Victoire RDC     | 78     | 15%                 |
+  | Route Victoire N+1     | 78     | 15%                 |
+  | Route Victoire N+2     | 80     | 25%                 |
+  | Route 23               | 80     | 5%                  |
+  | Parc Safari Sud        | 30     | 5%                  |
+
+  Liste des attaques :
 
   | Niveau | Attaque       | Remarque  |
   |--------|---------------|-----------|
@@ -2222,6 +3212,18 @@ Zones de capture :
   <summary><strong>096 - Soporifik</strong></summary>
 
   ### Soporifik
+
+Zones de capture :
+
+  | Zone de capture      | Niveau | Chance d'apparition |
+  |----------------------|--------|---------------------|
+  | Route 6              | 21     | 4%                  |
+  | Route 11             | 22     | 25%                 |
+  | Route 11             | 23     | 10%                 |
+  | Route 11             | 24     | 10%                 |
+  | Parc Safari Sud      | 30     | 15%                 |
+
+  Liste des attaques :
 
   | Niveau | Attaque       | Remarque  |
   |--------|---------------|-----------|
@@ -2244,6 +3246,16 @@ Zones de capture :
 
   ### Hypnomade
 
+Zones de capture :
+
+  | Zone de capture       | Niveau | Chance d'apparition |
+  |-----------------------|--------|---------------------|
+  | Route 11              | 26     | 4%                  |
+  | Grotte Inconnue RDC   | 79     | 15%                 |
+  | Île Inconnue          | 88     | 10%                 |
+
+  Liste des attaques :
+
   | Niveau | Attaque       | Remarque  |
   |--------|---------------|-----------|
   | -      | Écras'Face    | Inchangée |
@@ -2265,6 +3277,19 @@ Zones de capture :
 
   ### Krabby
 
+Zones de capture :
+
+  | Zone de capture      | Niveau | Chance d'apparition |
+  |----------------------|--------|---------------------|
+  | Route 4              | 17     | 4%                  |
+  | Route 10             | 23     | 25%                 |
+  | Chenal 19            | 15     | 5%                  |
+  | Chenal 20            | 15     | 5%                  |
+  | Chenal 21            | 15     | 5%                  |
+  | Parc Safari Ouest    | 30     | 10%                 |
+
+  Liste des attaques :
+
   | Niveau | Attaque        | Remarque  |
   |--------|----------------|-----------|
   | 1      | Écume          | Inchangée |
@@ -2284,6 +3309,15 @@ Zones de capture :
 
   ### Krabboss
 
+Zones de capture :
+
+  | Zone de capture       | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | Îles Écume RDC         | 54     | 25%                 |
+  | Îles Écume N-1         | 54     | 25%                 |
+
+  Liste des attaques :
+
   | Niveau | Attaque        | Remarque  |
   |--------|----------------|-----------|
   | 1      | Écume          | Inchangée |
@@ -2299,9 +3333,19 @@ Zones de capture :
 
 </details>
 <details>
-  <summary><strong>101 - Électrode</strong></summary>
+  <summary><strong>101 - Voltorbe</strong></summary>
 
-  ### Électrode
+  ### Voltorbe
+
+Zones de capture :
+
+  | Zone de capture      | Niveau | Chance d'apparition |
+  |----------------------|--------|---------------------|
+  | Route 10             | 24     | 5%                  |
+  | Route 11             | 17     | 1%                  |
+  | Parc Safari Est      | 30     | 10%                 |
+
+  Liste des attaques :
 
   | Niveau | Attaque        | Remarque  |
   |--------|----------------|-----------|
@@ -2322,6 +3366,16 @@ Zones de capture :
 
   ### Électrode
 
+Zones de capture :
+
+  | Zone de capture       | Niveau | Chance d'apparition |
+  |-----------------------|--------|---------------------|
+  | Centrale électrique   | 83     | 10%                 |
+  | Centrale électrique   | 86     | 10%                 |
+  | Centrale électrique   | 89     | 25%                 |
+
+  Liste des attaques :
+
   | Niveau | Attaque        | Remarque  |
   |--------|----------------|-----------|
   | 1      | Charge         | Inchangée |
@@ -2340,6 +3394,16 @@ Zones de capture :
   <summary><strong>102 - Noeunoeuf</strong></summary>
 
   ### Noeunoeuf
+
+Zones de capture :
+
+  | Zone de capture      | Niveau | Chance d'apparition |
+  |----------------------|--------|---------------------|
+  | Route 1              | 5      | 1%                  |
+  | Route 11             | 22     | 10%                 |
+  | Parc Safari Ouest    | 30     | 5%                  |
+
+  Liste des attaques :
 
   | Niveau | Attaque         | Remarque  |
   |--------|-----------------|-----------|
@@ -2360,6 +3424,16 @@ Zones de capture :
   <summary><strong>103 - Noadkoko</strong></summary>
 
   ### Noadkoko
+
+Zones de capture :
+
+  | Zone de capture        | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | Route 21               | 67     | 4%                  |
+  | Route 23               | 80     | 5%                  |
+  | Grotte Inconnue N-1    | 79     | 15%                 |
+
+  Liste des attaques :
 
   | Niveau | Attaque         | Remarque  |
   |--------|-----------------|-----------|
@@ -2385,6 +3459,28 @@ Zones de capture :
 
   ### Osselait
 
+Zones de capture :
+
+  | Zone de capture        | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | Tour Pokémon N+2       | 35     | 15%                 |
+  | Tour Pokémon N+2       | 38     | 10%                 |
+  | Tour Pokémon N+2       | 40     | 4%                  |
+  | Tour Pokémon N+3       | 36     | 15%                 |
+  | Tour Pokémon N+3       | 39     | 10%                 |
+  | Tour Pokémon N+3       | 41     | 4%                  |
+  | Tour Pokémon N+4       | 37     | 15%                 |
+  | Tour Pokémon N+4       | 40     | 10%                 |
+  | Tour Pokémon N+4       | 42     | 4%                  |
+  | Tour Pokémon N+5       | 38     | 15%                 |
+  | Tour Pokémon N+5       | 41     | 10%                 |
+  | Tour Pokémon N+5       | 43     | 4%                  |
+  | Tour Pokémon N+6       | 38     | 15%                 |
+  | Tour Pokémon N+6       | 41     | 10%                 |
+  | Tour Pokémon N+6       | 43     | 4%                  |
+
+  Liste des attaques :
+
   | Niveau | Attaque       | Remarque  |
   |--------|---------------|-----------|
   | 1      | Rugissement   | Inchangée |
@@ -2405,6 +3501,15 @@ Zones de capture :
   <summary><strong>105 - Ossatueur</strong></summary>
 
   ### Ossatueur
+
+Zones de capture :
+
+  | Zone de capture       | Niveau | Chance d'apparition |
+  |-----------------------|--------|---------------------|
+  | Route 18              | 55     | 1%                  |
+  | Route Victoire N+2    | 84     | 4%                  |
+
+  Liste des attaques :
 
   | Niveau | Attaque       | Remarque  |
   |--------|---------------|-----------|
@@ -2427,6 +3532,15 @@ Zones de capture :
 
   ### Kicklee
 
+Zones de capture :
+
+  | Zone de capture       | Niveau | Chance d'apparition |
+  |-----------------------|--------|---------------------|
+  | Route Victoire RDC    | 82     | 4%                  |
+  | Parc Safari Est       | 30     | 4%                  |
+
+  Liste des attaques :
+
   | Niveau | Attaque        | Remarque  |
   |--------|----------------|-----------|
   | 1      | Double Pied    | Inchangée |
@@ -2445,6 +3559,15 @@ Zones de capture :
   <summary><strong>107 - Tygnon</strong></summary>
 
   ### Tygnon
+
+Zones de capture :
+
+  | Zone de capture       | Niveau | Chance d'apparition |
+  |-----------------------|--------|---------------------|
+  | Route Victoire N+1    | 82     | 4%                  |
+  | Parc Safari Nord      | 30     | 4%                  |
+
+  Liste des attaques :
 
   | Niveau | Attaque        | Remarque  |
   |--------|----------------|-----------|
@@ -2465,6 +3588,15 @@ Zones de capture :
 
   ### Excelangue
 
+Zones de capture :
+
+  | Zone de capture      | Niveau | Chance d'apparition |
+  |----------------------|--------|---------------------|
+  | Route 16             | 35     | 1%                  |
+  | Parc Safari Sud      | 30     | 5%                  |
+
+  Liste des attaques :
+
   | Niveau | Attaque        | Remarque  |
   |--------|----------------|-----------|
   | 1      | Ligotage       | Inchangée |
@@ -2483,6 +3615,17 @@ Zones de capture :
   <summary><strong>109 - Smogo</strong></summary>
 
   ### Smogo
+
+Zones de capture :
+
+  | Zone de capture      | Niveau | Chance d'apparition |
+  |----------------------|--------|---------------------|
+  | Route 7              | 31     | 4%                  |
+  | Route 16             | 36     | 5%                  |
+  | Route 17             | 34     | 25%                 |
+  | Parc Safari Est      | 30     | 25%                 |
+
+  Liste des attaques :
 
   | Niveau | Attaque        | Remarque  |
   |--------|----------------|-----------|
@@ -2503,6 +3646,18 @@ Zones de capture :
 
   ### Smogogo
 
+Zones de capture :
+
+  | Zone de capture      | Niveau | Chance d'apparition |
+  |----------------------|--------|---------------------|
+  | Route 17             | 50     | 5%                  |
+  | Manoir N-1           | 59     | 15%                 |
+  | Manoir RDC           | 60     | 25%                 |
+  | Manoir N+1           | 59     | 15%                 |
+  | Manoir N+2           | 60     | 25%                 |
+
+  Liste des attaques :
+
   | Niveau | Attaque        | Remarque  |
   |--------|----------------|-----------|
   | 1      | Charge         | Inchangée |
@@ -2521,6 +3676,16 @@ Zones de capture :
   <summary><strong>111 - Rhinocorne</strong></summary>
 
   ### Rhinocorne
+
+Zones de capture :
+
+  | Zone de capture      | Niveau | Chance d'apparition |
+  |----------------------|--------|---------------------|
+  | Grotte Sombre RDC    | 24     | 1%                  |
+  | Grotte Sombre N+1    | 24     | 1%                  |
+  | Parc Safari Est      | 30     | 15%                 |
+
+  Liste des attaques :
 
   | Niveau | Attaque        | Remarque  |
   |--------|----------------|-----------|
@@ -2541,6 +3706,18 @@ Zones de capture :
 
   ### Rhinoféros
 
+Zones de capture :
+
+  | Zone de capture       | Niveau | Chance d'apparition |
+  |-----------------------|--------|---------------------|
+  | Route Victoire RDC    | 80     | 10%                 |
+  | Route Victoire N+1    | 80     | 10%                 |
+  | Route Victoire N+2    | 80     | 10%                 |
+  | Grotte Inconnue RDC  | 80     | 15%                 |
+  | Île Inconnue         | 89     | 4%                  |
+
+  Liste des attaques :
+
   | Niveau | Attaque         | Remarque |
   |--------|-----------------|----------|
   | 1      | Koud'Korne      | Inchangée|
@@ -2558,6 +3735,14 @@ Zones de capture :
   <summary><strong>113 - Leveinard</strong></summary>
 
   ### Leveinard
+
+Zones de capture :
+
+  | Zone de capture      | Niveau | Chance d'apparition |
+  |----------------------|--------|---------------------|
+  | Parc Safari Nord     | 30     | 1%                  |
+
+  Liste des attaques :
 
   | Niveau | Attaque         | Remarque  |
   |--------|-----------------|-----------|
@@ -2582,6 +3767,16 @@ Zones de capture :
 
   ### Saquedeneu
   
+Zones de capture :
+
+  | Zone de capture      | Niveau | Chance d'apparition |
+  |----------------------|--------|---------------------|
+  | Route 16             | 38     | 4%                  |
+  | Route 22             | 6      | 1%                  |
+  | Parc Safari Sud      | 30     | 15%                 |
+
+  Liste des attaques :
+
   | Niveau | Attaque       | Remarque  |
   |--------|---------------|-----------|
   | 1      | Constriction  | Inchangée |
@@ -2603,6 +3798,16 @@ Zones de capture :
 
   ### Kangourex
 
+Zones de capture :
+
+  | Zone de capture        | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | Route 18               | 56     | 4%                  |
+  | Grotte Inconnue RDC    | 87     | 1%                  |
+  | Parc Safari Ouest      | 30     | 4%                  |
+
+  Liste des attaques :
+
   | Niveau | Attaque       | Remarque  |
   |--------|---------------|-----------|
   | 1      | Frénésie      | Inchangée |
@@ -2622,6 +3827,18 @@ Zones de capture :
 
   ### Hypotrempe
 
+Zones de capture :
+
+  | Zone de capture       | Niveau | Chance d'apparition |
+  |-----------------------|--------|---------------------|
+  | Route 9               | 22     | 15%                 |
+  | Chenal 19             | 20     | 10%                 |
+  | Chenal 20             | 20     | 10%                 |
+  | Chenal 21             | 20     | 10%                 |
+  | Parc Safari Est       | 30     | 10%                 |
+
+  Liste des attaques :
+
   | Niveau | Attaque         | Remarque  |
   |--------|-----------------|-----------|
   | 1      | Écume           | Inchangée |
@@ -2640,6 +3857,18 @@ Zones de capture :
 
   ### Hypocéan
 
+Zones de capture :
+
+  | Zone de capture        | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | Îles Écume RDC         | 56     | 5%                  |
+  | Îles Écume N-1         | 56     | 5%                  |
+  | Îles Écume N-2         | 56     | 5%                  |
+  | Îles Écume N-3         | 56     | 5%                  |
+  | Îles Écume N-4         | 56     | 5%                  |
+
+  Liste des attaques :
+
   | Niveau | Attaque         | Remarque  |
   |--------|-----------------|-----------|
   | 1      | Écume           | Inchangée |
@@ -2657,6 +3886,18 @@ Zones de capture :
   <summary><strong>118 - Poissirène</strong></summary>
 
   ### Poissirène
+
+Zones de capture :
+
+  | Zone de capture        | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | Route 10               | 22     | 1%                  |
+  | Chenal 19              | 20     | 25%                 |
+  | Chenal 20              | 20     | 25%                 |
+  | Chenal 21              | 20     | 25%                 |
+  | Parc Safari Ouest      | 30     | 10%                 |
+
+  Liste des attaques :
 
   | Niveau | Attaque         | Remarque  |
   |--------|-----------------|-----------|
@@ -2678,6 +3919,16 @@ Zones de capture :
 
   ### Poissoroy
 
+Zones de capture :
+
+  | Zone de capture        | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | Îles Écume N-2         | 55     | 15%                 |
+  | Îles Écume N-3         | 55     | 15%                 |
+  | Îles Écume N-4         | 55     | 15%                 |
+
+  Liste des attaques :
+
   | Niveau | Attaque         | Remarque  |
   |--------|-----------------|-----------|
   | -      | Mimi-Queue      | Inchangée |
@@ -2697,6 +3948,18 @@ Zones de capture :
   <summary><strong>120 - Stari</strong></summary>
 
   ### Stari
+
+Zones de capture :
+
+  | Zone de capture       | Niveau | Chance d'apparition |
+  |-----------------------|--------|---------------------|
+  | Route 9               | 24     | 1%                  |
+  | Chenal 19             | 15     | 5%                  |
+  | Chenal 20             | 15     | 5%                  |
+  | Chenal 21             | 15     | 5%                  |
+  | Parc Safari Est       | 30     | 10%                 |
+
+  Liste des attaques :
 
   | Niveau | Attaque        | Remarque  |
   |--------|----------------|-----------|
@@ -2718,6 +3981,16 @@ Zones de capture :
 
   ### Staross
 
+Zones de capture :
+
+  | Zone de capture        | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | Îles Écume N-2         | 55     | 25%                 |
+  | Îles Écume N-3         | 55     | 25%                 |
+  | Îles Écume N-4         | 55     | 25%                 |
+
+  Liste des attaques :
+
   | Niveau | Attaque       | Remarque  |
   |--------|---------------|-----------|
   | 1      | Charge        | Inchangée |
@@ -2738,6 +4011,15 @@ Zones de capture :
 
   ### M. Mime
 
+Zones de capture :
+
+  | Zone de capture        | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | Route 17               | 41     | 1%                  |
+  | Parc Safari Sud        | 30     | 4%                  |
+
+  Liste des attaques :
+
   | Niveau | Attaque      | Remarque  |
   |--------|--------------|-----------|
   | 1      | Bouclier     | Inchangée |
@@ -2755,6 +4037,16 @@ Zones de capture :
   <summary><strong>123 - Insécateur</strong></summary>
 
   ### Insécateur
+
+Zones de capture :
+
+  | Zone de capture         | Niveau | Chance d'apparition |
+  |-------------------------|--------|---------------------|
+  | Route 21                | 62     | 15%                 |
+  | Grotte Inconnue N+1     | 81     | 10%                 |
+  | Parc Safari Est         | 30     | 5%                  |
+
+  Liste des attaques :
 
   | Niveau | Attaque     | Remarque  |
   |--------|-------------|-----------|
@@ -2776,6 +4068,14 @@ Zones de capture :
 
   ### Lippoutou
 
+Zones de capture :
+
+  | Zone de capture        | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | Îles Écume N-3         | 50     | 1%                  |
+
+  Liste des attaques :
+
   | Niveau | Attaque     | Remarque  |
   |--------|-------------|-----------|
   | 1      | Écras'Face  | Inchangée |
@@ -2796,6 +4096,14 @@ Zones de capture :
 
   ### Élektek
 
+Zones de capture :
+
+  | Zone de capture        | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | centrale électrique    | 83     | 1%                  |
+
+  Liste des attaques :
+
   | Niveau | Attaque      | Remarque  |
   |--------|--------------|-----------|
   | 1      | Groz'Yeux    | Inchangée |
@@ -2815,6 +4123,26 @@ Zones de capture :
 
   ### Magmar
 
+Zones de capture :
+
+  | Zone de capture        | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | Manoir N-1             | 60     | 4%                  |
+  | Manoir N-1             | 64     | 15%                 |
+  | Manoir N-1             | 62     | 5%                  |
+  | Manoir RDC             | 60     | 4%                  |
+  | Manoir RDC             | 61     | 15%                 |
+  | Manoir RDC             | 65     | 5%                  |
+  | Manoir N+1             | 60     | 4%                  |
+  | Manoir N+1             | 62     | 15%                 |
+  | Manoir N+1             | 66     | 5%                  |
+  | Manoir N+2             | 60     | 4%                  |
+  | Manoir N+2             | 63     | 15%                 |
+  | Manoir N+2             | 62     | 5%                  |
+  | Grotte Inconnue RDC    | 84     | 5%                  |
+
+  Liste des attaques :
+
   | Niveau | Attaque       | Remarque  |
   |--------|---------------|-----------|
   | 1      | Flammèche     | Inchangée |
@@ -2833,6 +4161,16 @@ Zones de capture :
   <summary><strong>127 - Scarabrute</strong></summary>
 
   ### Scarabrute
+
+Zones de capture :
+
+  | Zone de capture         | Niveau | Chance d'apparition |
+  |-------------------------|--------|---------------------|
+  | Route 21                | 62     | 15%                 |
+  | Grotte Inconnue N-1     | 81     | 10%                 |
+  | Parc Safari Nord        | 30     | 5%                  |
+
+  Liste des attaques :
 
   | Niveau | Attaque      | Remarque  |
   |--------|--------------|-----------|
@@ -2854,6 +4192,14 @@ Zones de capture :
 
   ### Tauros
 
+Zones de capture :
+
+  | Zone de capture        | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | Parc Safari Est        | 30     | 1%                  |
+
+  Liste des attaques :
+
   | Niveau | Attaque      | Remarque      |
   |--------|--------------|---------------|
   | 1      | Charge       | Inchangée     |
@@ -2874,6 +4220,18 @@ Zones de capture :
 
   ### Magicarpe
 
+Zones de capture :
+
+  | Zone de capture       | Niveau | Chance d'apparition |
+  |-----------------------|--------|---------------------|
+  | Route 9               | 24     | 4%                  |
+  | Chenal 19             | 15     | 10%                 |
+  | Chenal 20             | 15     | 10%                 |
+  | Chenal 21             | 15     | 10%                 |
+  | Parc Safari Nord      | 30     | 10%                 |
+
+  Liste des attaques :
+
   | Niveau | Attaque | Remarque  |
   |--------|---------|-----------|
   | 1      | Trempette | Inchangée |
@@ -2884,6 +4242,19 @@ Zones de capture :
   <summary><strong>130 - Léviator</strong></summary>
 
   ### Léviator
+
+Zones de capture :
+
+  | Zone de capture        | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | Îles Écume RDC         | 55     | 10%                 |
+  | Îles Écume N-1         | 55     | 10%                 |
+  | Îles Écume N-2         | 55     | 10%                 |
+  | Îles Écume N-3         | 55     | 10%                 |
+  | Îles Écume N-4         | 55     | 10%                 |
+  | Grotte Inconnue N+1    | 82     | 10%                 |
+
+  Liste des attaques :
 
   | Niveau | Attaque      | Remarque  |
   |--------|--------------|-----------|
@@ -2902,6 +4273,14 @@ Zones de capture :
   <summary><strong>131 - Lokhlass</strong></summary>
 
   ### Lokhlass
+
+Zones de capture :
+
+  | Zone de capture        | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | Îles Écume N-4         | 50     | 1%                  |
+
+  Liste des attaques :
 
   | Niveau | Attaque      | Remarque  |
   |--------|--------------|-----------|
@@ -2923,6 +4302,24 @@ Zones de capture :
 
   ### Métamorph
 
+Zones de capture :
+
+  | Zone de capture        | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | Route 12               | 48     | 4%                  |
+  | Route 13               | 49     | 4%                  |
+  | Route 14               | 42     | 25%                 |
+  | Route 14               | 47     | 5%                  |
+  | Route 15               | 45     | 25%                 |
+  | Route 15               | 49     | 5%                  |
+  | Route 23               | 82     | 1%                  |
+  | Grotte Inconnue RDC    | 82     | 10%                 |
+  | Grotte Inconnue N+1    | 83     | 10%                 |
+  | Île Inconnue           | 90     | 1%                  |
+  | Parc Safari Ouest      | 30     | 25%                 |
+
+  Liste des attaques :
+
   | Niveau | Attaque  | Remarque  |
   |--------|----------|-----------|
   | 1      | Morphing | Inchangée |
@@ -2932,6 +4329,14 @@ Zones de capture :
   <summary><strong>133 - Évoli</strong></summary>
 
   ### Évoli
+
+Zones de capture :
+
+  | Zone de capture        | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | Parc Safari Ouest      | 30     | 1%                  |
+
+  Liste des attaques :
 
   | Niveau | Attaque      | Remarque |
   |--------|--------------|----------|
@@ -2950,6 +4355,14 @@ Zones de capture :
   <summary><strong>134 - Aquali</strong></summary>
 
   ### Aquali
+
+Zones de capture :
+
+  | Zone de capture | Niveau | Chance d'apparition |
+  |-----------------|--------|---------------------|
+  | Non capturable  | —      | Vous devrez faire évoluer un Évoli pour l'obtenir. |
+
+  Liste des attaques :
 
   | Niveau | Attaque       | Remarque |
   |--------|---------------|----------|
@@ -2970,6 +4383,14 @@ Zones de capture :
 
   ### Voltali
 
+Zones de capture :
+
+  | Zone de capture | Niveau | Chance d'apparition |
+  |-----------------|--------|---------------------|
+  | Non capturable  | —      | Vous devrez faire évoluer un Évoli pour l'obtenir. |
+
+  Liste des attaques :
+
   | Niveau | Attaque       | Remarque |
   |--------|---------------|----------|
   | 1      | Charge        | Refonte  |
@@ -2988,6 +4409,14 @@ Zones de capture :
   <summary><strong>136 - Pyroli</strong></summary>
 
   ### Pyroli
+
+Zones de capture :
+
+  | Zone de capture | Niveau | Chance d'apparition |
+  |-----------------|--------|---------------------|
+  | Non capturable  | —      | Vous devrez faire évoluer un Évoli pour l'obtenir. |
+
+  Liste des attaques :
 
   | Niveau | Attaque       | Remarque |
   |--------|---------------|----------|
@@ -3008,6 +4437,16 @@ Zones de capture :
 
   ### Porygon
 
+Zones de capture :
+
+  | Zone de capture         | Niveau | Chance d'apparition |
+  |-------------------------|--------|---------------------|
+  | Route 21                | 65     | 1%                  |
+  | Grotte Inconnue N-1     | 87     | 1%                  |
+  | Parc Safari Sud         | 30     | 1%                  |
+
+  Liste des attaques :
+
   | Niveau | Attaque    | Remarque |
   |--------|------------|----------|
   | 1      | Adaptation | Inchangée|
@@ -3027,6 +4466,14 @@ Zones de capture :
 
   ### Amonita
 
+Zones de capture :
+
+  | Zone de capture         | Niveau | Chance d'apparition |
+  |-------------------------|--------|---------------------|
+  | Mont Sélénite N-1       | 10     | 1%                  |
+
+  Liste des attaques :
+
   | Niveau | Attaque       | Remarque |
   |--------|---------------|----------|
   | 1      | Pistolet à O  | Inchangée|
@@ -3044,6 +4491,14 @@ Zones de capture :
   <summary><strong>139 - Amonistar</strong></summary>
 
   ### Amonistar
+
+Zones de capture :
+
+  | Zone de capture | Niveau | Chance d'apparition |
+  |-----------------|--------|---------------------|
+  | Non capturable  | —      | Vous devrez faire évoluer un Amonita pour l'obtenir. |
+
+  Liste des attaques :
 
   | Niveau | Attaque       | Remarque |
   |--------|---------------|----------|
@@ -3063,6 +4518,14 @@ Zones de capture :
 
   ### Kabuto
 
+Zones de capture :
+
+  | Zone de capture         | Niveau | Chance d'apparition |
+  |-------------------------|--------|---------------------|
+  | Mont Sélénite RDC       | 10     | 1%                  |
+
+  Liste des attaques :
+
   | Niveau | Attaque        | Remarque |
   |--------|----------------|----------|
   | 1      | Armure         | Inchangée|
@@ -3081,6 +4544,14 @@ Zones de capture :
 
   ### Kabutops
 
+Zones de capture :
+
+  | Zone de capture | Niveau | Chance d'apparition |
+  |-----------------|--------|---------------------|
+  | Non capturable  | —      | Vous devrez faire évoluer un Kabuto pour l'obtenir. |
+
+  Liste des attaques :
+
   | Niveau | Attaque       | Remarque |
   |--------|---------------|----------|
   | 1      | Armure        | Inchangée|
@@ -3098,6 +4569,14 @@ Zones de capture :
   <summary><strong>142 - Ptéra</strong></summary>
 
   ### Ptéra
+
+Zones de capture :
+
+  | Zone de capture         | Niveau | Chance d'apparition |
+  |-------------------------|--------|---------------------|
+  | Mont Sélénite N-2       | 10     | 1%                  |
+
+  Liste des attaques :
 
   | Niveau | Attaque      | Remarque |
   |--------|--------------|----------|
@@ -3118,6 +4597,18 @@ Zones de capture :
 
   ### Ronflex
 
+Zones de capture :
+
+  | Zone de capture        | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | Route 18               | 56     | 5%                  |
+  | Route 21               | 63     | 10%                 |
+  | Route 23               | 65     | 1%                  |
+  | Grotte Inconnue RDC    | 82     | 4%                  |
+  | Parc Safari Ouest      | 30     | 5%                  |
+
+  Liste des attaques :
+
   | Niveau | Attaque       | Remarque   |
   |--------|---------------|------------|
   | 1      | Amnésie       | Inchangée  |
@@ -3137,6 +4628,17 @@ Zones de capture :
 
   ### Artikodin
 
+Zones de capture :
+
+*Capturable une seule fois, c’est un Pokémon légendaire unique.*
+*Si vous ratez sa capture, c’est terminé : vous ne pourrez plus compléter le Pokédex.*
+
+  | Zone de capture        | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | Îles Écume N-4         | 75     | Unique              |
+
+  Liste des attaques :
+
   | Niveau | Attaque         | Remarque |
   |--------|------------------|----------|
   | 1      | Mimique          | Refonte  |
@@ -3154,6 +4656,17 @@ Zones de capture :
   <summary><strong>145 - Électhor</strong></summary>
 
   ### Électhor
+
+Zones de capture :
+
+*Capturable une seule fois, c’est un Pokémon légendaire unique.*
+*Si vous ratez sa capture, c’est terminé : vous ne pourrez plus compléter le Pokédex.*
+
+  | Zone de capture        | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | centrale électrique    | 75     | Unique              |
+
+  Liste des attaques :
 
   | Niveau | Attaque         | Remarque |
   |--------|------------------|----------|
@@ -3173,6 +4686,17 @@ Zones de capture :
 
   ### Sulfura
 
+Zones de capture :
+
+*Capturable une seule fois, c’est un Pokémon légendaire unique.*
+*Si vous ratez sa capture, c’est terminé : vous ne pourrez plus compléter le Pokédex.*
+
+  | Zone de capture        | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | Route Victoire N+1     | 75     | Unique              |
+
+  Liste des attaques :
+
   | Niveau | Attaque          | Remarque |
   |--------|-------------------|----------|
   | 1      | Mimique           | Refonte  |
@@ -3191,6 +4715,14 @@ Zones de capture :
 
   ### Minidraco
 
+Zones de capture :
+
+  | Zone de capture        | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | Route Victoire N+2     | 10     | 1%                  |
+
+  Liste des attaques :
+
   | Niveau | Attaque         | Remarque   |
   |--------|------------------|------------|
   | 1      | Groz'Yeux        | Inchangée  |
@@ -3208,6 +4740,14 @@ Zones de capture :
   <summary><strong>148 - Draco</strong></summary>
 
   ### Draco
+
+Zones de capture :
+
+  | Zone de capture | Niveau | Chance d'apparition |
+  |-----------------|--------|---------------------|
+  | Non capturable  | —      | Vous devrez faire évoluer un Minidraco pour l'obtenir. |
+
+  Liste des attaques :
 
   | Niveau | Attaque         | Remarque   |
   |--------|------------------|------------|
@@ -3228,6 +4768,14 @@ Zones de capture :
 
   ### Dracolosse
 
+Zones de capture :
+
+  | Zone de capture | Niveau | Chance d'apparition |
+  |-----------------|--------|---------------------|
+  | Non capturable  | —      | Vous devrez faire évoluer un Draco pour l'obtenir. |
+
+  Liste des attaques :
+
   | Niveau | Attaque         | Remarque   |
   |--------|------------------|------------|
   | -      | Groz'Yeux        | Inchangée  |
@@ -3247,6 +4795,17 @@ Zones de capture :
 
   ### Mewtwo
 
+Zones de capture :
+
+*Capturable une seule fois, c’est un Pokémon légendaire unique.*
+*Si vous ratez sa capture, c’est terminé : vous ne pourrez plus compléter le Pokédex.*
+
+  | Zone de capture         | Niveau | Chance d'apparition |
+  |-------------------------|--------|---------------------|
+  | Grotte Inconnue N-1     | 90     | Unique              |
+
+  Liste des attaques :
+
   | Niveau | Attaque         | Remarque |
   |--------|------------------|----------|
   | 1      | Soin             | -        |
@@ -3264,6 +4823,27 @@ Zones de capture :
   <summary><strong>151 - Mew</strong></summary>
 
   ### Mew
+
+Zones de capture :
+
+<details>
+<summary><strong>Astuce</strong></summary>
+Mew se trouve près du camion, là où vous l'avez toujours cherché !
+</details>
+
+<details>
+<summary><strong>Solution</strong></summary>
+À Carmin-sur-Mer, allez au port une fois que l’Océanne a bien quitté le port et que vous avez battu la Ligue. Parlez au marin qui vous permettra d’accéder au port. Faites Surf vers la droite, passez derrière le camion et poussez-le avec force. Parlez ensuite à Mew : il s’enfuira. Parlez à nouveau au marin à l’entrée du port, qui vous mènera à la grotte de Mew.
+</details>
+
+*Capturable une seule fois, c’est un Pokémon légendaire unique.*
+*Si vous ratez sa capture, c’est terminé : vous ne pourrez plus compléter le Pokédex.*
+
+  | Zone de capture        | Niveau | Chance d'apparition |
+  |------------------------|--------|---------------------|
+  | Île Inconnue           | 80     | Unique              |
+
+  Liste des attaques :
 
   | Niveau | Attaque           | Remarque |
   |--------|--------------------|----------|
