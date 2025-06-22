@@ -124,13 +124,14 @@ https://docs.google.com/spreadsheets/d/1EnUo1twgRT_2shenmQN2t-jB0VB_47CGKzTy9Dzz
 ---
 
 ## Mise à jour / Spoiler
+
 <details>
   <summary> - Voir les informations complètes du projet </summary>
 <details>
-<summary><strong>[Liste des échanges en jeu]</strong></summary>
-- Porygon : Peut etre obtenu en échange de Tortank à l'observatoire de la route 11.
+<summary><strong>[Liste des échanges en jeu]</strong></summary> 
   
-- Porygon : Peut etre obtenu en échange de Excelangue dans la maison près de la Cave Taupiqueur sur la Route 2. 
+- Porygon : Peut etre obtenu en échange de Tortank à l'observatoire de la route 11.
+- M.Mime : Peut etre obtenu en échange de Excelangue dans la maison près de la Cave Taupiqueur sur la Route 2. 
 - Ectoplasma : Peut etre obtenu en échange de Kangourex dans le Laboratoire Pokémon de Cramois'Île. 
 - Leveinard : Peut etre obtenu en échange de Dracaufeu dans la maison près du Fan Club Pokémon à Carmin sur Mer. 
 - Mackogneur : Peut etre obtenu en échange de Flagadoss à l'observatoire de la route 18 vers Parmanie. 
@@ -141,7 +142,9 @@ https://docs.google.com/spreadsheets/d/1EnUo1twgRT_2shenmQN2t-jB0VB_47CGKzTy9Dzz
   
 </details>
 
-### [Détails à propos du jeu]
+<details>
+<summary><strong>[[Détails à propos du jeu]]</strong></summary> 
+
 - L'histoire du jeu est celle d'origine de Pokémon Bleu.,
 - Ceci est une version difficile de Pokémon Bleu basée sur Pokémon TTP.,
 - Vous aurez la possibilité d'incarner une fille ou un garçon au début du jeu.,
@@ -152,6 +155,7 @@ https://docs.google.com/spreadsheets/d/1EnUo1twgRT_2shenmQN2t-jB0VB_47CGKzTy9Dzz
 - Lorsque vous aurez débloqué la deuxième Ligue Pokémon, vous affronterez un dresseur supplémentaire au Conseil des 4 qui est le proffeseur Chen et vous aurez des mentions supplémentaires après les génériques de fin. Vous aurez terminé l'intégralité de cette version.,
 - La deuxième Ligue est très dure avec certains Pokémon qui dépassent le niveau 100, alors préparez-vous...,
 ATTENTION : Lorsque vous aurez déclenché la deuxième Ligue, il n'y aura pas de retour possible vers la première.
+</details>
 
 ### [Modifications Pénalité]
 Oui des pénalités ! C'est une version Hard...
