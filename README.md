@@ -124,7 +124,7 @@ Levels d'évolution de -Kadabra: 60 / -Machopeur : 60 / -Spectrum : 50 / -Graval
 ---
 
 ### "Comment savoir à quel niveau mon pokémon va évoluer ?"
-- À l’exception des Pokémon qui évoluaient par échange (et qui peuvent désormais aussi évoluer en montant de niveau), toutes les autres méthodes d’évolution restent inchangées.
+- À l’exception des Pokémon qui évoluaient par échange (et qui peuvent désormais aussi évoluer en montant de niveau), toutes les autres méthodes d’évolution restent inchangées. 
 Les évolutions par niveau ou par pierre sont les mêmes que dans la version originale.
 
 ---
