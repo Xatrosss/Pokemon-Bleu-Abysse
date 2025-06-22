@@ -2650,7 +2650,7 @@ Zones de capture :
 <details>
 <summary><strong>Astuce</strong></summary>
 Il y a un étage où un dresseur, à côté d’une table avec un livre, vous dira que quelqu’un lui a dit qu’on pouvait trouver un Ponyta ici. C’est que vous êtes au bon endroit.
-Peut etre obtenu en échange de Alakazam dans l'entrée du Souterrain reliant Azuria à Carmin sur Mer côté Route 5.
+ Peut etre obtenu en échange de Alakazam dans l'entrée du Souterrain reliant Azuria à Carmin sur Mer côté Route 5.
 </details>
 
   | Zone de capture    | Niveau | Chance d'apparition |
@@ -3792,7 +3792,7 @@ Zones de capture :
 <details>
 <summary><strong>Astuce</strong></summary>
 Leveinard est le Pokémon le plus rare de la zone Nord du Parc Safari. Un panneau devant la cabane de cette zone indique donc que Leveinard peut y être trouvé.
-Peut etre obtenu en échange de Dracaufeu dans la maison près du Fan Club Pokémon à Carmin sur Mer.
+ Peut etre obtenu en échange de Dracaufeu dans la maison près du Fan Club Pokémon à Carmin sur Mer.
 </details>
 
   | Zone de capture      | Niveau | Chance d'apparition |
@@ -4264,7 +4264,7 @@ Zones de capture :
 <details>
 <summary><strong>Astuce</strong></summary>
 Tauros est le Pokémon le plus rare de la zone Est du Parc Safari. Un panneau devant la cabane de cette zone indique donc que Tauros peut y être trouvé.
-Il peut aussi être acheté au casino contre des jetons si vous n’arrivez pas à le trouver.
+ Il peut aussi être acheté au casino contre des jetons si vous n’arrivez pas à le trouver.
 </details>
 
   | Zone de capture        | Niveau | Chance d'apparition |
@@ -4352,7 +4352,7 @@ Zones de capture :
 <details>
 <summary><strong>Astuce</strong></summary>
 Lokhlass se trouve tout au fond de la grotte, au même étage que Artikodin. Il y a même un panneau qui parle de lui à cet étage. Attention, il n’est pas dans l’eau !
-Il peut aussi être acheté au casino contre des jetons si vous n’arrivez pas à le trouver.
+ Il peut aussi être acheté au casino contre des jetons si vous n’arrivez pas à le trouver.
 </details>
 
   | Zone de capture        | Niveau | Chance d'apparition |
@@ -4412,7 +4412,7 @@ Zones de capture :
 <details>
 <summary><strong>Astuce</strong></summary>
 Évoli est le Pokémon le plus rare de la zone Ouest du Parc Safari. Un panneau devant la cabane de cette zone indique donc que Évoli peut y être trouvé.
-Si vous n’arrivez pas à trouver Évoli, vous pouvez l’acheter pour 500 000 $ auprès d’un vendeur dans la cabane tout au fond de la zone Évoli, dans le Parc Ouest.
+ Si vous n’arrivez pas à trouver Évoli, vous pouvez l’acheter pour 500 000 $ auprès d’un vendeur dans la cabane tout au fond de la zone Évoli, dans le Parc Ouest.
 </details>
 
 Zones de capture :
@@ -4542,7 +4542,7 @@ Zones de capture :
 <details>
 <summary><strong>Astuce</strong></summary>
 Porygon est le Pokémon le plus rare de la zone Sud du Parc Safari. Un panneau devant la cabane de cette zone indique donc que Porygon peut y être trouvé.
-Peut etre obtenu en échange de Tortank à l'observatoire de la route 11
+ Peut etre obtenu en échange de Tortank à l'observatoire de la route 11
 </details>
 
   | Zone de capture         | Niveau | Chance d'apparition |
@@ -4691,7 +4691,7 @@ Zones de capture :
 <details>
 <summary><strong>Astuce</strong></summary>
 Un dresseur de la Team Rocket dit qu’il a vu un Pokémon avec des crocs et des ailes, mais sans plumes ! Il parle bien d’un Ptéra, vous êtes donc au bon étage.
-Peut etre obtenu en échange de Florizarre dans le Laboratoire Pokémon de Cramois'Île.
+ Peut etre obtenu en échange de Florizarre dans le Laboratoire Pokémon de Cramois'Île.
 </details>
 
   | Zone de capture         | Niveau | Chance d'apparition |
