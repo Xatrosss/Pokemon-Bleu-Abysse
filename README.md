@@ -128,16 +128,15 @@ https://docs.google.com/spreadsheets/d/1EnUo1twgRT_2shenmQN2t-jB0VB_47CGKzTy9Dzz
   <summary> - Voir les informations complètes du projet </summary>
 <details>
 <summary><strong>[Liste des échanges en jeu]</strong></summary>
-Porygon : Peut etre obtenu en échange de Tortank à l'observatoire de la route 11.
-Porygon : Peut etre obtenu en échange de Excelangue dans la maison près de la Cave Taupiqueur sur la Route 2.
-unused.
-Ectoplasma : Peut etre obtenu en échange de Kangourex dans le Laboratoire Pokémon de Cramois'Île.
-Leveinard : Peut etre obtenu en échange de Dracaufeu dans la maison près du Fan Club Pokémon à Carmin sur Mer.
-Mackogneur : Peut etre obtenu en échange de Flagadoss à l'observatoire de la route 18 vers Parmanie.
-Tartard : Peut etre obtenu en échange de Lippoutou dans la maison à gauche du Centre Pokémon d'Azuria
-Ptéra : Peut etre obtenu en échange de Florizarre dans le Laboratoire Pokémon de Cramois'Île.
-Grolem : Peut etre obtenu en échange de Élektek dans le Laboratoire Pokémon de Cramois'Île.
-Ponyta : Peut etre obtenu en échange de Alakazam dans l'entrée du Souterrain reliant Azuria à Carmin sur Mer côté Route 5.
+- Porygon : Peut etre obtenu en échange de Tortank à l'observatoire de la route 11.
+- Porygon : Peut etre obtenu en échange de Excelangue dans la maison près de la Cave Taupiqueur sur la Route 2.
+- Ectoplasma : Peut etre obtenu en échange de Kangourex dans le Laboratoire Pokémon de Cramois'Île.
+- Leveinard : Peut etre obtenu en échange de Dracaufeu dans la maison près du Fan Club Pokémon à Carmin sur Mer.
+- Mackogneur : Peut etre obtenu en échange de Flagadoss à l'observatoire de la route 18 vers Parmanie.
+- Tartard : Peut etre obtenu en échange de Lippoutou dans la maison à gauche du Centre Pokémon d'Azuria
+- Ptéra : Peut etre obtenu en échange de Florizarre dans le Laboratoire Pokémon de Cramois'Île.
+- **Grolem** : Peut etre obtenu en échange de Élektek dans le Laboratoire Pokémon de Cramois'Île.
+- **Ponyta** : Peut etre obtenu en échange de Alakazam dans l'entrée du Souterrain reliant Azuria à Carmin sur Mer côté Route 5.
 </details>
 
 ### [Détails à propos du jeu]
