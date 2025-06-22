@@ -205,6 +205,46 @@ Et pour ceux qui aime le tout cuit, voilà comment finir le jeu...
 - Lorsque vous aurez battu la ligue une fois, obtenu les 151 Pokémon pour compléter votre Pokédex, effectué tous les matchs retour contre les 8 versions optimisées des champions d'arène, et gagné face à votre rêve bleu, retournez à Céladopole pour chercher votre diplôme et affronter la version finale du Conseil des 4.
 </details> 
 
+<details>
+<summary><strong>[Liste des attaque ajouter non utilisé]</strong></summary> 
+
+Je ne pense pas que ce soit utile à quelqu'un que je les mettes mais dans le doute les voilà.
+
+| Nom | Titre | Type | Classe | CT | Puis. | Préc. | PP | Effets secondaires | Animation | Anglais | Nom Animation |
+|-----|-------|------|--------|----|--------|-------|----|---------------------|-----------|---------|----------------|
+| VAMPI-POING | DRAIN_PUNCH | COMBAT | Physique |  | 60 | 100 | 10 | Convertit 50% des dégâts infligés à la cible en PV pour le lanceur - Comme Méga-Sangsue | Vampirisme | LEECH_LIFE | dw LeechLifeAnim |
+| EXPLOFORCE | FOCUS_BLAST | COMBAT | Physique |  | 120 | 70 | 5 | 33.2% de chance de baisser la Défense de la cible d'un niveau - comme acide | Ultralaser | HYPER_BEAM | dw HyperBeamAnim |
+| DRACOSOUFFLE | DRAGO_BREATH | DRAGON | Spéciale |  | 60 | 100 | 20 | 30% de chance de paralyser la cible - Comme lechouille | Brouillard | SMOKESCREEN | dw SmokeScreenAnim |
+| DRACO-CHOC | DRAGO_PULSE | DRAGON | Spéciale |  | 85 | 100 | 10 | Aucun | Mawashi Geri | ROLLING_KICK | dw RollingKickAnim |
+| EBULLITION | SCALD | EAU | Spéciale |  | 80 | 100 | 15 | 30% de chance de brûler la cible - Comme Déflagration | Brume | MIST | dw MistAnim |
+| VIBRAQUA | WATER_PULSE | EAU | Spéciale |  | 60 | 100 | 20 | 10% de chance de rendre confus la cible. - Comme Choc Mental | Bulles d'O | BUBBLEBEAM |  |
+| CROCS ECLAIR | BOLT_FANG | ELECTR | Spéciale |  | 65 | 95 | 15 | 10% de chance de paralyser la cible.- Comme cage Fatal foudre | Poing-Éclair | THUNDERPUNCH | dw ThunderPunchAnim |
+| ELEC'TACLE | VOLT_TACKLE | ELECTR | Spéciale |  | 120 | 100 | 15 | Blesse le lanceur - 25% des dégâts infligés à la cible. - Comme Sacrifice | Poing-Éclair | THUNDERPUNCH | dw ThunderPunchAnim |
+| BOUTEFEU | FIRE_BLITZ | FEU | Spéciale |  | 120 | 100 | 15 | Blesse le lanceur - 25% des dégâts infligés à la cible. - Comme Sacrifice | Déflagration | FIRE_BLAST | dw FireBlastAnim |
+| CROCS FEU | FIRE_FANG | FEU | Spéciale |  | 65 | 95 | 15 | 10% de chance de brûler la cible. - Comme Lance-Flamme | Poing de Feu | FIRE_PUNCH | FirePunchAnim |
+| CROCS GIVRE | ICE_FANG | GLACE | Spéciale |  | 65 | 95 | 15 | 10% de chance de geler la cible. - Comme Blizzard | Poing-Glace | ICE_PUNCH | dw IcePunchAnim |
+| CHUTE GLACE | ICICLE_CRASH | GLACE | Spéciale |  | 85 | 90 | 10 | 30% de chance d'apeurer la cible. Comme Ecrasement | Blizzard | BLIZZARD | dw BlizzardAnim |
+| MEGACORNE | MEGAHORN | INSECT | Physique |  | 120 | 85 | 5 | Aucun | Koud'Korne | HORN_ATTACK | dw HornAttackAnim |
+| RAYON SIGNAL | SIGNAL_BEAM | INSECT | Physique |  | 75 | 100 | 15 | 10% de chance de rendre confus la cible. - Comme Choc Mental | Rafale Psy | PSYBEAM | dw PsyBeamAnim |
+| BOURDON | BUG_BUZZ | INSECT | Physique |  | 90 | 100 | 10 | 33.2% de chance de baisser la Défense de la cible d'un niveau - Comme Acide | Vague Psy | PSYWAVE | dw PsywaveAnim |
+| ECLATEGRIFFE | CRUSH_CLAW | NORMAL | Physique |  | 85 | 95 | 10 | 33.2% de chance de baisser la Défense de la cible d'un niveau - Comme Acide | Combo-Griffe | FURY_SWIPES | dw FurySwipesAnim |
+| GIGA-SANGSUE | GIGA_DRAIN | PLANTE | Spéciale |  | 60 | 100 | 10 | Convertit 50% des dégâts infligés à la cible en PV pour le lanceur - Comme Méga-Sangsue | Méga-Sangsue | MEGA_DRAIN | dw MegaDrainAnim |
+| MEGAFOUET | POWER_WHIP | PLANTE | Spéciale |  | 120 | 85 | 10 | Aucun | Fouet Lianes | VINE_WHIP | dw VineWhipAnim |
+| CRADOVAGUE | SLUDGE_WAVE | POISON | Physique |  | 95 | 100 | 10 | 20% de chance d'empoisonner la cible - Comme dard venin | Toxik | TOXIC | dw ToxicAnim |
+| DETRICANON | GUNK_SHOT | POISON | Physique |  | 120 | 80 | 5 | 40% de chance d'empoisonner la cible - Comme détritus | Détritus | SLUDGE | dw SludgeAnim |
+| DISTORSION | SPACE_HOLE | PSY | Spéciale |  | 80 | - | 10 | N'échoue jamais - Comme météore | Ténèbres | NIGHT_SHADE | dw NightShadeAnim |
+| BOULE ROC | ROCK_BLAST | ROCHE | Physique |  | 25 | 90 | 10 | Attaque deux à cinq fois - Comme Pilonnage | Jet-Pierres | ROCK_THROW | dw RockThrowAnim |
+| FRACASS'TETE | HEAD_SMASH | ROCHE | Physique |  | 150 | 80 | 5 | Blesse le lanceur - 25% des dégâts infligés à la cible. - Comme Sacrifice | Bélier | TAKE_DOWN | dw TakeDownAnim |
+| TELLURIFORCE | EARTH_POWER | SOL | Physique |  | 90 | 100 | 10 | 33.2% de chance de baisser la Défense de la cible d'un niveau - Comme Acide | Abîme | FISSURE | dw FissureAnim |
+| LAME PANGEE | PRECIP_BLADE | SOL | Physique |  | 120 | 80 | 5 | Aucun | Guillotine | GUILLOTINE | dw GuillotineAnim |
+| BALL'OMBRE | SHADOW_BALL | SPECTR | Spéciale |  | 80 | 100 | 15 | 33.2% de chance de baisser le Spécial de la cible d'un niveau - Comme Psyko | Bomb'Œuf | EGG_BOMB | dw EggBombAnim |
+| FLAM-FUNEBRE | INFERNA_FIRE | SPECTR | Spéciale |  | 60 | 100 | 15 | 30% de chance de brûler la cible - Comme Déflagration | Dévorêve | DREAM_EATER | dw DreamEaterAnim |
+| ATTERRISSAGE | ROOST | VOL | Physique |  | - | 100 | 10 | Le lanceur récupère 50% de ses PV max - Comme Soin | Danse-Fleur | PETAL_DANCE | dw PedalDanceAnim |
+| VENT VIOLENT | HURRICANE | VOL | Physique |  | 120 | 70 | 5 | 10% de chance de rendre confus la cible. - Comme Choc Mental | Sonicboom | SONICBOOM | dw SonicBoomAnim |
+| AEROBLAST | AEROBLAST | VOL | Physique |  | 90 | 95 | 5 | 30% de chance d'apeurer la cible. Comme Ecrasement | Onde Boréale | AURORA_BEAM | dw AuroraBeamAnim |
+
+</details> 
+
 --- 
 
 </details>
