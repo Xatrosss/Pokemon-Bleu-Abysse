@@ -438,7 +438,7 @@ ATTENTION : Lorsque vous aurez déclenché la deuxième Ligue, il n'y aura pas d
 ATTENTION : Lors de la deuxième fin, le jeu se bloque à la fin des crédits d'auteur, mais une sauvegarde est effectuée. Il vous suffit de relancer simplement votre jeu puis de sélectionner l'option "Continuer".
 
 
-Solution pour déclenché la deuxième :
+#### Solution pour déclenché la deuxième :
 
 Lorsque vous aurez battu la ligue une fois, obtenu les 151 Pokémon pour compléter votre Pokédex, effectué tous les matchs retour contre les 8 versions optimisées des champions d'arène, et gagné face à votre rêve bleu, retournez à Céladopole pour chercher votre diplôme et affronter la version finale du Conseil des 4.
 
