@@ -368,12 +368,9 @@ Correction des LVL de certains dresseur de la zone du chenal 19 a 21 qui n'étai
  <summary> - ChangeLog </summary>
 
 - Remplacement du Vélo par un Skateboard
-- Possibilité de jouer un garçon ou une fille
 - L'histoire du jeu est celle d'origine de Pokémon Bleu.
-
 - Glitch du vieil homme (Old Man glitch) de la rive droite corrigé
 - Possibilité de Sprint avec la touche B pour se déplacé plus vite.
-
 - Ceci est une version difficile de Pokémon Bleu basée sur Pokémon TTP.
 - Vous aurez la possibilité d'incarner une fille ou un garçon au début du jeu.
 - Suppression du PNJ qui vent le Magicarpe dans le centre pokémon du mont Célénite.
@@ -382,25 +379,20 @@ Correction des LVL de certains dresseur de la zone du chenal 19 a 21 qui n'étai
 - Déblocage de l'apprentissage de certaine attaques qui était autorisé dans pokémon jaune (16 Pokémon modifier - ex: Dracaufeu peut apprendre Vol)
 - sur version original le Prof Chen donne 5 pokéball au début du jeu ici il donne une capsule Evo+
 - Des modifications et ajouts d'attaques ont été effectués sur tous les Pokémon du jeu, afin d'ajouter des attaques après le niveau 50 et mieux correspondre à cette version, tout en gardant au maximum les attaques de base des Pokémon.
-
 - La Ligue Pokémon est considérablement renforcée : les Pokémon sont autour du niveau 90+ dès la première rencontre.
 - Ajout de la mécanique qui permet de lancé une attaque quand le pokemon est endormis pour son réveil comme dans la 2G.
 - Ajout d'un PNJ qui permet de modifier les stats d'un pokémon de sont équipe pour lui donné un DV parfait en échange d'un objet.
 - Les graphismes des Pokémon les moins pertinents de la version Bleu ont été remplacés par des graphismes d'une version différente.
 - Plusieurs maps légèrement retouchées (ajouts d’accès au niveau de parmanie, Grotte de mewtwo changer pour celle de la version japonaise verte et grotte pour mew ajouter).
-
 - Les 151 Pokémon sont disponibles, certains sont très rares, il vous faudra du temps de recherche mais vous pourrez compléter la totalité du Pokédex sans aucun échange.
-
 - Il n'y a pas d'objet plus fort que les Pokéball disponibles dans les boutiques.
 - Les champions d'arènes utilisent des potions de Guérison pour soigner leurs Pokémon.
 - La repousse est retirée, aucun moyen d'éviter les combats aléatoires dans les hautes herbes.
-
 - Une Pokéball est dessinée a coté du Pokémon sauvage si vous l'avez déjà.
 - Les jetons s'achètent par 500 au lieu de par 50, le prix est adapté en conséquence bien sûr.
 - Si vous avez trop d'argent, les Rappel Max, Superbonbon et Master Ball peuvent être échangés contre des jetons.
 - Des pépites peuvent s'acheter au shop du Plateau Indigo pour stocker votre argent si vous en avez trop (revendu à moitié prix).
 - Plus besoin de remplir son inventaire avec les CT. Ajout d'un étage sous sol (ascenseur) au magasin de la Céladopole pour l'achat de toutes les CT du jeu.
-
 - Les textes ne sont plus écrits en majuscule.
 - Une zone "Tente de Combat" se trouve à la Céladopole pour avoir accès à des combats renouvelables à l'infini face à des PNJ.
 - Vous devrez capturer les 151 Pokémon pour obtenir le diplôme à la Céladopole.
