@@ -421,17 +421,25 @@ Modification du comportement des attaques de changement d'état :
 - Si votre pokémon n'a pas d'état modifier. Les attaques comme l'endormissement ou paralysie ont désormais 1 chance sur 3 d’être choisies par l’IA, afin de limiter leur abus.
 
 Révision de la logique pour les attaques de dégâts :
+
 -L'IA ne lancera jamais une attaque non efficace s'il à autre chose à disposition (ex flameche sur carapuce)
+
 -Les dresseurs ont 1 chance sur 3 de lancer une attaque différente de l'attaque la plus puissante qu'ils ont a disposition contre votre pokémon, tant qu’elle n’est pas inefficace (sauf si c’est la seule disponible).
+
 -Ces choix aléatoires sont totalement indépendants : un dresseur peut changer d’attaque à chaque tour, ou lancer la même plusieurs fois de suite.
+
 -L’objectif est de rendre le comportement des dresseurs plus humain et de diversifier un peu plus les combats pour évité qu'il spam l'attaque la plus forte et rendre le jeu répétitif.
+
 
 ---------------------------------------------------------------------
 
 ATTENTION : Lorsque vous aurez déclenché la deuxième Ligue, il n'y aura pas de retour possible vers la première.
+
 ATTENTION : Lors de la deuxième fin, le jeu se bloque à la fin des crédits d'auteur, mais une sauvegarde est effectuée. Il vous suffit de relancer simplement votre jeu puis de sélectionner l'option "Continuer".
 
+
 Solution pour déclenché la deuxième :
+
 Lorsque vous aurez battu la ligue une fois, obtenu les 151 Pokémon pour compléter votre Pokédex, effectué tous les matchs retour contre les 8 versions optimisées des champions d'arène, et gagné face à votre rêve bleu, retournez à Céladopole pour chercher votre diplôme et affronter la version finale du Conseil des 4.
 
 </details>
