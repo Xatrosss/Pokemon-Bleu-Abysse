@@ -422,13 +422,13 @@ Modification du comportement des attaques de changement d'état :
 
 Révision de la logique pour les attaques de dégâts :
 
--L'IA ne lancera jamais une attaque non efficace s'il à autre chose à disposition (ex flameche sur carapuce)
+- L'IA ne lancera jamais une attaque non efficace s'il à autre chose à disposition (ex flameche sur carapuce)
 
--Les dresseurs ont 1 chance sur 3 de lancer une attaque différente de l'attaque la plus puissante qu'ils ont a disposition contre votre pokémon, tant qu’elle n’est pas inefficace (sauf si c’est la seule disponible).
+- Les dresseurs ont 1 chance sur 3 de lancer une attaque différente de l'attaque la plus puissante qu'ils ont a disposition contre votre pokémon, tant qu’elle n’est pas inefficace (sauf si c’est la seule disponible).
 
--Ces choix aléatoires sont totalement indépendants : un dresseur peut changer d’attaque à chaque tour, ou lancer la même plusieurs fois de suite.
+- Ces choix aléatoires sont totalement indépendants : un dresseur peut changer d’attaque à chaque tour, ou lancer la même plusieurs fois de suite.
 
--L’objectif est de rendre le comportement des dresseurs plus humain et de diversifier un peu plus les combats pour évité qu'il spam l'attaque la plus forte et rendre le jeu répétitif.
+- L’objectif est de rendre le comportement des dresseurs plus humain et de diversifier un peu plus les combats pour évité qu'il spam l'attaque la plus forte et rendre le jeu répétitif.
 
 
 ---------------------------------------------------------------------
