@@ -362,8 +362,6 @@ Correction des LVL de certains dresseur de la zone du chenal 19 a 21 qui n'étai
 
 </details>
 
---- 
-
 </details>
 
 <details>
@@ -438,6 +436,7 @@ Lorsque vous aurez battu la ligue une fois, obtenu les 151 Pokémon pour complé
 
 </details>
 
+--- 
 
 ## 📷 Screenshots
 
