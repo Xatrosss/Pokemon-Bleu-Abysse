@@ -140,6 +140,79 @@ Non, pas spécialement, il y a très peu d'actions qui sont définitives. En voi
   <summary> - Voir les informations complètes du projet </summary>
 
   --- 
+
+<details> 
+ 
+<summary><strong>[ChangeLog]</strong></summary> 
+  
+- Remplacement du Vélo par un Skateboard
+- Possibilité de jouer un garçon ou une fille
+- L'histoire du jeu est celle d'origine de Pokémon Bleu.
+
+- Glitch du vieil homme (Old Man glitch) de la rive droite corrigé
+- Possibilité de Sprint avec la touche B pour se déplacé plus vite.
+
+- Ceci est une version difficile de Pokémon Bleu basée sur Pokémon TTP.
+- Vous aurez la possibilité d'incarner une fille ou un garçon au début du jeu.
+- Suppression du PNJ qui vent le Magicarpe dans le centre pokémon du mont Célénite.
+- Ajout d'un PNJ dans le parc safari qui vend Evoli contre de l'argent (beaucoup d'argent)
+- Retrais des texte inutile de Joëlle qui parle beaucoup trop pour faire le soin de l'équipe.
+- Déblocage de l'apprentissage de certaine attaques qui était autorisé dans pokémon jaune (16 Pokémon modifier - ex: Dracaufeu peut apprendre Vol)
+- sur version original le Prof Chen donne 5 pokéball au début du jeu ici il donne une capsule Evo+
+- Des modifications et ajouts d'attaques ont été effectués sur tous les Pokémon du jeu, afin d'ajouter des attaques après le niveau 50 et mieux correspondre à cette version, tout en gardant au maximum les attaques de base des Pokémon.
+
+- La Ligue Pokémon est considérablement renforcée : les Pokémon sont autour du niveau 90+ dès la première rencontre.
+- Ajout de la mécanique qui permet de lancé une attaque quand le pokemon est endormis pour son réveil comme dans la 2G.
+- Ajout d'un PNJ qui permet de modifier les stats d'un pokémon de sont équipe pour lui donné un DV parfait en échange d'un objet.
+- Les graphismes des Pokémon les moins pertinents de la version Bleu ont été remplacés par des graphismes d'une version différente.
+- Plusieurs maps légèrement retouchées (ajouts d’accès au niveau de parmanie, Grotte de mewtwo changer pour celle de la version japonaise verte et grotte pour mew ajouter).
+
+- Les 151 Pokémon sont disponibles, certains sont très rares, il vous faudra du temps de recherche mais vous pourrez compléter la totalité du Pokédex sans aucun échange.
+
+- Il n'y a pas d'objet plus fort que les Pokéball disponibles dans les boutiques.
+- Les champions d'arènes utilisent des potions de Guérison pour soigner leurs Pokémon.
+- La repousse est retirée, aucun moyen d'éviter les combats aléatoires dans les hautes herbes.
+
+- Une Pokéball est dessinée a coté du Pokémon sauvage si vous l'avez déjà.
+- Les jetons s'achètent par 500 au lieu de par 50, le prix est adapté en conséquence bien sûr.
+- Si vous avez trop d'argent, les Rappel Max, Superbonbon et Master Ball peuvent être échangés contre des jetons.
+- Des pépites peuvent s'acheter au shop du Plateau Indigo pour stocker votre argent si vous en avez trop (revendu à moitié prix).
+- Plus besoin de remplir son inventaire avec les CT. Ajout d'un étage sous sol (ascenseur) au magasin de la Céladopole pour l'achat de toutes les CT du jeu.
+
+- Les textes ne sont plus écrits en majuscule.
+- Une zone "Tente de Combat" se trouve à la Céladopole pour avoir accès à des combats renouvelables à l'infini face à des PNJ.
+- Vous devrez capturer les 151 Pokémon pour obtenir le diplôme à la Céladopole.
+- Levels d'évolution de -Kadabra: 60 / -Machopeur : 60 / -Spectrum : 50 / -Gravalanch : 50
+- Cette version est conçue pour que vous croisiez tous les Pokémon du jeu si vous combattez tous les dresseurs sur votre chemin.
+- Après avoir battu la Ligue, vous aurez accès au Match Retour contre une équipe de Pokémon optimisée des champions de chaque arène.
+- Comme dans vos rêves, Mew se trouve sous le camion à Carmin-sur-Mer en le déplaçant avec le CS Force. Dans cette version, une nouvelle grotte a été ajoutée pour le capturer.
+- Un rêve bleu vous attend lorsque vous irez dormir dans votre maison au Bourg Palette. Vous devrez parler à votre lit pour déclencher l'événement une fois que vous aurez vaincu la Ligue.
+- Lorsque vous aurez débloqué la deuxième Ligue Pokémon, vous affronterez un dresseur supplémentaire au Conseil des 4 et vous aurez des mentions supplémentaires après les génériques de fin. Vous aurez terminé l'intégralité de cette version.
+- La deuxième Ligue est très dure avec certains Pokémon qui dépassent le niveau 100, alors préparez-vous...
+
+------------------------------------------------
+
+- IA des dresseurs améliorée, il a été modifiée pour ne plus utiliser d'attaques inutiles ou inefficaces. Certain utilise des guérison.
+
+Modification du comportement des attaques de changement d'état :
+- Les attaque comme Rugissement, Gros yeux ou armure ne seront jamais choisi par l'IA s'il à autre chose à disposition.
+- Si votre pokémon n'a pas d'état modifier. Les attaques comme l'endormissement ou paralysie ont désormais 1 chance sur 3 d’être choisies par l’IA, afin de limiter leur abus.
+
+Révision de la logique pour les attaques de dégâts :
+-L'IA ne lancera jamais une attaque non efficace s'il à autre chose à disposition (ex flameche sur carapuce)
+-Les dresseurs ont 1 chance sur 3 de lancer une attaque différente de l'attaque la plus puissante qu'ils ont a disposition contre votre pokémon, tant qu’elle n’est pas inefficace (sauf si c’est la seule disponible).
+-Ces choix aléatoires sont totalement indépendants : un dresseur peut changer d’attaque à chaque tour, ou lancer la même plusieurs fois de suite.
+-L’objectif est de rendre le comportement des dresseurs plus humain et de diversifier un peu plus les combats pour évité qu'il spam l'attaque la plus forte et rendre le jeu répétitif.
+
+---------------------------------------------------------------------
+
+ATTENTION : Lorsque vous aurez déclenché la deuxième Ligue, il n'y aura pas de retour possible vers la première.
+ATTENTION : Lors de la deuxième fin, le jeu se bloque à la fin des crédits d'auteur, mais une sauvegarde est effectuée. Il vous suffit de relancer simplement votre jeu puis de sélectionner l'option "Continuer".
+
+Solution pour déclenché la deuxième :
+Lorsque vous aurez battu la ligue une fois, obtenu les 151 Pokémon pour compléter votre Pokédex, effectué tous les matchs retour contre les 8 versions optimisées des champions d'arène, et gagné face à votre rêve bleu, retournez à Céladopole pour chercher votre diplôme et affronter la version finale du Conseil des 4.
+  
+</details>
   
 <details> 
  
