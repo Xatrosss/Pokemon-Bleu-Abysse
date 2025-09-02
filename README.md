@@ -364,8 +364,9 @@ Correction des LVL de certains dresseur de la zone du chenal 19 a 21 qui n'étai
 
 </details>
 
-<details>
- <summary> - ChangeLog </summary>
+------------------------------------------------
+
+## Liste de toutes les modifications
 
 - Remplacement du Vélo par un Skateboard
 - L'histoire du jeu est celle d'origine de Pokémon Bleu.
