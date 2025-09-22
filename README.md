@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="kz29NRK6UKuUeke6aQR6h2nNj8HkkIL93_jAL9t9Xb0" />
+
 # Pokémon : Bleu Abysse
 
 Bienvenue dans le monde de **Pokémon : Bleu Abysse**, une aventure exigeante et fidèle à l’esprit de la 1ère génération ! Ce projet est un **ROM hack** complet basé sur **Pokémon TTP (Twitch Plays Pokémon - Red 10th Anniversary)**, avec pour objectif de proposer une version **entièrement en français**, **fidèle à l’histoire originale**, tout en ajoutant du **contenu, des défis et des améliorations modernes**.
