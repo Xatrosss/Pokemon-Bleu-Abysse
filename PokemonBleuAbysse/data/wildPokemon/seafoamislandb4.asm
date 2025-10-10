@@ -1,0 +1,14 @@
+IslandMonsB4:
+	db $08
+	db 54, STARMIE
+	db 55, SEAKING
+	db 54, DEWGONG
+	db 52, GOLBAT
+	db 54, GOLDUCK
+	db 55, GYARADOS
+	db 56, SEADRA
+	db 56, TENTACRUEL
+	db 57, POLIWRATH
+	db 50, LAPRAS
+	db $00
+

@@ -1,0 +1,14 @@
+CaveMons:
+	db $14
+	db 20, DIGLETT
+	db 21, DIGLETT
+	db 22, DIGLETT
+	db 23, DIGLETT
+	db 24, DIGLETT
+	db 25, DIGLETT
+	db 26, DIGLETT
+	db 28, DIGLETT
+	db 33, DUGTRIO
+	db 35, DUGTRIO
+	db $00
+

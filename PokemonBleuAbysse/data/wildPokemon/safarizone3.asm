@@ -1,0 +1,14 @@
+ZoneMons3:
+	db $0f
+	db 30, DITTO
+	db 30, FARFETCH_D
+	db 30, GEODUDE
+	db 30, PSYDUCK
+	db 30, KRABBY
+	db 30, GOLDEEN
+	db 30, EXEGGCUTE
+	db 30, SNORLAX
+	db 30, KANGASKHAN
+	db 30, EEVEE
+	db $00
+

@@ -1,0 +1,14 @@
+Route3Mons:
+	db $19
+	db 10, DODUO
+	db 12, PIDGEY
+	db 14, SPEAROW
+	db 15, JIGGLYPUFF
+	db 15, CLEFAIRY
+	db 16, RATTATA
+	db 16, NIDORAN_F
+	db 16, NIDORAN_M
+	db 14, MANKEY
+	db 15, POLIWAG
+	db $00
+

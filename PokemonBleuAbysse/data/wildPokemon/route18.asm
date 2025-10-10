@@ -1,0 +1,14 @@
+Route18Mons:
+	db $0f
+	db 48, FARFETCH_D
+	db 49, RATICATE
+	db 50, FEAROW
+	db 52, VENOMOTH
+	db 53, DODRIO
+	db 54, PIDGEOT
+	db 56, SNORLAX
+	db 56, MACHOKE
+	db 56, KANGASKHAN
+	db 55, MAROWAK
+	db $00
+

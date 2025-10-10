@@ -1,0 +1,14 @@
+Route9Mons:
+	db $0f
+	db 21, SHELLDER
+	db 22, HORSEA
+	db 23, RATICATE
+	db 24, PIDGEOTTO
+	db 25, FEAROW
+	db 26, ARBOK
+	db 26, NIDORINA
+	db 26, NIDORINO
+	db 24, MAGIKARP
+	db 24, STARYU
+	db $00
+

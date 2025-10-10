@@ -1,0 +1,14 @@
+IslandMonsB3:
+	db $0a
+	db 54, STARMIE
+	db 55, SEAKING
+	db 53, POLIWHIRL
+	db 52, PARASECT
+	db 54, GOLDUCK
+	db 55, GYARADOS
+	db 54, DEWGONG
+	db 56, SEADRA
+	db 56, TENTACRUEL
+	db 50, JYNX
+	db $00
+

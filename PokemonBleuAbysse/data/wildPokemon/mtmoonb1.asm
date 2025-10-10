@@ -1,0 +1,14 @@
+MoonMonsB1:
+	db $0a
+	db 17, PARAS
+	db 18, GEODUDE
+	db 19, ZUBAT
+	db 17, MACHOP
+	db 18, SANDSHREW
+	db 19, MANKEY
+	db 16, JIGGLYPUFF
+	db 16, CLEFAIRY
+	db 18, ONIX
+	db 10, OMANYTE
+	db $00
+

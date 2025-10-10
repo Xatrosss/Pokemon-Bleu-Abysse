@@ -1,0 +1,19 @@
+PrizeMonLevelDictionary: ; 5298a (14:698a)
+IF DEF(_RED)
+	db ABRA,9
+	db LAPRAS,18
+	db TAUROS,25
+
+	db VAPOREON,30
+	db JOLTEON,30
+	db FLAREON,30
+ENDC
+IF DEF(_BLUE)
+	db ABRA,9
+	db LAPRAS,18
+	db TAUROS,25
+
+	db VAPOREON,30
+	db JOLTEON,30
+	db FLAREON,30
+ENDC

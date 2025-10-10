@@ -1,0 +1,14 @@
+Route2Mons:
+	db $19
+	db 9,  RATTATA
+	db 10, PIDGEY
+	db 10, NIDORAN_F
+	db 11, ODDISH
+	db 11, BELLSPROUT
+	db 12, NIDORAN_M
+	db 12, GROWLITHE
+	db 12, VULPIX
+	db 13, EKANS
+	db 13, DODUO
+	db $00
+

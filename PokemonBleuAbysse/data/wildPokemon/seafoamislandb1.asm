@@ -1,0 +1,14 @@
+IslandMonsB1:
+	db $0a
+	db 54, KINGLER
+	db 55, CLOYSTER
+	db 53, SLOWBRO
+	db 52, PARASECT
+	db 54, GOLDUCK
+	db 55, GYARADOS
+	db 54, DEWGONG
+	db 56, SEADRA
+	db 56, TENTACRUEL
+	db 60, GOLDUCK
+	db $00
+

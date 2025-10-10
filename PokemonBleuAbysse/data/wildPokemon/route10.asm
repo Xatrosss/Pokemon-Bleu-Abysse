@@ -1,0 +1,14 @@
+Route10Mons:
+	db $0f
+	db 23, KRABBY
+	db 26, SLOWPOKE
+	db 23, RATICATE
+	db 24, PIDGEOTTO
+	db 25, FEAROW
+	db 26, PERSIAN
+	db 24, VOLTORB
+	db 24, MAGNEMITE
+	db 22, SEEL
+	db 22, GOLDEEN
+	db $00
+

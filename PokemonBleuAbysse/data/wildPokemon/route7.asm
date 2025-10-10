@@ -1,0 +1,14 @@
+Route7Mons:
+	db $0f
+	db 27, VULPIX
+	db 27, GROWLITHE
+	db 27, DODUO
+	db 32, PIDGEOTTO
+	db 33, ARBOK
+	db 33, PERSIAN
+	db 34, GLOOM
+	db 34, WEEPINBELL
+	db 31, KOFFING
+	db 35, NINETALES
+	db $00
+

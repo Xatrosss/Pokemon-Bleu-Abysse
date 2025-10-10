@@ -1,0 +1,13 @@
+DungeonMonsB1:
+	db $0f
+	db 78, PIDGEOT
+	db 79, EXEGGUTOR
+	db 80, PERSIAN
+	db 81, PINSIR
+	db 82, RATICATE
+	db 83, NINETALES
+	db 84, POLIWRATH
+	db 85, VENOMOTH
+	db 86, GENGAR
+	db 87, PORYGON
+	db $00

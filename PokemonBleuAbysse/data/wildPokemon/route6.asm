@@ -1,0 +1,14 @@
+Route6Mons:
+	db $0f
+	db 21, MEOWTH
+	db 21, EKANS
+	db 20, MANKEY
+	db 22, ODDISH
+	db 22, BELLSPROUT
+	db 23, MEOWTH
+	db 24, RATICATE
+	db 24, ARBOK
+	db 23, DROWZEE
+	db 17, MAGNEMITE
+	db $00
+

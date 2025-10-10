@@ -1,0 +1,13 @@
+LastIslandMons:
+	db $0a
+	db 87, GOLEM
+	db 86, RAPIDASH
+	db 88, MACHAMP
+	db 85, VICTREEBEL
+	db 85, VILEPLUME
+	db 88, HYPNO
+	db 87, POLIWRATH
+	db 89, GENGAR
+	db 89, RHYDON
+	db 90, DITTO
+	db $00

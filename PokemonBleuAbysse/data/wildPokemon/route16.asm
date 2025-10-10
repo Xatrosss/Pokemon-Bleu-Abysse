@@ -1,0 +1,14 @@
+Route16Mons:
+	db $0f
+	db 29, DODUO
+	db 31, RATICATE
+	db 37, FARFETCH_D
+	db 36, PIDGEOTTO
+	db 35, FEAROW
+	db 37, GRIMER
+	db 36, KOFFING
+	db 40, VENOMOTH
+	db 38, TANGELA
+	db 35, LICKITUNG
+	db $00
+

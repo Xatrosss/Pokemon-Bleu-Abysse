@@ -1,0 +1,14 @@
+Route11Mons:
+	db $0f
+	db 21, DROWZEE
+	db 21, MEOWTH
+	db 20, EKANS
+	db 22, DROWZEE
+	db 22, EXEGGCUTE
+	db 24, DROWZEE
+	db 25, RATICATE
+	db 25, PIDGEOTTO
+	db 26, HYPNO
+	db 17, VOLTORB
+	db $00
+

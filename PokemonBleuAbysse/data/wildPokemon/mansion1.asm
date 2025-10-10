@@ -1,0 +1,14 @@
+MansionMons1:
+	db $10
+	db 60, WEEZING
+	db 59, MUK
+	db 61, MAGMAR
+	db 62, ARCANINE
+	db 63, RAPIDASH
+	db 64, NINETALES
+	db 65, MAGMAR
+	db 66, ARCANINE
+	db 60, MAGMAR
+	db 57, GROWLITHE
+	db $00
+

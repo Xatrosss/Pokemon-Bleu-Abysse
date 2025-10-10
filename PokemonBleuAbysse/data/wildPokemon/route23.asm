@@ -1,0 +1,14 @@
+Route23Mons:
+	db $0a
+	db 76, PIDGEOT
+	db 77, PRIMEAPE
+	db 77, PERSIAN
+	db 78, FEAROW
+	db 78, ARBOK
+	db 78, SANDSLASH
+	db 80, EXEGGUTOR
+	db 80, ONIX
+	db 82, SNORLAX
+	db 82, DITTO
+	db $00
+

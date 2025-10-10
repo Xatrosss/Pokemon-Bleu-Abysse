@@ -1,0 +1,14 @@
+Route12Mons:
+	db $0f
+	db 40, FARFETCH_D
+	db 34, PIDGEOTTO
+	db 42, GLOOM
+	db 42, WEEPINBELL
+	db 44, FEAROW
+	db 45, GOLDUCK
+	db 45, SHELLDER
+	db 47, SEEL
+	db 48, DITTO
+	db 49, PIDGEOT
+	db $00
+

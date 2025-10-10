@@ -1,0 +1,14 @@
+PowerPlantMons:
+	db $10
+	db 89, ELECTRODE
+	db 88, MAGNETON
+	db 84, RAICHU
+	db 86, ELECTRODE
+	db 83, ELECTRODE
+	db 85, MAGNETON
+	db 87, RAICHU
+	db 89, MAGNETON
+	db 80, PIKACHU
+	db 83, ELECTABUZZ
+	db $00
+

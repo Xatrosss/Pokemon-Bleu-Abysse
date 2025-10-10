@@ -1,0 +1,14 @@
+Route13Mons:
+	db $08
+	db 40, FEAROW
+	db 42, GLOOM
+	db 42, WEEPINBELL
+	db 44, FARFETCH_D
+	db 46, NIDORINO
+	db 46, NIDORINA
+	db 47, DODRIO
+	db 48, PIDGEOT
+	db 49, DITTO
+	db 5,  BULBASAUR
+	db $00
+

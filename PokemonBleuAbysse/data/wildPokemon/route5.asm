@@ -1,0 +1,14 @@
+Route5Mons:
+	db $08
+	db 17, PIDGEY
+	db 17, SPEAROW
+	db 18, MEOWTH
+	db 18, MANKEY
+	db 19, ODDISH
+	db 19, BELLSPROUT
+	db 20, PIDGEOTTO
+	db 20, FARFETCH_D
+	db 10, ABRA
+	db 5,  SQUIRTLE
+	db $00
+

@@ -1,0 +1,14 @@
+ZoneMons2:
+	db $0f
+	db 30, MACHOP
+	db 30, MANKEY
+	db 30, DIGLETT
+	db 30, SHELLDER
+	db 30, SLOWPOKE
+	db 30, MAGIKARP
+	db 30, MAGNEMITE
+	db 30, PINSIR
+	db 30, HITMONCHAN
+	db 30, CHANSEY
+	db $00
+

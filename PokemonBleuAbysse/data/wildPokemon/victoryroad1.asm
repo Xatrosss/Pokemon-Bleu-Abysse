@@ -1,0 +1,14 @@
+PlateauMons1:
+	db $0f
+	db 80, GOLBAT
+	db 78, PARASECT
+	db 78, ONIX
+	db 79, PRIMEAPE
+	db 79, SANDSLASH
+	db 80, RHYDON
+	db 81, GOLEM
+	db 81, MACHAMP
+	db 82, HITMONLEE
+	db 84, NIDOQUEEN
+	db $00
+

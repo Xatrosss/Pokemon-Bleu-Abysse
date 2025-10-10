@@ -1,0 +1,25 @@
+WaterMons:
+	db $05 ; Old Man glitch prevention
+	db 20,GOLDEEN
+	db 20,PSYDUCK
+	db 20,SEEL
+	db 20,SHELLDER
+	db 20,HORSEA
+	db 15,MAGIKARP
+	db 15,KRABBY
+	db 15,STARYU
+	db 15,TENTACOOL
+	db 30,TENTACRUEL
+
+	db $05
+	db 20,GOLDEEN
+	db 20,PSYDUCK
+	db 20,SEEL
+	db 20,SHELLDER
+	db 20,HORSEA
+	db 15,MAGIKARP
+	db 15,KRABBY
+	db 15,STARYU
+	db 15,TENTACOOL
+	db 30,TENTACRUEL
+

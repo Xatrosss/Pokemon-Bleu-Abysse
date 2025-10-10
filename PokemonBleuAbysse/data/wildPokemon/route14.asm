@@ -1,0 +1,14 @@
+Route14Mons:
+	db $0f
+	db 42, DITTO
+	db 44, VILEPLUME
+	db 44, VICTREEBEL
+	db 45, FARFETCH_D
+	db 46, NIDORINA
+	db 46, NIDORINO
+	db 47, DITTO
+	db 48, VENOMOTH
+	db 50, PIDGEOT
+	db 52, NIDOKING
+	db $00
+
